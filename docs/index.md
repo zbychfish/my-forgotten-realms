@@ -1,6 +1,4 @@
 # "_**Moje Zapomniane Krainy**_"
-
-# Moje Zapomniane Krainy
  
 Pierwszy raz zagrałem w Baldur's Gate mniej więcej po trzydziestce. Do dziś pamiętam nieprzespane noce i próby bezpiecznego dojechania do pracy po  kolejnych przygodach na Wybrzeżu Mieczy. Później przyszła kolej na Icewind Dale i Neverwinter Nights, ale życie nabrało tempa i na wiele lat praktycznie przestałem grać, a jeśli już wracałem do komputerowych światów, to zwykle tylko na kilka tygodni spędzonych po nocach przy Diablo lub innych hack'n'slashach.
 
