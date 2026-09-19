@@ -2,16 +2,18 @@ site_name: My Forgotten Realms
 site_description: The Ultimate EET
 
 theme:
-    name: material
-    palette:
-      scheme: slate
-      primary: deep purple
-      accent: amber
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: amber
+
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+
 nav:
   - Home: index.md
   - Informacje:
