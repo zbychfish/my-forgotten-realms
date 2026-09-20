@@ -4,7 +4,8 @@ document$.subscribe(function () {
 
         if (!table.classList.contains("dataTable")) {
             new DataTable(table, {
-                order: []
+                order: [],
+                pageLength: 25
             });
         }
 
