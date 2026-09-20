@@ -13,6 +13,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  - tables
 
 extra_javascript:
   - https://code.jquery.com/jquery-3.7.1.min.js
