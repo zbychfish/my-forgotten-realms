@@ -21,6 +21,7 @@ extra_javascript:
 
 extra_css:
   - https://cdn.datatables.net/2.3.4/css/dataTables.dataTables.min.css
+  - css/extra.css
 
 nav:
   - Home: index.md

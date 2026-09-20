@@ -1,0 +1,45 @@
+/* ===== DataTables - dopasowanie do Material ===== */
+
+/* Cała kontrolka */
+div.dt-container {
+    font-size: 0.70rem;
+}
+
+/* Nagłówki */
+table.dataTable thead th {
+    font-size: 0.7rem;
+    font-weight: 700;
+}
+
+/* Dane */
+table.dataTable tbody td {
+    font-size: 0.7rem;
+}
+
+/* Pole wyszukiwania */
+div.dt-container .dt-search input {
+    background-color: #1e2233;
+    color: white;
+    border: 1px solid #444;
+    border-radius: 6px;
+}
+
+/* Lista "entries per page" */
+div.dt-container .dt-length select {
+    background-color: #1e2233;
+    color: white;
+    border: 1px solid #444;
+    border-radius: 6px;
+}
+
+/* Hover wiersza */
+table.dataTable tbody tr:hover {
+    background-color: rgba(123, 87, 255, 0.10);
+}
+
+/* Aktywna strona */
+div.dt-container .dt-paging .dt-paging-button.current {
+    background: #7c4dff !important;
+    color: white !important;
+    border: none !important;
+}
