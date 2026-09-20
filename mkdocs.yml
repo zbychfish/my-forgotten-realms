@@ -18,6 +18,9 @@ nav:
   - Home: index.md
   - Informacje:
       - Nasz bohater: other/leech.md
+      - Maps: other/maps.md
+      - Zadania: other/zadania.md
+      - Postaci: other/npc.md
       - Lista modów: other/mods.md
   - Podróż:
       - Co za dzień!: storyline/AR2600-1.md
