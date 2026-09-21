@@ -43,3 +43,13 @@ div.dt-container .dt-paging .dt-paging-button.current {
     color: white !important;
     border: none !important;
 }
+
+.center-txt {
+    text-align: center;
+}
+
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
