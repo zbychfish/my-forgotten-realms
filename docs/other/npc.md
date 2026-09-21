@@ -1,9 +1,10 @@
 
 
-|Nazwa|Miejsce spotkania|Przyjazny?|Rozdział|
+|Nazwa|Miejsce spotkania|Przyjazny?|Uwagi|
 |------------------|--------------------------------------|----------|----------|
-|Linda|AR2616|Tak|Prolog|
-|Firebead Elvenhair|AR2616|Tak|Prolog   |
+|Linda|AR2616|Tak||
+|Firebead Elvenhair|AR2616|Tak||
+|Tethornil||Tak||
 |||||
 |||||
 |||||
@@ -13,8 +14,7 @@
 |||||
 |||||
 |||||
-|||||
-|||||
+|||| 🪦 |
 
 
 

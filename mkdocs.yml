@@ -8,12 +8,18 @@ theme:
     primary: deep purple
     accent: amber
 
+plugins:
+  - search
+
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
   - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_javascript:
   - https://code.jquery.com/jquery-3.7.1.min.js
@@ -26,11 +32,12 @@ extra_css:
 
 nav:
   - Home: index.md
+  - Podróż:
+      - Co za dzień!: storyline/AR2600-1.md
   - Informacje:
       - Nasz bohater: other/leech.md
       - Maps: other/maps.md
       - Zadania: other/zadania.md
       - Postaci: other/npc.md
       - Lista modów: other/mods.md
-  - Podróż:
-      - Co za dzień!: storyline/AR2600-1.md
+  

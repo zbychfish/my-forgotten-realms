@@ -53,3 +53,17 @@ div.dt-container .dt-paging .dt-paging-button.current {
     margin-left: auto;
     margin-right: auto;
 }
+
+.mb {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.4em;
+    height: 1.4em;
+    font-size: 0.85em;
+    font-weight: bold;
+    color: var(--md-typeset-color);
+    background-color: var(--md-code-bg-color);
+    border: 1px solid var(--md-default-fg-color--light);
+    border-radius: 50%;
+}
