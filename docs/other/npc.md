@@ -29,10 +29,19 @@
 |Parda|BG2000|:material-check-circle:|Jak większość mnichów dużo słów mało pożytku|
 |Tethornil|BG2600|:material-check-circle:|Kolejny z wielu mnichów w Candlekeep|
 |Finch|BG2600|:material-check-circle:|Piękna kapłanka Deneir dla której znajdę każdą księgę|
+|Imoen|BG2600|:material-check-circle: postać przyłączalna|przyjaciółka na dobre i na złe,|
+|Gorion|BG2600|:material-check-circle:|🪦 - przybrany ojciec|
+|Sandrah|BG2700|:material-check-circle: postać przyłączalna|cóź nie roztsaniemy się z nią prawie w ogóle|
+|Chase|BG2700|:material-check-circle:| skoczyć czy nie skoczyć o to jest pytanie?|
+|Kolssed|BG2700|:material-check-circle:|otaczać się przyjaciółmi - a to mi nowość|
+|Xzar|BG2700|:material-check-circle: postać przyłączalna|jeden z dwóch co ukradli ...|
+|Montaron|BG2700|:material-check-circle: postać przyłączalna|drugi z dwóch co ukradli ..., nie lubi gadać|
+|Binkos|BG2700|:material-check-circle:|z wiadomością do Wilkich Książąt|
+|Elminster|BG2700|:material-check-circle:|ukryte E|
 
 
 
-
+Lwii Trakt - BG2700
 Candlekeep infirmeria - BG2605
 Candlekeep piwnice magazynu - BG2643    
 Candlekeep barak wojskowy - BG2628

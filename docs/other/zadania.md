@@ -1,13 +1,26 @@
 
 |Nazwa zadania|Status|Szczegóły|
 |-----------|----------------|--------------------------------------------------|
-|Linda and Sir Trun|Aktywny|[Zobacz szczegóły](#q-linda)|
-|Firebead's Scroll|Aktywny|[Zobacz szczegóły](#q-firebead)|
+|Linda and Sir Trun|Wykonane|[Zobacz szczegóły](#q-linda)|
+|Firebead's Scroll|Wykonane|[Zobacz szczegóły](#q-firebead)|
 |An Errand for Fuller|Wykonane|[Zobacz szczegóły](#q-e4fuller)|
-|Hull's Sword|Aktywne|[Zobacz szczegóły](#q-hsword)|
-|Reevor's Storehouse|Aktywne|[Zobacz szczegóły](#q-reevors)|
+|Hull's Sword|Wykonane|[Zobacz szczegóły](#q-hsword)|
+|Reevor's Storehouse|Wykonane|[Zobacz szczegóły](#q-reevors)|
 |Dreppin's Cow|Wykonane|[Zobacz szczegóły](#q-dreppinc)|
 |Phlydia'a Book|Wykonane|[Zobacz szczegóły](#q-phlydiab)|
+|Gorion's Dagger|Aktywny|[Zobacz szczegóły](#q-goriond)|
+|Xzar and Montaron|Aktywny|[Zobacz szczegóły](#q-xzarm)|
+
+??? warning "Xzar and Montaron"
+    - **Zleceniodawca:** Xzar po spotkaniu na Lim Trakcie.
+    - Dotrzeć razem do Nashkel.
+    <div id="q-goriond"></div>
+
+
+??? warning "Gorion's Dagger"
+    - **Zleceniodawca:** Sztylet znaleziony przy ciele Goriona.
+    - Ciekawe do kogo należał ten pięknie wygrawerowany sztylet z wygrawerowaną literą A.
+    <div id="q-goriond"></div>
 
 ??? success "Phlydia'a Book"
     - **Zleceniodawca:** Phlydia koło murów w połnocno-zachodzniej części Candlekeep.
