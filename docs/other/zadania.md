@@ -14,8 +14,7 @@
 ??? warning "Xzar and Montaron"
     - **Zleceniodawca:** Xzar po spotkaniu na Lim Trakcie.
     - Dotrzeć razem do Nashkel.
-    <div id="q-goriond"></div>
-
+    <div id="q-xzarm"></div>
 
 ??? warning "Gorion's Dagger"
     - **Zleceniodawca:** Sztylet znaleziony przy ciele Goriona.
