@@ -6,6 +6,20 @@
 |An Errand for Fuller|Wykonane|[Zobacz szczegóły](#q-e4fuller)|
 |Hull's Sword|Aktywne|[Zobacz szczegóły](#q-hsword)|
 |Reevor's Storehouse|Aktywne|[Zobacz szczegóły](#q-reevors)|
+|Dreppin's Cow|Wykonane|[Zobacz szczegóły](#q-dreppinc)|
+|Phlydia'a Book|Wykonane|[Zobacz szczegóły](#q-phlydiab)|
+
+??? success "Phlydia'a Book"
+    - **Zleceniodawca:** Phlydia koło murów w połnocno-zachodzniej części Candlekeep.
+    - Phlydia zostawiła księgę w sianie. Takie roztargnienie w obliczu młodego i silnego pachołka można sobie róznie tłumaczyć.
+    - Księga zwrócona i problem zażegnany.
+    <div id="q-phlydiab"></div>
+
+??? success "Dreppin's Cow"
+    - **Zleceniodawca:** Dreppin koło siennika w Candlekeep.
+    - Dreppin, potrzebuje odtrutki dla krowy o imieniu Nessa.
+    - Antidotum było dostępne w kufrze Hulla w koszarach.
+    <div id="q-dreppinc"></div>
 
 ??? success "Reevor's Storehouse"
     - **Zleceniodawca:** Reevor, przy spichlerzu w Candlekeep
@@ -29,9 +43,10 @@
     - Linda była bardzo wdzięczna za pomoc.
     <div id="q-linda"></div>
 
-??? info "Firebead's Scroll"
+??? success "Firebead's Scroll"
     - **Zleceniodawca:** Firebead, w karczmie w Candlekeep
     - Dostarcz mu zwój identyfikacji, ma go mieć Tethornil
+    - Po odebraniu zwoju został od niezwłocznie dostarczony
     <div id="q-firebead"></div>
   
 
