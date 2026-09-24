@@ -33,8 +33,8 @@ extra_css:
 nav:
   - Home: index.md
   - Podróż:
-      - Co za dzień!: storyline/AR2600-1.md
-      - To nie mogło się stać.: storyline/AR2700-1.md
+      - Co za dzień!: storyline/prologue.md
+      - To nie mogło się stać.: storyline/chapter1-1.md
   - Informacje:
       - Nasz bohater: other/leech.md
       - Maps: other/maps.md

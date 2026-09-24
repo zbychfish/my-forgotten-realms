@@ -36,18 +36,21 @@
 |Kolssed|BG2700|:material-check-circle:|otaczać się przyjaciółmi - a to mi nowość|
 |Xzar|BG2700|:material-check-circle: postać przyłączalna|jeden z dwóch co ukradli ...|
 |Montaron|BG2700|:material-check-circle: postać przyłączalna|drugi z dwóch co ukradli ..., nie lubi gadać|
-|Binkos|BG2700|:material-check-circle:|z wiadomością do Wilkich Książąt|
-|Elminster|BG2700|:material-check-circle:|ukryte E|
+|Binkos|BG2700|:material-check-circle:|z wiadomością do Wielkich Książąt|
+|Elminster|BG2800|:material-check-circle:|ukryte E, przy pierwszym spotkaniu tożsamość maga nie została ujawniona|
+|Andout|BG2800|:material-check-circle:|z wiadomością do Wilkich Książąt|
+|Aoln|BG2800|:material-check-circle:|no comments|
 
 
-
-Lwii Trakt - BG2700
+Nadbrzeżny Trakt - BG2800
+Lwi Trakt - BG2700
 Candlekeep infirmeria - BG2605
 Candlekeep piwnice magazynu - BG2643    
 Candlekeep barak wojskowy - BG2628
 Candlekeep koszary - BG2618
 Candlekeep karczma - BG2616
 Candlekeep - BG2600
+
 
 
 
