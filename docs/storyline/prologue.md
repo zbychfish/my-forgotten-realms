@@ -62,6 +62,8 @@ Wewnątrz, oprócz całej gromady gryzoni, czekał jednak kolejny zabójca. **Me
 
 Po opuszczeniu spichlerza **Leech** nie wspomniał **Reevorowi** o próbie zabójstwa ani o odznalezionym kontrakcie. Zarządca magazynu podziękował jedynie za wytępienie szczurów, nieświadomy, że liczba usuniętych tego dnia szkodników była o jednego większa, niż zakładał.
 
+:material-paw: **Bestiariusz:** *Szczur*
+
 ---
 
 Przy brogu z sianem <span class="mb">9</span> **Dreppin** wspomniał, że **Phlydia** zostawiła gdzieś pomiędzy snopkami swoją księgę. Byłby niezmiernie wdzięczny, gdyby wychowanek **Goriona** odnalazł zgubę i odniósł ją właścicielce. Opowiedział mu również o chorej krowie noszącej wdzięczne imię **Nessa**. Leech wolał nie zgłębiać szczegółów jej i pasterza przypadłości, lecz zwierzę potrzebowało mikstury przeciw truciznom, którą zazwyczaj dysponował **Hull**. Szczęśliwie młodzieniec miał już przy sobie porcję zabraną wcześniej ze skrzyni żołnierza. Po otrzymaniu antidotum **Dreppin** nie krył wdzięczności za udzieloną pomoc ([DREPPIN'S COW](../other/zadania.md#q6)).

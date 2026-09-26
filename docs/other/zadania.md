@@ -10,6 +10,59 @@
 |Phlydia'a Book|Wykonane|[Zobacz szczegóły](#q-phlydiab)|
 |Gorion's Dagger|Aktywny|[Zobacz szczegóły](#q-goriond)|
 |Xzar and Montaron|Aktywny|[Zobacz szczegóły](#q-xzarm)|
+|The Magnificent Karlini|Aktywny|[Zobacz szczegóły](#q-mkarlini)|
+|Jaheira and Khalid|Aktywny|[Zobacz szczegóły](#q-jaheirak)|
+|Shadows below the Firendly Arm Inn|Wykonane|[Zobacz szczegóły](#q-shadowsfai)|
+|A Rogue Ogre|Wykonane|[Zobacz szczegóły](#q-rogueo)|
+|Landrin's Possessions|Aktywny|[Zobacz szczegóły](#q-landrinp)|
+|Jen'Lig's Hunt|Aktywny|[Zobacz szczegóły](#q-jenlig)|
+|Circles of Interest|Aktywny|[Zobacz szczegóły](#q-cirlceoi)|
+|Joia's Flamedance Ring|Wykonane|[Zobacz szczegóły](#q-joiar)|
+
+
+??? success "Joia's Flamedance Ring"
+    - **Zleceniodawca:** Joia w swoim domu w Pomocnej Dłoni.
+    - Trzeba znaleźć jej pierścień, który powinien być w rękach hobgoblinów grasujących za murami.
+    - Po zabiciu kilku grup hobgoblinów, przy jednym znależliśmy pierścień, który następnie jej przekazaliśmy
+    <div id="q-joiar"></div>
+
+??? warning "Circles of Interest"
+    - **Zleceniodawca:** Mal'meto w swoim domu w Pomocnej Dłoni.
+    - Celem jest odnalezienia 4 ukrytych sfer teleportujących do nieznanych planów.
+    <div id="q-cirlceoi"></div>
+
+??? warning "Jen'Lig's Hunt"
+    - **Zleceniodawca:** Jen'Lig podczas rozmowy przez nią zainicjowaną.
+    - Celem jest odnalezienia wykradzionego srebrnego miecza. Ślady prowadzą do Wrót Baldura.
+    <div id="q-jenlig"></div>
+
+??? warning "Landrin's Possessions"
+    - **Zleceniodawca:** Landrin na drugim piętrze w Pomocnej Dłoni.
+    - Pragnie odzyskać kilka drobiazgów ze swojego domu w Beregoście w którym zalęgły się pająki.
+    <div id="q-landrinp"></div>
+
+??? success "A Rogue Ogre"
+    - **Zleceniodawca:** Unshey na piętrze Pomocnej Dłoni.
+    - Zwrócić mu opaskę skradzioną przez ogra na południu.
+    - Miał ją ogr z Nadbrzeżnego Traktu.
+    <div id="q-rogueo"></div>
+
+??? success "Shadows below the Firendly Arm Inn"
+    - **Zleceniodawca:** Bentley Mirrorshade w swojej karczmie.
+    - Oczyścić podziemia pod karczmą i wyplenić pozostałości po kulcie Bhaala.
+    - Na samym dole Klarinn sługa kultu Bhaala został pozbawiony złudzeń co do szansy przywrócenia tego miejsca do dawnych praktyk.
+    - Bentley była nam bardzo wdzięczny za zażegnanie sytuacji i wyczyszczenie piwnic.
+    <div id="q-shadowsfai"></div>
+
+??? warning "Jaheira and Khalid"
+    - **Zleceniodawca:** Jaheira i Khalid.
+    - Mamy razem dotrzeć do Nashkel aby przyjrzeć się problemowi z żelazem.
+    <div id="q-jaheirak"></div>
+
+??? warning "The Magnificent Karlini"
+    - **Zleceniodawca:** Ygnatz w głownej izbie Pomocnej Dłoni.
+    - Odnależć księgę zaklęć Karliniego w ruinach Szkoły Ulcastera.
+    <div id="q-mkarlini"></div>
 
 ??? warning "Xzar and Montaron"
     - **Zleceniodawca:** Xzar po spotkaniu na Lim Trakcie.

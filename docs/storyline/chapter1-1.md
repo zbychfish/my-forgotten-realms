@@ -17,7 +17,7 @@ Dopiero gdy napastnicy odeszli, a odgłosy ich kroków całkowicie ucichły, mł
 Bezksiężycowa noc ocaliła go przed mordercami, lecz nie przyniosła ukojenia. Drżąc z zimna, strachu i rozpaczy, skulił się pomiędzy skałami. Sen długo nie nadchodził, a kiedy w końcu zmęczenie wzięło górę, był płytki i niespokojny. Nawet wtedy przed oczami wciąż miał ostatnie chwile **Goriona**.
 
 ---
-[![Candlekeep](../maps/BG2700.webp){ .center-img width="40%" }](../maps/BG2700.webp)
+[![Lwi Trakt](../maps/BG2700.webp){ .center-img width="40%" }](../maps/BG2700.webp)
 
 **Leech** obudził się ze świadomością, że wydarzenia minionej nocy nie były jedynie okropną marą senną. Zasadzka, walka i śmierć **Goriona** wydarzyły się naprawdę. Wciąż miał przed oczami opiekuna powalonego mieczem czarnego rycerza. Nawet potężna magia starego maga nie zdołała powstrzymać napastników.
 

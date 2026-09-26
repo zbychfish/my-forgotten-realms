@@ -35,6 +35,8 @@ nav:
   - Podróż:
       - Co za dzień!: storyline/prologue.md
       - To nie mogło się stać.: storyline/chapter1-1.md
+      - Ile trzeba aby pomocną dłoń otrzymać?: storyline/chapter1-2.md
+      #- XXX?: storyline/chapter1-3.md
   - Informacje:
       - Nasz bohater: other/leech.md
       - Maps: other/maps.md
@@ -42,4 +44,6 @@ nav:
       - Postaci: other/npc.md
       - Księgozbiór: other/books.md
       - Lista modów: other/mods.md
+      - Shopping: other/sklepy.md
+      - Bestiariusz: other/bestie.md
   
