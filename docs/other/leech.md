@@ -1,5 +1,6 @@
 # _**Leech**_
 ![Leech](../images/Leech.webp){ width="300" }
+![Leech](../images/leech_szkic.webp){ width="200" }
 
 Skłamałbym, gdybym powiedział, że jest w tej chwili wiele do opowiedzenia o naszym bohaterze. Odkąd tylko pamięta, budził się pośród ksiąg i komnat wielkiej biblioteki Candlekeep, miejsca, w którym magia i historia zdają się mimowolnie opuszczać stronice starych tomów i nieuchwytnie przenikać wszystko dookoła.
 

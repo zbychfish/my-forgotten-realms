@@ -47,6 +47,7 @@ Idąc dalej, podróżnicy pośpiesznie wymienili kilka zdań z Binkosem <span cl
 
 Nie zwlekając dłużej, drużyna ruszyła zgodnie z drogowskazami na północ, w stronę Pomocnej Dłoni.
 
+:material-paw: **Bestiariusz:** *Olbrzymi Wąż, Wilk, Czarny Niedźwiedź*
 ---
 
 [![Candlekeep](../maps/BG2800.webp){ .center-img width="40%" }](../maps/BG2800.webp)
@@ -63,5 +64,6 @@ W północnej części szlaku drużyna minęła Aolna <span class="mb">6</span>.
 
 Wreszcie w oddali zamajaczyły masywne mury otaczające cel ich podróży. Po wielu godzinach marszu drużyna dotarła do warownej gospody *Pod Pomocną Dłonią*. Leech miał nadzieję, że za jej bramami odnajdzie **Jaheirę** i **Khalida**, a wraz z nimi odpowiedzi na przynajmniej część pytań pozostawionych przez śmierć **Goriona**.
 
+:material-paw: **Bestiariusz:** *Dzik, Wilk, Chory Bełkotek, Rozbójnik, Rozbójnik karawanowy, Xvart, Niedźwiedziożuk, Ogr*
 
 

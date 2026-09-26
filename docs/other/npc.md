@@ -68,7 +68,7 @@
 |Sintara Al-Mustafa |BG2300|:material-check-circle:|sfer poszukiwacz|
 |Ms Godfrey|BG2300|:material-check-circle:|torb bezdennych dostaczywni|
 |Churin|BG2300|:material-check-circle:|nasz szlakowy do Icewind Dale|
-|Joia|BG2306|:material-check-circle:|nasz szlakowy do Icewind Dale|
+|Joia|BG2306|:material-check-circle:|pierścienia szukająca|
 
 Pomocna dłoń - dom Joi - BG306
 Pomocna dłoń - Świątynia Mądrości - BG304
