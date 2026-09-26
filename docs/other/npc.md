@@ -69,7 +69,29 @@
 |Ms Godfrey|BG2300|:material-check-circle:|torb bezdennych dostaczywni|
 |Churin|BG2300|:material-check-circle:|nasz szlakowy do Icewind Dale|
 |Joia|BG2306|:material-check-circle:|pierścienia szukająca|
+|Golin Vend|BG3300|:material-check-circle:|przewodnik po Beregoście|
+|Otter O'Forest|BG3300|:material-check-circle:|szuka bursztynowego kwiatu|
+|Annie Dudley|BG3300|:material-check-circle:|naszyjnika strażniczka|
+|Mrs. i Ms. Dudley|BG3349|:material-check-circle:|nieumiejący ze sobą rozmawiać rodzice|
+|Allana|BG3300|:material-check-circle:|na pomoc sąsiadowi|
+|Eltolth|BG3344|:material-check-circle:|przez miłość w śluz zamieniony|
+|Pontag|BG3300|:material-check-circle:|Wielowymiarowych żuków poszukiwacz|
+|Mijii|BG3300|:material-check-circle:|Córka Pontaga pragnąca spokoju dla ojca|
+|Seraphina Whitewood|BG3300|:material-check-circle:|Nie chciała pomocy w walcke z Okiem Gorgony|
+|Garrick|BG330|:material-check-circle: postać przyłączalna|ochroniarz Silke|
+|Silke|BG3300|:material-close-circle:|🪦 - nie warto oszukiwać własnej ochrony|
+|Faltis|BG3300|:material-check-circle:|jeden z niewygodnych dla Silke ludzi|
+|Tessilan|BG3300|:material-check-circle:|jeden z niewygodnych dla Silke ludzi|
+|Glayde|BG3300|:material-check-circle:|jeden z niewygodnych dla Silke ludzi|
+|Karlat|BG3300|:material-close-circle:|🪦 - kolejny kontrakt na moją głowę nie dotrzymany|
+|Tulbor|BG3357|:material-check-circle:|dziwnych mikstur sprzedawca|
+|Perdue|BG3357|:material-check-circle:|rodzinnego miecza poszukuje|
 
+
+Beregost - Czerwony Bukiet - BG3357
+Beregost - dom Eltoltha - BG3344
+Beregost - dom Dudley'ów - BG3349
+Beregost - BG3300
 Pomocna dłoń - dom Joi - BG306
 Pomocna dłoń - Świątynia Mądrości - BG304
 Pomocna dłoń - trzeci poziom piwnic - L#FAI3

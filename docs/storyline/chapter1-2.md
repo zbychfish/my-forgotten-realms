@@ -1,4 +1,4 @@
-![Pod pomocną dłonią](../images/friendlyarm.webp){ .center-img width="100%" }\
+![Pod pomocną dłonią](../images/friendlyarm.webp){ .center-img width="100%" }
 
 [![Lwi Trakt](../maps/BG2300.webp){ .center-img width="40%" }](../maps/BG2300.webp)
 

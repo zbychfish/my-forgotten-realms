@@ -18,7 +18,53 @@
 |Jen'Lig's Hunt|Aktywny|[Zobacz szczegóły](#q-jenlig)|
 |Circles of Interest|Aktywny|[Zobacz szczegóły](#q-cirlceoi)|
 |Joia's Flamedance Ring|Wykonane|[Zobacz szczegóły](#q-joiar)|
+|Find the Petrified Priestess|Aktywny|[Zobacz szczegóły](#q-findpp)|
+|Amber Flower|Aktywny|[Zobacz szczegóły](#q-amberf)|
+|Family Quarrel in Beregost|Wykonane|[Zobacz szczegóły](#q-familyq)|
+|Beregost: Alanna's Neighbour in Trouble|Aktywny|[Zobacz szczegóły](#q-allanat)|
+|Beeetles, Dreams and an Old Man|Aktywny|[Zobacz szczegóły](#q-beetlesd)|
+|Perdue's Short Sword|Aktywny|[Zobacz szczegóły](#q-perduess)|
+|Bassilus Murderer|Aktywny|[Zobacz szczegóły](#q-bassilusm)|
 
+
+
+??? warning "Bassilus Murderer"
+    - **Zleceniodawca:** Wzmianka od jednego z gości w Czerwonym bukiecie..
+    - Bassilius wielce zły człowiek zamienia ludzi w zombie. Może dowiemy sie więcej.
+    <div id="q-bassilusm"></div>
+
+??? warning "Perdue's Short Sword"
+    - **Zleceniodawca:** Perdue w Czerwonym Bukiecie.
+    - Chciałby odzyskać miecz ukradziony przez gnolla na zachód od Beregost.
+    <div id="q-perduess"></div>
+
+??? warning "Beeetles, Dreams and an Old Man"
+    - **Zleceniodawca:** Pontag na ulicach Beregost.
+    - Pontag widzi wielowymiarowe żuki. Szaleniec czy chwilowo niepoczytalny? Może się jeszcze przekonamy.
+    <div id="q-beetlesd"></div>
+
+??? warning "Beregost: Alanna's Neighbour in Trouble"
+    - **Zleceniodawca:** Allana przed domem Eldoltha.
+    - Sąsiad zamienił się w śluz po wypiciu mikstury od Tulbora. Trzeba sprzedawcę odnaleźć.
+    <div id="q-allanat"></div>
+
+??? success "Family Quarrel in Beregost"
+    - **Zleceniodawca:** Annie Dudley przy swoim domu w Beregost.
+    - Mała martwi się kłótnią rodziców.
+    - Po krótkim śledztwie okazuje się, że mają problemy finansowe i muszą sprzedać rodowy klejnot a mała go ukryła.
+    - Przekonujemy mała aby zwróciła go rodzicom
+    - Odkupujemy naszyjnik i podarowujemy go małej.
+    <div id="q-familyq"></div>
+
+??? warning "Amber Flower"
+    - **Zleceniodawca:** Otter O' Forest przay północnych rogatkach Beregost.
+    - Mamy znaleźć burstynowy kwiat rosnący tylko nocą w miejscu wielkiej straty.
+    <div id="q-amberf"></div>
+
+??? warning "Find the Petrified Priestess"
+    - **Zleceniodawca:** Sandrah podczas wspólnej podróży.
+    - W wizji zobaczyła dziewczynę zamienioną w kamień. Prosi abyś ją odnaleźli i przywrócili do życia
+    <div id="q-findpp"></div>
 
 ??? success "Joia's Flamedance Ring"
     - **Zleceniodawca:** Joia w swoim domu w Pomocnej Dłoni.
