@@ -10,3 +10,6 @@
 
 **Sprzedawca perfum** Przy wozie w Pomocnej Dłoni, chyba jasne co oferuje?
 
+**Magnus sklepikarz** Przy fontannie w Beregoście, pociski i strzały lodowe?
+
+**Taeroma Fuiruima** W kuźni w Beregości, pociski i strzały 

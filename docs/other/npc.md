@@ -78,7 +78,7 @@
 |Pontag|BG3300|:material-check-circle:|Wielowymiarowych żuków poszukiwacz|
 |Mijii|BG3300|:material-check-circle:|Córka Pontaga pragnąca spokoju dla ojca|
 |Seraphina Whitewood|BG3300|:material-check-circle:|Nie chciała pomocy w walcke z Okiem Gorgony|
-|Garrick|BG330|:material-check-circle: postać przyłączalna|ochroniarz Silke|
+|Garrick|BG3300|:material-check-circle: postać przyłączalna|ochroniarz Silke|
 |Silke|BG3300|:material-close-circle:|🪦 - nie warto oszukiwać własnej ochrony|
 |Faltis|BG3300|:material-check-circle:|jeden z niewygodnych dla Silke ludzi|
 |Tessilan|BG3300|:material-check-circle:|jeden z niewygodnych dla Silke ludzi|
@@ -86,8 +86,42 @@
 |Karlat|BG3300|:material-close-circle:|🪦 - kolejny kontrakt na moją głowę nie dotrzymany|
 |Tulbor|BG3357|:material-check-circle:|dziwnych mikstur sprzedawca|
 |Perdue|BG3357|:material-check-circle:|rodzinnego miecza poszukuje|
+|Lachluger|BG3357|:material-check-circle:|pijackie piosnki rechocze|
+|Raleo Windspear|BG3303|:material-check-circle:|pijackie piosnki rechocze|
+|Aisha|BG3303|:material-check-circle:|strapiona kurtyzana|
+|Zhurlong|BG3307|:material-check-circle:|bosy złodziejaszek|
+|Spen Gil’meh|BG3308|:material-check-circle:|plotek dostarczyciel|
+|Yumil|BG3300|:material-check-circle:|dzieciak Oka Gorgony siedziby położenie sugerujący|
+|Marl|BG3351|:material-check-circle:|te co wstał lewą nogą|
+|Dunkin|BG3351|:material-check-circle:|ten co wstał prawą|
+|Gyllian|BG3351|:material-check-circle:|podchmielona szlachcianka|
+|Hephis|BG3351|:material-check-circle:|pijackie piosnki rechocze|
+|Illasera the Quick|BG3351|:material-check-circle:|szuka doświadczonych awanturników|
+|Algernon|BG3351|:material-check-circle:|klient zajazdu Feldeposta|
+|Kagain|BG3353|:material-check-circle: postać przyłączalna|jak obłaskawić Silvershieldów|
+|Magnus|BG3300|:material-check-circle:|przy fontannie na coś czeka|
+|Magnus sklepikarz|BG3300|:material-check-circle:|sprzedaje co nie co|
+|Morwen Alandel|BG3304|:material-check-circle: postać przyłączalna|piękna bardka i łuczniczka|
+|Bjornin|BG3304|:material-check-circle: |półogrów niedoszły eksterminator|
+|Gurke|BG3304|:material-check-circle:|krasnal bez szpady, nie bez płaszcza|
+|Oogie Wisham|BG3305|:material-check-circle:|strachliwy dureń|
+|Taerom Fuiruim|BG3301|:material-check-circle:|kowal jak to kowal|
+|Neera|BG3300|:material-check-circle: postać przyłączalna|Chaotyczna ale zawsze pomocna adeptka dzikiej magii.|
+|Ekandor|BG3300|:material-check-circle:|Czerwony Mag pragnący śmierci Neery|
+|Agnus Biały (the White)|BG3300|:material-check-circle:|matematyczny geniusz|
+|Uddolf Raukner|BG3300|:material-check-circle:|matematyczny geniusz|
+|Teliel Meadosinger|BG3300|:material-check-circle:|matematyczny geniusz|
+|Colquette|BG3300|:material-check-circle:|zrozpaczony mąż i ojciec|
 
 
+Beregost - kużnia - BG3301
+Beregost - Wesoły Żongler - pokoje na piętrze z przodu - BG3305
+Beregost - Wesoły Żongler - BG3304
+Beregost - Usługi Kagaina - BG3353
+Beregost - Zajazd Feldeposta - BG3351
+Beregost - Płonący czarodziej - piętro - BG3308
+Beregost - Płonący czarodziej - BG3307
+Beregost - Czerwony Bukiet - piętro - BG3303
 Beregost - Czerwony Bukiet - BG3357
 Beregost - dom Eltoltha - BG3344
 Beregost - dom Dudley'ów - BG3349

@@ -21,12 +21,67 @@
 |Find the Petrified Priestess|Aktywny|[Zobacz szczegóły](#q-findpp)|
 |Amber Flower|Aktywny|[Zobacz szczegóły](#q-amberf)|
 |Family Quarrel in Beregost|Wykonane|[Zobacz szczegóły](#q-familyq)|
-|Beregost: Alanna's Neighbour in Trouble|Aktywny|[Zobacz szczegóły](#q-allanat)|
+|Beregost: Alanna's Neighbour in Trouble|Wykonane|[Zobacz szczegóły](#q-allanat)|
 |Beeetles, Dreams and an Old Man|Aktywny|[Zobacz szczegóły](#q-beetlesd)|
 |Perdue's Short Sword|Aktywny|[Zobacz szczegóły](#q-perduess)|
 |Bassilus Murderer|Aktywny|[Zobacz szczegóły](#q-bassilusm)|
+|Finch Books|Aktywny|[Zobacz szczegóły](#q-finchb)|
+|Zhurlong's Missing Boots|Aktywny|[Zobacz szczegóły](#q-zhurlongb)|
+|So be it! At least this mess is over with now|Aktywny|[Zobacz szczegóły](#q-kagainq)|
+|A Book for Firebead|Wykonane|[Zobacz szczegóły](#q-firebeadb)|
+|A Demonic Scroll|Aktywny|[Zobacz szczegóły](#q-demonicsc)|
+|Half-Ogres near Beregost|Aktywny|[Zobacz szczegóły](#q-halfogres)|
+|Gurke's Cloak|Aktywny|[Zobacz szczegóły](#q-gurkec)|
+|Mirianne's Husband|Aktywny|[Zobacz szczegóły](#q-mirianneh)|
+|Raukner's Ryffian Roughnecks|wykonywanie|[Zobacz szczegóły](#q-rauknerrr)|
+|Colquette Family|Aktywny|[Zobacz szczegóły](#q-colquettef)|
 
 
+??? warning "Colquette Family"
+    - **Zleceniodawca:** Colquette w swoim domu w Beregoście.
+    - Oczekuje powrotu syna i żony. Może uda się znależć jakąś informację o nich.
+        <div id="q-colquettef"></div>
+
+??? success "Raukner's Ryffian Roughnecks"
+    - **Zleceniodawca:** Raukner w Beregości wraz z kompanami.
+    - Nie mogą przypomnieć sobie ile pieniędzy dostali za dostarczenie paczki.
+    - Udało nam się rozwiązań ten nierozwiązywalny problem
+    <div id="q-rauknerrr"></div>
+
+??? warning "Gurke's Cloak"
+    - **Zleceniodawca:** Gurke w Wesołym Żonglerze w Beregoście.
+    - Odzyskać mamy płaszcz, który powinien być w rękach Tasloi w lesie płaszczowym.
+    <div id="q-gurkec"></div>
+
+??? warning "Half-Ogres near Beregost"
+    - **Zleceniodawca:** Bjornin w Wesołym Żonglerze w Beregoście.
+    - Ranny Bjornin w walce z pół ogrami prosi o pomoc w ich eksterminacji.
+    <div id="q-halfogres"></div>
+
+??? warning "A Demonic Scroll"
+    - **Zleceniodawca:** Zwój przekazany przez Firebeada w jego domu.
+    - Zwój emanuje złą energia i mamy go dostarczyć do ojca Sandrah.
+    <div id="q-demonicsc"></div>
+
+??? success "A Book for Firebead"
+    - **Zleceniodawca:** Firebead w swoim domu w Beregoście.
+    - Tym razem poszukuje księgi - Historia Monety Losu, która nabyliśmy wcześniej od karczmarza w Gospodzie Feldeposta.
+    <div id="q-firebeadb"></div>
+
+??? warning "So be it! At least this mess is over with now"
+    - **Zleceniodawca:** Kagain w swoim biurze w Beregoście.
+    - Pomóżmy Kagainowi przekazać osobiście tragiczną informację o śmierci jednego z Silvershieldów.
+    <div id="q-kagainq"></div>
+
+??? warning "Zhurlong's Missing Boots"
+    - **Zleceniodawca:** Zhurlong w Płoącym Czarodzieju w Beregoście.
+    - Chciałby odzyskać swoje buty, które stracił na rzecz bandytów na południe od miasta.
+    <div id="q-zhurlongb"></div>
+
+??? warning "Finch Books"
+    - **Zleceniodawca:** Finch w Czerwonym bukiecie w Beregost.
+    - Ma zdobyć kilka ksiąg, które będą stanowiły bazę nowe biblioteki jaką jej zakon planuje otworzyć. Wspólnie poszukamy tych tomiszczy.
+    <div id="q-finchb"></div>
 
 ??? warning "Bassilus Murderer"
     - **Zleceniodawca:** Wzmianka od jednego z gości w Czerwonym bukiecie..
@@ -43,10 +98,11 @@
     - Pontag widzi wielowymiarowe żuki. Szaleniec czy chwilowo niepoczytalny? Może się jeszcze przekonamy.
     <div id="q-beetlesd"></div>
 
-??? warning "Beregost: Alanna's Neighbour in Trouble"
+??? success "Beregost: Alanna's Neighbour in Trouble"
     - **Zleceniodawca:** Allana przed domem Eldoltha.
     - Sąsiad zamienił się w śluz po wypiciu mikstury od Tulbora. Trzeba sprzedawcę odnaleźć.
-    <div id="q-allanat"></div>
+    - Przekazaliśmy Alannie odtrutkę, która kupiliśmy od Tulbora i dzięki temu Eltolth wrócił do ludzkiej postaci i w końcu ośmielił się wyznać sąsiadce miłość, odwzajemnioną zresztą.
+    j<div id="q-allanat"></div>
 
 ??? success "Family Quarrel in Beregost"
     - **Zleceniodawca:** Annie Dudley przy swoim domu w Beregost.
