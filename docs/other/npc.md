@@ -107,7 +107,7 @@
 |Oogie Wisham|BG3305|:material-check-circle:|strachliwy dureń|
 |Taerom Fuiruim|BG3301|:material-check-circle:|kowal jak to kowal|
 |Neera|BG3300|:material-check-circle: postać przyłączalna|Chaotyczna ale zawsze pomocna adeptka dzikiej magii.|
-|Ekandor|BG3300|:material-check-circle:|Czerwony Mag pragnący śmierci Neery|
+|Ekandor|BG3300|:material-close-circle:|Czerwony Mag pragnący śmierci Neery|
 |Agnus Biały (the White)|BG3300|:material-check-circle:|matematyczny geniusz|
 |Uddolf Raukner|BG3300|:material-check-circle:|matematyczny geniusz|
 |Teliel Meadosinger|BG3300|:material-check-circle:|matematyczny geniusz|

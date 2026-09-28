@@ -21,6 +21,3 @@ Pełzacz ścierwojad|Głęboko w podziemnych korytarzach, tam gdzie zapach wilgo
 
 
 #|Szczur|Szczur jaki jest każdy widzi. A jak nie widział to jego szczęście. Olbrzymi szczur jest wiekszy, chyba top jasne?|[![Szczur](../images/szczur.webp){ .center-img width="30%" }](../images/szczur.webp)|
-
-
-Tayan bodyguard, Tayan wizard, 

@@ -33,7 +33,7 @@
 |Half-Ogres near Beregost|Aktywny|[Zobacz szczegóły](#q-halfogres)|
 |Gurke's Cloak|Aktywny|[Zobacz szczegóły](#q-gurkec)|
 |Mirianne's Husband|Aktywny|[Zobacz szczegóły](#q-mirianneh)|
-|Raukner's Ryffian Roughnecks|wykonywanie|[Zobacz szczegóły](#q-rauknerrr)|
+|Raukner's Ryffian Roughnecks|Wykonane|[Zobacz szczegóły](#q-rauknerrr)|
 |Colquette Family|Aktywny|[Zobacz szczegóły](#q-colquettef)|
 
 
