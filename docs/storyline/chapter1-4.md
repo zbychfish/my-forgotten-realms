@@ -83,5 +83,13 @@ Po odzyskaniu diamentu drużyna wróciła do **Rigallda** (29), który przyznał
 <br><br>
 **Rigalldo** pochwalił odwagę drużyny, choć zauważył, że wykonanie zadania narobiło nieco zamieszania. Przypomniał, że w złodziejskim fachu sama śmiałość nie wystarcza. Prawdziwy mistrz powinien działać cierpliwie, wtapiać się w cienie i pozostawiać za sobą jak najmniej powodów do zadawania pytań.
 <br><br>
-Pierwsza próba została jednak zaliczona. Leech przekazał diament przedstawicielowi gildii, a cała kompania zdobyła sto pięćdziesiąt punktów doświadczenia (**DIAMOND IN THE ROUGH**).
+Pierwsza próba została jednak zaliczona (**DIAMOND IN THE ROUGH**).
+
+**Rigalldo** przedstawił kolejne zadanie (**THE PRICE OF PROTECTION**), tym razem wymagające nie tylko zręcznych palców, lecz także przekonującego języka. Celem był **Gerard Travenhurst**, bogaty mieszkaniec *Beregostu*, który przez lata opłacał ochronę **Oka Gorgony**, lecz ostatnio uznał, że jego własna straż wystarczy do zabezpieczenia posiadłości. Gildia zamierzała szybko wyprowadzić go z tego błędnego przekonania.
+<br><br>
+W rezydencji **Travenhursta** znajdował się sejf ukryty w górnych komnatach. Przechowywano w nim najcenniejszą rodzinną pamiątkę, zabytkowy naszyjnik o znacznej wartości. Zadaniem drużyny było przeniknięcie do posiadłości, ominięcie strażników, otwarcie sejfu i zabranie klejnotu. Sam ornament nie stanowił jednak głównego celu misji. Miał posłużyć jako dobitny argument w późniejszej rozmowie z właścicielem.
+<br><br>
+Po zdobyciu naszyjnika należało skonfrontować się z **Gerardem** i uświadomić mu, jak łatwo można obejść kosztowną ochronę, na której tak bardzo polegał. Jeśli szlachcic wykaże się rozsądkiem, powinien wznowić wpłaty dla gildii. Jeżeli jednak okaże się uparty, **Rigalldo** zezwolił na bardziej zdecydowane środki, włącznie z uczynieniem przykładu z jego strażników. W świecie **Oka Gorgony** subtelna perswazja była wprawdzie mile widziana, ale tylko tak długo, jak długo przynosiła właściwy rezultat.
+<br><br>
+Zainteresowana szczegółami **Sandrah** zapytała, czy po zakończeniu negocjacji naszyjnik należy zwrócić właścicielowi. Mistrz intryg wyjaśnił, że klejnot powinien trafić do gildii. Miał nie tylko zasilić jej skarbiec, lecz także pozostać trwałym przypomnieniem ceny, jaką płaci się za lekceważenie oferowanej ochrony. W zamian za dostarczenie rodzinnej pamiątki drużyna miała otrzymać uczciwą część jej wartości.
 

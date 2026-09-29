@@ -37,6 +37,13 @@
 |Colquette Family|Aktywny|[Zobacz szczegóły](#q-colquettef)|
 |The Pits|Aktywny|[Zobacz szczegóły](#q-thepits)|
 |Diamond in the Rough|Aktywny|[Zobacz szczegóły](#q-diamonditr)|
+|The Price of Protection|Aktywny|[Zobacz szczegóły](#q-pricepro)|
+
+
+??? warning "The Pits"
+    - **Zleceniodawca:** Rigaldo w Oku Gorgony.
+    - Zmusić Gerarda Travenhursta do powrotu do płacenia za ochronę.
+    <div id="q-pricepro"></div>
 
 ??? success "Diamond in the Rough"
     - **Zleceniodawca:** Rigaldo w Oku Gorgony.
