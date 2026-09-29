@@ -13,3 +13,5 @@
 **Magnus sklepikarz** Przy fontannie w Beregoście, pociski i strzały lodowe?
 
 **Taeroma Fuiruima** W kuźni w Beregości, pociski i strzały 
+
+**Eurynome Rhade** - Oko Gorgony, sklepik i mozliwość podrasowania broni

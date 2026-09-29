@@ -35,12 +35,25 @@
 |Mirianne's Husband|Aktywny|[Zobacz szczegóły](#q-mirianneh)|
 |Raukner's Ryffian Roughnecks|Wykonane|[Zobacz szczegóły](#q-rauknerrr)|
 |Colquette Family|Aktywny|[Zobacz szczegóły](#q-colquettef)|
+|The Pits|Aktywny|[Zobacz szczegóły](#q-thepits)|
+|Diamond in the Rough|Aktywny|[Zobacz szczegóły](#q-diamonditr)|
 
+??? success "Diamond in the Rough"
+    - **Zleceniodawca:** Rigaldo w Oku Gorgony.
+    - Ukraść diament Zieke. Najlepiej bez zbytniego hałasu.
+    - Zieke przebyła na piętrze Gospody Feldeposta
+    - Udało się wykraść diament bez rozlewu krwi.
+    <div id="q-thepits"></div>
+
+??? warning "The Pits"
+    - **Zleceniodawca:** Diomedes w siedzibie Oka Gorgony w Beregost.
+    - Pokonać wszystkich rywali na arenach Dołów.
+    <div id="q-thepits"></div>
 
 ??? warning "Colquette Family"
     - **Zleceniodawca:** Colquette w swoim domu w Beregoście.
     - Oczekuje powrotu syna i żony. Może uda się znależć jakąś informację o nich.
-        <div id="q-colquettef"></div>
+    <div id="q-colquettef"></div>
 
 ??? success "Raukner's Ryffian Roughnecks"
     - **Zleceniodawca:** Raukner w Beregości wraz z kompanami.

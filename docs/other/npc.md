@@ -112,8 +112,31 @@
 |Uddolf Raukner|BG3300|:material-check-circle:|matematyczny geniusz|
 |Teliel Meadosinger|BG3300|:material-check-circle:|matematyczny geniusz|
 |Colquette|BG3300|:material-check-circle:|zrozpaczony mąż i ojciec|
+|Baldwin "Rzeźnik" Glendalex|H_GUILDA|:material-check-circle:|kapo Oka Grogony|
+|Danika|H_GUILDA|:material-check-circle:|kapłanka Maski|
+|Saradin|H_GUILDA|:material-check-circle:|małomówny przyboczny Baldwina|
+|Gilbald|H_GUILDA|:material-check-circle:|członek Oka Gorgony|
+|Madame Meridia|H_GUILDA|:material-check-circle:|burdel mama|
+|Darius|H_GUILDA|:material-check-circle:|podwładny Madame Meridii|
+|Rafaela|H_GUILDA|:material-check-circle:|podwładna Madame Meridii|
+|Ilena|H_GUILDA|:material-check-circle:|podwładna Madame Meridii|
+|Miria|H_GUILDA|:material-check-circle:|podwładna Madame Meridii|
+|Diomedes|H_GUILDA|:material-check-circle:|zarządzający walkami w Oku Gorgony|
+|kot Shadow|H_GUILDA|:material-check-circle:|kot Diomedesa|
+|Roran "Żelazna Pięść" Zlenka|H_GUILDA|:material-check-circle:|zawodnik z areny w Oku Gorgony|
+|Grom Torrek|H_GUILDA|:material-check-circle:|zawodnik z areny w Oku Gorgony|
+|Serra Swiftwind|H_GUILDA|:material-check-circle:|zawodnik z areny w Oku Gorgony|
+|Khalid Blackrock|H_GUILDA|:material-check-circle:|zawodnik z areny w Oku Gorgony|
+|Lyria Winterheart|H_GUILDA|:material-check-circle:|zawodnik z areny w Oku Gorgony|
+|Rigaldo|H_GUILDA|:material-check-circle:|przewodnik inicjacji w Oku Gorgony|
+|Zeda|H_GUILDA|:material-check-circle:|kapłanka z Oka Gorgony|
+|Ariosh|H_GUILDA|:material-check-circle:|wywiadowca z Oka Gorgony|
+|Eurynome Rhade|H_GUILDA|:material-check-circle:|kowal z Oka Gorgony|
+|Liedel|H_GUILDA|:material-check-circle:|kontraktor zleceń z Oka Gorgony|
 
 
+
+Beregost - Oko Gorgony - G_GUILDA
 Beregost - kużnia - BG3301
 Beregost - Wesoły Żongler - pokoje na piętrze z przodu - BG3305
 Beregost - Wesoły Żongler - BG3304
@@ -141,6 +164,7 @@ Candlekeep barak wojskowy - BG2628
 Candlekeep koszary - BG2618
 Candlekeep karczma - BG2616
 Candlekeep - BG2600
+
 
 
 
