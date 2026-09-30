@@ -1,3 +1,5 @@
+![Oko Gorgony](../images/oko_gorgony_logo.webp){ .center-img width="40%" }
+
 Ukryte przejście <span class="mb">29</span> prowadziło do rozległych podziemi, które niegdyś mogły służyć jako miejskie magazyny. W środku kręciło się mnóstwo ludzi, ale wystarczyło kilka spojrzeń, aby zrozumieć, że nieproszona drużyna nie wzbudza ich zachwytu. Mimo nieufności wszyscy wskazywali drogę w głąb kompleksu, jak gdyby ktoś ważny już na nich czekał.
 
 Po przejściu przez kładkę i drewnianą bramę kompania dotarła do obszernego pomieszczenia. Przy ognisku siedział mężczyzna, który od chwili ich wejścia obserwował każdy ruch. Był to **Baldwin „Rzeźnik” Glendale**, przywódca **Oka Gorgony**.
@@ -89,3 +91,5 @@ Po otrzymaniu raportu ([SHADOWS OF REVELRY](../other/zadania.md#q44)) **Ariosh**
 Następne zlecenie dotyczyło zdrajcy działającego wewnątrz organizacji. W biały dzień należało podrzucić sfałszowaną wiadomość do beczki za *Płonącym Czarodziejem*, a następnie po zmroku oczekiwać przy południowych fontannach. **Ariosh** zaznaczył, że nie chce półśrodków. Kiedy zdrajca się ujawni, należy ostatecznie się z nim rozprawić ([SHADOWS AND ECHOES](../other/zadania.md#q46)).
 
 Noc wciąż trwała, dlatego drużyna postanowiła wykorzystać ciemność i odwiedzić wspominaną przez mieszkańców świątynię. Oprócz zwykłej ciekawości miała tam do załatwienia pewną sprawę dla **Liedel**.
+
+![Oko Gorgony](../images/oko_gorgony.webp){ .center-img width="50%" }
