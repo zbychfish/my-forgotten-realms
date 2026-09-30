@@ -133,9 +133,12 @@
 |Ariosh|H_GUILDA|:material-check-circle:|wywiadowca z Oka Gorgony|
 |Eurynome Rhade|H_GUILDA|:material-check-circle:|kowal z Oka Gorgony|
 |Liedel|H_GUILDA|:material-check-circle:|kontraktor zleceń z Oka Gorgony|
+|Gerard Travenhurst|BG3320|:material-check-circle:|ten co za ochronę płacić nie chciał|
+|Carl|BG3320|:material-close-circle:|🪦 - wiecej strzec nie będzie|
+|Jurgen|BG3320|:material-close-circle:|🪦 - wiecej strzec nie będzie|
 
 
-
+Beregost - Siedziba Travenhursta - BG3320
 Beregost - Oko Gorgony - G_GUILDA
 Beregost - kużnia - BG3301
 Beregost - Wesoły Żongler - pokoje na piętrze z przodu - BG3305
