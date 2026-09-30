@@ -19,5 +19,6 @@ Pełzacz ścierwojad|Głęboko w podziemnych korytarzach, tam gdzie zapach wilgo
 |Xvart|Te niewielkie, niebieskoskóre i krzykliwe stworzenia stanowią jedno z najbardziej uciążliwych zagrożeń na dzikich obszarach Wybrzeża Mieczy. Znane ze swojej niespotykanej tchórzliwości, xvarty rzadko atakują w pojedynkę – szukają przewagi w przytłaczającej liczebności, nękając podróżnych głośnym wrzaskiem i atakując chmarami z ukrycia. Uzbrojeni w prymitywne sztylety, krótkie miecze lub proce, w walce bezczelnie wykorzystują swoją zwinność, jednak wystarczy powalić kilku z nich lub ich przywódcę, by reszta uciekła w popłochu w gęstwiny.|[![Xvart](../images/xvart.webp){ .center-img width="30%" }](../images/xvart.webp)|
 
 
+Ghul, 
 
 #|Szczur|Szczur jaki jest każdy widzi. A jak nie widział to jego szczęście. Olbrzymi szczur jest wiekszy, chyba top jasne?|[![Szczur](../images/szczur.webp){ .center-img width="30%" }](../images/szczur.webp)|

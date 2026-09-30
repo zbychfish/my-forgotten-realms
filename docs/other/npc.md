@@ -133,9 +133,14 @@
 |Ariosh|H_GUILDA|:material-check-circle:|wywiadowca z Oka Gorgony|
 |Eurynome Rhade|H_GUILDA|:material-check-circle:|kowal z Oka Gorgony|
 |Liedel|H_GUILDA|:material-check-circle:|kontraktor zleceń z Oka Gorgony|
+|Zieke|BG3352|:material-check-circle:|nawet profesjonalna ochrona nie pomoże gdy ma się zwinne palce|
 |Gerard Travenhurst|BG3320|:material-check-circle:|ten co za ochronę płacić nie chciał|
 |Carl|BG3320|:material-close-circle:|🪦 - wiecej strzec nie będzie|
 |Jurgen|BG3320|:material-close-circle:|🪦 - wiecej strzec nie będzie|
+|Bobert|BG3300|:material-check-circle:|karczmarz z Wesołego Żonglera obsługujący rauty|
+|Lord Tharlic|BG3300|:material-check-circle:|szlachcic bez sakiewki|
+|Lady Elara|BG3300|:material-check-circle:|szlachcianka bez sakiewki|
+|Blackthorn|BG3300|:material-check-circle:|mądra decyzja aby dołączyć do Oka Gorgony|
 
 
 Beregost - Siedziba Travenhursta - BG3320
@@ -144,6 +149,7 @@ Beregost - kużnia - BG3301
 Beregost - Wesoły Żongler - pokoje na piętrze z przodu - BG3305
 Beregost - Wesoły Żongler - BG3304
 Beregost - Usługi Kagaina - BG3353
+Beregost - Zajazd Feldeposta - piętro - BG3352
 Beregost - Zajazd Feldeposta - BG3351
 Beregost - Płonący czarodziej - piętro - BG3308
 Beregost - Płonący czarodziej - BG3307

@@ -39,15 +39,36 @@
 |Diamond in the Rough|Aktywny|[Zobacz szczegóły](#q-36)|
 |The Price of Protection|Wykonane|[Zobacz szczegóły](#q-37)|
 |A Worried Farmer|Wykonane|[Zobacz szczegóły](#q-38)|
-|Shadows of Revelry|Aktywny|[Zobacz szczegóły](#q-39)|
+|Shadows of Revelry|Wykonane|[Zobacz szczegóły](#q-39)|
 |Liedel's Bounty: Carth|Aktywny|[Zobacz szczegóły](#q-40)|
 |Liedel's Bounty: Vapula Simberh|Aktywny|[Zobacz szczegóły](#q-41)|
 |Liedel's Bounty: Aisha|Aktywny|[Zobacz szczegóły](#q-42)|
 |Sorceress of Shadows|Aktywny|[Zobacz szczegóły](#q-43)|
+|Blades in the Night|Wykonane|[Zobacz szczegóły](#q-44)|
+|Moonlight Retrieval|Wykonane|[Zobacz szczegóły](#q-45)|
+|Shadows and Echoes|Aktywny|[Zobacz szczegóły](#q-46)|
+
+
+??? warning "Shadows and Echoes"
+    - **Zleceniodawca:** Ariosh w Oku Gorgony.
+    - Trzeba nam zabić zdrajcę w szeregach. Musimy go wywabić podrzucając do skrytki szpiega nieprawdziwą informację.
+    <div id="q-46"></div>
+
+??? success "Moonlight Retrieval"
+    - **Zleceniodawca:** Ariosh w Oku Gorgony.
+    - Mamy w nocy zebrać trzy przesyłki nie dają się złapać nocnej straży.
+    - Skradając się Jen-lig sprawnie zebrała worki i odnieśliśmy je do zleceniodawcy.
+    <div id="q-45"></div>
+
+??? success "Blades in the Night"
+    - **Zleceniodawca:** Ariosh w Oku Gorgony.
+    - Banda łotrów działa na naszym terenie mamy się z nimi rozprawić. Powinniśmy się na nich natknąć w nocy w północnych ogrodach.
+    - Udało się przekonać Blackthorna do przyłączenia do gildii.
+    <div id="q-44"></div>
 
 ??? warning "Sorceress of Shadows"
     - **Zleceniodawca:** Baldwin w Oku Gorgony.
-    - Odnależć fragment Kerykeionu potężnej laski. Jest w posiadaniu mrocznej czarodziejku na Wzgórzach Gibberlingów".
+    - Mamy odszukać odłamku magicznej laski. Na ją jakaś wiedźma gdzieś na Wzgórzach Bełkotków.
     <div id="q-43"></div>
 
 ??? warning "Liedel's Bounty: Aisha"
@@ -70,10 +91,11 @@
     - Zgładzić Cartha za niespłacony dług u Zentharimów. Osttanio widziany gdzieś na północy."
     <div id="q-40"></div>
 
-??? warning "Shadows of Revelry"
+??? success "Shadows of Revelry"
     - **Zleceniodawca:** Rigaldo w Oku Gorgony.
     - Wykraść bez przelewu krwi sakiewki dwojga szlachciców podczas przyjęcia koło Wesołego Żonglera"
     - Upijając gości i necąc strażników wdziękami kurtyzan udało się zdobyć oba mieszki.
+    - Ariosh odebrał wykradzione mieszki i wynagrodził nas za wykonane zadanie.
     <div id="q-39"></div>
 
 ??? success "A Worried Farmer"
