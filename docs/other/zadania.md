@@ -47,7 +47,7 @@
 
 ??? warning "Sorceress of Shadows"
     - **Zleceniodawca:** Baldwin w Oku Gorgony.
-    - Odnależć fragment Kerykeionu potężnej laski. Jest w posiadaniu mrocznej czarodziejku na Wzgórzach Gibberlingów"
+    - Odnależć fragment Kerykeionu potężnej laski. Jest w posiadaniu mrocznej czarodziejku na Wzgórzach Gibberlingów".
     <div id="q-43"></div>
 
 ??? warning "Liedel's Bounty: Aisha"
