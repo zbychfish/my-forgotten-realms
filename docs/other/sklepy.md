@@ -15,3 +15,5 @@
 **Taeroma Fuiruima** W kuźni w Beregości, pociski i strzały 
 
 **Eurynome Rhade** - Oko Gorgony, sklepik i mozliwość podrasowania broni
+
+**Kelddath Ormlyr** - Świątynia Lathandera, zwóje zamieniające kamień w ciałom

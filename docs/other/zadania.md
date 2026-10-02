@@ -41,13 +41,34 @@
 |A Worried Farmer|Wykonane|[Zobacz szczegóły](#q-38)|
 |Shadows of Revelry|Wykonane|[Zobacz szczegóły](#q-39)|
 |Liedel's Bounty: Carth|Aktywny|[Zobacz szczegóły](#q-40)|
-|Liedel's Bounty: Vapula Simberh|Aktywny|[Zobacz szczegóły](#q-41)|
+|Liedel's Bounty: Vapula Simberg|Wykonane|[Zobacz szczegóły](#q-41)|
 |Liedel's Bounty: Aisha|Aktywny|[Zobacz szczegóły](#q-42)|
 |Sorceress of Shadows|Aktywny|[Zobacz szczegóły](#q-43)|
 |Blades in the Night|Wykonane|[Zobacz szczegóły](#q-44)|
 |Moonlight Retrieval|Wykonane|[Zobacz szczegóły](#q-45)|
 |Shadows and Echoes|Aktywny|[Zobacz szczegóły](#q-46)|
+|An Ordinary Hunting|Aktywny|[Zobacz szczegóły](#q-47)|
+|Drunk near Beregost Temple|Wykonane|[Zobacz szczegóły](#q-48)|
+|Phantom East of Beregost|Aktywny|[Zobacz szczegóły](#q-49)|
 
+
+??? warning "Phantom East of Beregost"
+    - **Zleceniodawca:** Torgion w grobowcu w górach przy świątyni Lathandera.
+    - W grobowcu przy wzgórzach koło świątyni Lathandera spotykamy Torqiona uwięzionego wraz z dwoma innymi duszami. Aby go uwolnić musimy znaleźć starożytny miecz należący kiedyś do łowczy wampirów.
+    <div id="q-49"></div>
+
+??? success "Drunk near Beregost Temple"
+    - **Zleceniodawca:** Polus przy westybule świątyni Lathandera.
+    - Pijaczyna zasnął w dziczy i pewnie zagryzą go okoliczne drapieżniki.       
+    - Wspomnieliśmy o nim Kelddathowi w światyni i obiecał się nim zająć.
+    <div id="q-48"></div>
+
+??? warning "An Ordinary Hunting"
+    - **Zleceniodawca:** Eloran w świątynik Lathandera w Beregost.
+    - Trzeba sprawdzić nawiedzony dom w Beregost na przeciw Płonącego Czarodzieja.
+    - W domu duch dawnego właściciela nie może za zaznać spokoju dopóki nie wrócą do niego jego numizmatyczne zbiory.
+    - Udaje na się je odebrać od wdowy i przywrócić spokój domowi.
+    <div id="q-47"></div>
 
 ??? warning "Shadows and Echoes"
     - **Zleceniodawca:** Ariosh w Oku Gorgony.
@@ -81,9 +102,11 @@
     - Ilena miała wywołać zazdrość w Aishy a ta zareagowała jak banshee. Wynajęta przez Amriusa kurtyzana postara się przekonać go do odwołania zlecenia.
     <div id="q-42"></div>
 
-??? warning "Liedel's Bounty: Vapula Simberh"
+??? success "Liedel's Bounty: Vapula Simberh"
     - **Zleceniodawca:** Liedel w Oku Gorgony.
     - Zgładzić Vapulę, zdradziecką szuję, który przebywa gdzieś w pobliżu jakieś świątyni."
+    - Vapula nawrócił się i skończył z życiem bandyty. Pozwoliliśmy mu uciec na południe i wzieliśmy jego naszyjnik jako dowód iż został zgładzony"
+    - Liedel został przekonany, że Vapula zakończył żywot i otrzymaliśmy nagrodę.
     <div id="q-41"></div>
 
 ??? warning "Liedel's Bounty: Carth"

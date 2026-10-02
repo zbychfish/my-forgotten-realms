@@ -141,8 +141,21 @@
 |Lord Tharlic|BG3300|:material-check-circle:|szlachcic bez sakiewki|
 |Lady Elara|BG3300|:material-check-circle:|szlachcianka bez sakiewki|
 |Blackthorn|BG3300|:material-check-circle:|mądra decyzja aby dołączyć do Oka Gorgony|
+|Rachel "Promień Słońca"|BG3400|:material-check-circle:|rudowłosa piękność niezainteresowana bliższą znajomością|
+|Kelddath Ormlyr|BG3402|:material-check-circle:|zawsze służacy pomocą kapłan Lathandera|
+|Eloran|BG3402|:material-check-circle:|szukająca dobrej drużyny do trudnych zadań|
+|Vapula Simberg|BG3401|:material-check-circle:|nawrócony rzezimieszek|
+|Polus|BG3400|:material-check-circle:|złodziej bo każdy pijak to złodziej|
+|Ashen|BG3400|:material-check-circle:|bankrut z Waterdeep|
+|Cattack|BG3400|:material-close-circle:|🪦 - zbyt pewny siebie hobgoblin|
+|Corianna|BG3400|:material-check-circle:|odzyskała gibkość|
+|Galileus|BG3400|:material-check-circle:|oczywiście zapatrzony w gwiazdy|
+|Torqion|AR3905|:material-check-circle:|fantom w trzech postaciach co umrzeć chce|
+|Malicia|BG3311|:material-check-circle:|właścielka domu z duchem|
 
-
+Świątynia Lathandera - przuświątynny westybuł - BG3401
+Świątynia Lathandera - wnętrze świątyni - BG3402
+Świątynia Lathandera - BG3400
 Beregost - Siedziba Travenhursta - BG3320
 Beregost - Oko Gorgony - G_GUILDA
 Beregost - kużnia - BG3301
