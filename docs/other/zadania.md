@@ -47,10 +47,23 @@
 |Blades in the Night|Wykonane|[Zobacz szczegóły](#q-44)|
 |Moonlight Retrieval|Wykonane|[Zobacz szczegóły](#q-45)|
 |Shadows and Echoes|Aktywny|[Zobacz szczegóły](#q-46)|
-|An Ordinary Hunting|Aktywny|[Zobacz szczegóły](#q-47)|
+|An Ordinary Hunting|Wykonane|[Zobacz szczegóły](#q-47)|
 |Drunk near Beregost Temple|Wykonane|[Zobacz szczegóły](#q-48)|
 |Phantom East of Beregost|Aktywny|[Zobacz szczegóły](#q-49)|
+|Hunting the Huntsman|Aktywny|[Zobacz szczegóły](#q-50)|
+|Of Wolves and Men|Aktywny|[Zobacz szczegóły](#q-51)|
 
+??? warning "Of Wolves and Men"
+    - **Zleceniodawca:** Aiwell na schodach siedziby maga w Wysokim Żywopłocie.
+    - Mąż Aiwell zamienia się w wilkołaka, czy możemy temu zapobiec?
+    - Porozmawiajmy z Thalantyrem.
+    <div id="q-51"></div>
+
+??? warning "Hunting the Huntsman"
+    - **Zleceniodawca:** Eloran w świątynik Lathandera w Beregost.
+    - Na trakcie między Beregost a Pomocną Dłonią grasuje banda wyznawców Malara. Trzeba z tym zrobić porządek.
+    - Wyznawca był jeden i już nikomu nie zagrozi. Miał kryjówke w tunelach obok zaatakowanych karawan.
+    <div id="q-50"></div>
 
 ??? warning "Phantom East of Beregost"
     - **Zleceniodawca:** Torgion w grobowcu w górach przy świątyni Lathandera.
@@ -63,11 +76,12 @@
     - Wspomnieliśmy o nim Kelddathowi w światyni i obiecał się nim zająć.
     <div id="q-48"></div>
 
-??? warning "An Ordinary Hunting"
+??? success "An Ordinary Hunting"
     - **Zleceniodawca:** Eloran w świątynik Lathandera w Beregost.
     - Trzeba sprawdzić nawiedzony dom w Beregost na przeciw Płonącego Czarodzieja.
     - W domu duch dawnego właściciela nie może za zaznać spokoju dopóki nie wrócą do niego jego numizmatyczne zbiory.
     - Udaje na się je odebrać od wdowy i przywrócić spokój domowi.
+    - Składamy raport Eloran.
     <div id="q-47"></div>
 
 ??? warning "Shadows and Echoes"

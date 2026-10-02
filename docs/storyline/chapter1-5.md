@@ -36,6 +36,8 @@ W nawiedzonym domu drużyna nawiązała kontakt z **Torqionem**, duchem uwięzio
 
 Dnieje i wracamy do miasta.
 
+Bestiariusz: Czarny niedźwiedź, Pies bojowy, Hobgoblin, Straszliwy wilk (dread wolf), Dziki pies, Worg, Wapiryczny wilk, Pająk miecznik, Astralny pająk fazowy, Zombie, Pająk upiór
+
 -----
 Zaglądamy do domu wskazanego przez Eloran (40). Spotykamy Malicię i jej partnera domu, którzy przeprowadzili się tu z Daggerford. Poprzedni właściciel umarł a jego żona sprzedała dom i zatrzymała się w „Czerwonym Bukiecie”, dopóki nie załatwi swoich spraw, by przenieść się do Wrót Baldura. Na górze przebywa duch, który ciągle mówi o swoich monetach?
 W karczmie (11) faktycznie przebywała wdowa i przekazała nam zestaw monet, który kolekcjonował jej mąż. Chciała go zatrzymać jako pamiątkę po nim. Zagadujemy także Tulbora, który wypełnił pustą butelkę jaka została nam ze śledztwa eliksirem uzdrawiającym.
@@ -46,6 +48,40 @@ Udając się do Oka Gorgony (29) drużyna ponownie spotkała **Pontaga** (28), k
 
 W siedzibie gildii przekazujemy Liedel wisiorek Vapuli i otrzymujemy nagrodę. Miejmy nadzieje, że nawrócony rzezimieszek znajdzie swoją własną drogę (LIEDEL’S BOUNTY: VAPULA SIMBERG 41).
 
+Umieszczamy spreparowaną wiadomość do do beczki za Płonącym Czarodziejem (41) i zamierzamy zaczaić się na zdrajće w nocy (SHADOWS AND ECHOES 46).
+------
 
-Bestiariusz: Czarny niedźwiedź, Pies bojowy, Hobgoblin, Straszliwy wilk (dread wolf), Dziki pies, Worg, Wapiryczny wilk, Pająk miecznik, Astralny pająk fazowy, Zombie, Pająk upiór
+Wracamy do świątyni Lathandera zdać raport Eloran (AN ORDINARY HUNTING 47). Kapłanka wynagrodziła kompanię złotem i miksturami, po czym przedstawił kolejne zadanie. Na szlaku pomiędzy *Beregostem* a *Pomocną Dłonią* zaczęli znikać podróżni. Początkowo podejrzewano bandytów, lecz jedyny ocalały wskazał na wyznawcę **Malara**, krwawego boga łowów. Malarzyci wierzyli, że przeżyć powinni wyłącznie najsilniejsi, a przemoc uznawali za jedyny naprawdę zrozumiały język. **Eloran** poleciła odnaleźć sprawcę przy trakcie. Według ostatnich informacji kryjówka mogła znajdować się w najbardziej wysuniętych na południe klifach. Choć **Lathander** nauczał o odkupieniu, kapłanka przypomniała, że przemiana wymaga woli winowajcy, a z decyzją nie można czekać, gdy w tym czasie giną niewinni (HUNTING THE HUNTSMAN 50).
 
+Docieramy do Pontag’a na południe od światyni (12) i zgadzam się wpbróbować razem z nim eliksir. Po chwili wpadam w omamy i rzeczywiście wydaje mi się, że widzę olbrzymiego żuka. Na szczęście po chwili efekt ustępuje i wracam do towarzyszy lekko otumaniony.
+Pontag widział to samo, ale sądzę, że to narkotyk i siła sugestii. Starzec poprosił mnie abyśmy się ponownie spotkali w Beregost (BEETLES, DREAMS AND AN OLD MAN 22).
+
+
+-----
+Czekając na zmierzch aby dorwać zdrajcę postanawiamy udać się na Przybrzeżny Szlak i odnaleźć bandytów wspominanych przez Eloran.
+Za dnia spotykamy tak Jase (7) małego, wystraszonego chłopca, który byc świadkiem ataku na karawanę. Nie udało nam sie go uspokoić i uciekł przed nami.
+
+Tuż koło karawany (8) pojawił się poszukiwany przez nas Malaryta i śmiejąc się nam w twarz zniknął za pobliskim drzewem. Okazała się, że pod darnią (9) znajdowało się wejście do tuneli.
+
+Poniżej w ciemności zaatakowały nas olbrzymie pająki, ale prąc naprzód dotarliśmy do naszego celu i zakończyliśmy problem (HAUNTING THE HUNTSMAN 50). Przy pokonanym wyznawcy **Malara** drużyna znalazła pierścień wykonany podobno z pazura jednej z ulubionych bestii Władcy Zwierząt. Przedmiot cuchnął krwią i lekko pulsował pod dotykiem. Nasycona dziką mocą błyskotka obdarzała właściciela skrytością i zaciekłością drapieżnika, lecz osłabiała rozsądek oraz zdolność obcowania z innymi.
+![Pazur Bestii](../images/pazur_bestii.webp){ .center-img width="20%" }
+
+Nasza chaotyczna czarodziejka - **Neera** przyznała, że odkąd dołączyła do drużyny, codzienne życie stało się dla niej zaskakująco łatwiejsze. Nie chodziło wprawdzie o wspólnie stawiane czoła potworom i innym zagrożeniom, lecz o zwykłe poczucie bezpieczeństwa. Po raz pierwszy od dawna nie musiała zasypiać z obawą, że w nocy kobold poderżnie jej gardło albo kolejny pościg zmusi ją do ucieczki. Adeptka Dzikiej Magii opowiedziała również o swoim dzieciństwie w *Wysokim Żywopłocie*. Przyznała, że nigdy nie była pilną uczennicą, a część jej problemów wynikała z unikania nauki i lekceważenia ćwiczeń. Podczas jednego z treningów miała przywołać kulę ognia, lecz zaklęcie wymknęło się spod kontroli. Uczniowie uciekali w panice, a dwie osoby zostały ranne. Choć wszyscy przeżyli, przerażona dziewczyna nie potrafiła stawić czoła konsekwencjom i uciekła. Przez pewien czas ukrywała się w lesie, kradnąc jedzenie i pozostawiając rodzicom krótkie wiadomości. Ostatecznie musiała jednak opuścić rodzinne strony. Błąkała się po *Wysokim Lesie*, podejmując kolejne niefortunne decyzje, aż zainteresowali się nią Thayanie. Leech zapewnił, że nie zamierza jej osądzać. Każdy mógł spanikować, gdy magiczny trening nagle zamieniał salę lekcyjną w płonące pobojowisko. **Neera** nie potrafiła jeszcze zdecydować, dokąd prowadzi jej droga, lecz cieszyła się, że może kontynuować ją u boku drużyny. Po raz pierwszy od dawna nie musiała uciekać samotnie ani zastanawiać się, czy następny błąd ponownie odbierze jej wszystko.
+
+Jej opowieść przeważyła i podjęliśmy decyzję o odwiedzinach bliskiego Neerze miejscu.
+
+Bestiariusz: Olbrzymi pająk 
+
+----
+
+Jen’lig poprosiła mnie o zwykły srebrny naszyjnik, który znajdował się w torbie podróżnej a następnie przeistoczyła go w magiczną ochronę przeciwko łupieżcom umysłu.
+
+Po wschodniej stronie obwarowań siedzimy maga (1) atakuje nas grupa gnolli i znajdujemy w ich rzeczach poszukiwany przez Perdue mieczyk (PERDUE’S SHORT SWORD 23).
+
+Na schodach przed drzwiami (2) drużyna spotkała zdesperowaną **Aivell**, której mąż **Tonder** został zaatakowany przez wielką bestię podczas wędrówki po okolicznych wzgórzach. Przed pożarciem uratował go **Thalantyr**, lecz odniesione rany nie były zwyczajne. Stan mężczyzny stopniowo się pogarszał, aż dwie noce wcześniej przemienił się na oczach żony w wilkołaka. **Aivell** błagała starego maga o przygotowanie lekarstwa, ale ten nie chciał jej wysłuchać. **Neera**, poruszona losem małżonków, obiecała porozmawiać z **Thalantyrem** i przekonać go do sporządzenia antidotum. Zrozpaczona kobieta przyznała, że jeśli wszystkie próby zawiodą, może nie pozostać inne wyjście niż zabicie przemienionego **Tondera**. Prosiła jednak, aby najpierw wykorzystać każdą możliwość ocalenia męża (OF WOLVES AND MEN 51).
+
+Nieopodal (3) natknęli się na **Permidiona Starka**, złodzieja pochłoniętego planowaniem „największego skoku wszech czasów”. Celem był potężny mag mieszkający nieopodal i posiadający pokaźną kolekcję magicznych przedmiotów. Problem stanowiły pilnujące posiadłości monstrualne bestie, zbyt silne do pokonania w bezpośredniej walce i pozostawiające niewiele cieni, w których można byłoby się ukryć. **Permidion** podejrzewał jednak, że stworzenia da się przechytrzyć lub odciągnąć od posterunków. Sam nie wiedział jak, dlatego zasugerował poszukanie informacji w pobliskiej wiosce niziołków. **Imoen** i **Jen’lig** nie szczędziły mu przy tym złośliwych uwag, skutecznie zakłócając jego „genialny” tok myślenia. Leech postanowił zapamiętać sprawę. Jeśli mieszkańcy wioski znali słabość bestii, kolekcja maga mogła wkrótce zmienić właściciela.
+
+Zajrzeliśmy do domu Aiwell (4) i zgodnie z oczekiwaniami w środku zobaczyliśmy wilkołaka. Nie zaatakował nas i szybko opuściliśmy izbę. Wrócimy, jeśli znajdziemy lek.
+
+Bestiariusz: Gnoll, Gnoll rozpruwacz, Gnoll weteran, Dzik, Dziki pies, Ghoul, Wielki pająk, Szkielet

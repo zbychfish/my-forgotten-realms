@@ -152,8 +152,14 @@
 |Galileus|BG3400|:material-check-circle:|oczywiście zapatrzony w gwiazdy|
 |Torqion|AR3905|:material-check-circle:|fantom w trzech postaciach co umrzeć chce|
 |Malicia|BG3311|:material-check-circle:|właścielka domu z duchem|
+|Jase|BG2800|:material-check-circle:|co karawany koniec obserwował|
+|Malaryta - bez imienia|BG2800|:material-close-circle:|🪦 - co dręczył ludzi na szlaku|
+|Aiwell|BG2300|:material-check-circle:|co za chłopa wilkołaka miała|
+|Permidion Stark|BG2300|:material-check-circle:|co Thalantyra okraść chciał|
 
-Świątynia Lathandera - przuświątynny westybuł - BG3401
+
+Wysoki Żywopłot - BG2300
+Świątynia Lathandera - przyświątynny westybuł - BG3401
 Świątynia Lathandera - wnętrze świątyni - BG3402
 Świątynia Lathandera - BG3400
 Beregost - Siedziba Travenhursta - BG3320
