@@ -7,6 +7,6 @@
 | Pod Pomocną Dłonią [4] | BG2300 | [![Pomocna Dłoń](../maps/BG2300.webp){ width="100" }](../maps/BG2300.webp) |
 | Beregost [5, 7, 8, 11] | BG3300 | [![Beregost](../maps/BG3300.webp){ width="100" }](../maps/BG3300.webp) |
 | Świątynia Lathandera [6,9] | BG3400 | [![Świątynia Lathandera](../maps/BG3400.webp){ width="100" }](../maps/BG3400.webp) |
-| Wysoki Żywopłot [10] | BG3200 | [![Wysoki Żywopłot](../maps/BG3200.webp){ width="100" }](../maps/BG3200.webp) |
+| Wysoki Żywopłot [10,13] | BG3200 | [![Wysoki Żywopłot](../maps/BG3200.webp){ width="100" }](../maps/BG3200.webp) |
 | Czerwone Jary [12] | BG3700 | [![Czerwone Jary](../maps/BG3700.webp){ width="100" }](../maps/BG3700.webp) |
 

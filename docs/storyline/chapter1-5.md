@@ -1,3 +1,5 @@
+![Oko Gorgony](../images/od_swiatyni_do_kurnika.webp){ .center-img width="40%" }
+
 <div class="divider">Świątynia Lathandera&nbsp;<span class="mb">6</span></div>
 
 [![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }](../maps/BG3400.webp)
@@ -162,3 +164,9 @@ Pierścień otrzymany od **Mal’meta Bloomducka** przypomniał wtedy o swoim is
 Z gadającym kurczakiem w plecaku oraz pierwszą magiczną sferą w ekwipunku bohaterowie ruszyli ponownie do **Thalantyra**.
 
 **Bestiariusz:** *Szkielet, Wilk, Hobgoblin, Elita hobgoblinów, Ghul, Ghast, Zombie, Ettin, Ochrowy galaretowiec*
+
+<div class="divider">Na szlaku</span></div>
+
+W drodze do *Wysokiego Żywopłotu* spotykamy na szlaku martwego jelenia, który okazał się być nieumarłym a po chwili dołączyły do niego inne zombie. Nigdy nie słyszano aby jelenie były podatne.
+
+![Jeleń zombie](../images/jelen_zombie.webp){ .center-img width="55%" }
