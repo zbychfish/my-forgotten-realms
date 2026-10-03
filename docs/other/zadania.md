@@ -23,7 +23,7 @@
 |Family Quarrel in Beregost|Wykonane|[Zobacz szczegóły](#q-20)|
 |Beregost: Alanna's Neighbour in Trouble|Wykonane|[Zobacz szczegóły](#q-21)|
 |Beeetles, Dreams and an Old Man|Aktywny|[Zobacz szczegóły](#q-22)|
-|Perdue's Short Sword|Aktywny|[Zobacz szczegóły](#q-23)|
+|Perdue's Short Sword|Wykonane|[Zobacz szczegóły](#q-23)|
 |Bassilus Murderer|Aktywny|[Zobacz szczegóły](#q-24)|
 |Finch Books|Aktywny|[Zobacz szczegóły](#q-25)|
 |Zhurlong's Missing Boots|Aktywny|[Zobacz szczegóły](#q-26)|
@@ -42,33 +42,60 @@
 |Shadows of Revelry|Wykonane|[Zobacz szczegóły](#q-39)|
 |Liedel's Bounty: Carth|Aktywny|[Zobacz szczegóły](#q-40)|
 |Liedel's Bounty: Vapula Simberg|Wykonane|[Zobacz szczegóły](#q-41)|
-|Liedel's Bounty: Aisha|Aktywny|[Zobacz szczegóły](#q-42)|
+|Liedel's Bounty: Aisha|wykonane|[Zobacz szczegóły](#q-42)|
 |Sorceress of Shadows|Aktywny|[Zobacz szczegóły](#q-43)|
 |Blades in the Night|Wykonane|[Zobacz szczegóły](#q-44)|
 |Moonlight Retrieval|Wykonane|[Zobacz szczegóły](#q-45)|
 |Shadows and Echoes|Aktywny|[Zobacz szczegóły](#q-46)|
 |An Ordinary Hunting|Wykonane|[Zobacz szczegóły](#q-47)|
 |Drunk near Beregost Temple|Wykonane|[Zobacz szczegóły](#q-48)|
-|Phantom East of Beregost|Aktywny|[Zobacz szczegóły](#q-49)|
-|Hunting the Huntsman|Aktywny|[Zobacz szczegóły](#q-50)|
-|Of Wolves and Men|Aktywny|[Zobacz szczegóły](#q-51)|
+|Basilisk Pets|Aktywny|[Zobacz szczegóły](#q-49)|
+|Phantom East of Beregost|Aktywny|[Zobacz szczegóły](#q-50)|
+|Hunting the Huntsman|Aktywny|[Zobacz szczegóły](#q-51)|
+|Of Wolves and Men|Aktywny|[Zobacz szczegóły](#q-52)|
+|Snooping Around|Aktywny|[Zobacz szczegóły](#q-53)|
+|Bibliophilia|Aktywny|[Zobacz szczegóły](#q-54)|
+|Melicamp the Chicken|Aktywny|[Zobacz szczegóły](#q-55)|
+
+
+??? warning "Melicamp the Chicken"
+    - **Zleceniodawca:** Zamieniony w kurczaka Melicamp w Czerwonych Jarach.
+    - Prosi o eskortę do Wysokiego Żywopłotu.
+    <div id="q-55"></div>
+
+??? warning "Bibliophilia"
+    - **Zleceniodawca:** Gadający mebel w prywatnych komnatach Thalantyra.
+    - Mebel to bibliofil uwielbiajacy cykl histori Cienistej Doliny ale brakuje mu ostatniego trzynastego tomu i prosi o jego dostarczenie.
+    <div id="q-54"></div>
+
+??? warning "Snooping Around"
+    - **Zleceniodawca:** Po podniesieniu kamienia strażniczego w siedzibie Thalantyra.
+    - Okazuje się, że kamień otwiera portal do pokoi maga.
+    - Po splądrowaniu kufrów wstrzymujemy się z oddaniem kamienia bo mamy jeszcze do wypełnienia prośbę mebla.
+    <div id="q-53"></div>
 
 ??? warning "Of Wolves and Men"
     - **Zleceniodawca:** Aiwell na schodach siedziby maga w Wysokim Żywopłocie.
     - Mąż Aiwell zamienia się w wilkołaka, czy możemy temu zapobiec?
     - Porozmawiajmy z Thalantyrem.
-    <div id="q-51"></div>
+    <div id="q-52"></div>
 
 ??? warning "Hunting the Huntsman"
     - **Zleceniodawca:** Eloran w świątynik Lathandera w Beregost.
     - Na trakcie między Beregost a Pomocną Dłonią grasuje banda wyznawców Malara. Trzeba z tym zrobić porządek.
     - Wyznawca był jeden i już nikomu nie zagrozi. Miał kryjówke w tunelach obok zaatakowanych karawan.
-    <div id="q-50"></div>
+    <div id="q-51"></div>
 
 ??? warning "Phantom East of Beregost"
     - **Zleceniodawca:** Torgion w grobowcu w górach przy świątyni Lathandera.
     - W grobowcu przy wzgórzach koło świątyni Lathandera spotykamy Torqiona uwięzionego wraz z dwoma innymi duszami. Aby go uwolnić musimy znaleźć starożytny miecz należący kiedyś do łowczy wampirów.
+    <div id="q-50"></div>
+
+??? warning "Basilisk Pets"
+    - **Zleceniodawca:** Po przywrócenia postaci cielesnej Corianny koło świątyni Lathandera.
+    - Grożny mag kontrolujący bazyliszki zamienia ludzi w kamień. Udał się na wschód.
     <div id="q-49"></div>
+
 
 ??? success "Drunk near Beregost Temple"
     - **Zleceniodawca:** Polus przy westybule świątyni Lathandera.
@@ -106,7 +133,7 @@
     - Mamy odszukać odłamku magicznej laski. Na ją jakaś wiedźma gdzieś na Wzgórzach Bełkotków.
     <div id="q-43"></div>
 
-??? warning "Liedel's Bounty: Aisha"
+??? success "Liedel's Bounty: Aisha"
     - **Zleceniodawca:** Liedel w Oku Gorgony.
     - Zbadać sprawę Aishy, będącej w sporze z kochankiem."
     - Aisha broniąc się przed nahalnym kochankiem ośmieszyła go i niedojda chce ją za to zabić.
@@ -114,6 +141,8 @@
     - Opowieść Amriusa znacznie się różni od histori Aishy. Jasne, że wyrok za ośmieszenie to nazbyt krwawe rozwiązanie ale warto skonfrontować obie historie.
     - Jednak Amrius nie kłamał to klasyczny dylemat zazdrosnych kochanków w ktory uwikłana jest strona trzecia - Ilena. Sprawdźmy ten trop.
     - Ilena miała wywołać zazdrość w Aishy a ta zareagowała jak banshee. Wynajęta przez Amriusa kurtyzana postara się przekonać go do odwołania zlecenia.
+    - Amrius zgodził się odwołać kontrakt ale poinformowana o tym Aisha jest fatalnie zauroczona i nie rozumie, że Amrius nie jest nią zainteresowany. Miejmy nadzieje, że nie dojdzie do tragedii.
+    - Liedel przyjał do wiadomości nasze podejście do zlecenia ale nie wynagrodził nas za to.
     <div id="q-42"></div>
 
 ??? success "Liedel's Bounty: Vapula Simberh"
@@ -211,9 +240,11 @@
     - Bassilius wielce zły człowiek zamienia ludzi w zombie. Może dowiemy sie więcej.
     <div id="q-24"></div>
 
-??? warning "Perdue's Short Sword"
+??? success "Perdue's Short Sword"
     - **Zleceniodawca:** Perdue w Czerwonym Bukiecie.
     - Chciałby odzyskać miecz ukradziony przez gnolla na zachód od Beregost.
+    - Wspomniane gnolle i miecz odnaleźliśmy przy siedzibie Thalantyra w Wysokim Żywopłocie.
+    - Oddaliśmy miecz właścicielowi.
     <div id="q-23"></div>
 
 ??? warning "Beeetles, Dreams and an Old Man"

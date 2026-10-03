@@ -154,10 +154,22 @@
 |Malicia|BG3311|:material-check-circle:|właścielka domu z duchem|
 |Jase|BG2800|:material-check-circle:|co karawany koniec obserwował|
 |Malaryta - bez imienia|BG2800|:material-close-circle:|🪦 - co dręczył ludzi na szlaku|
-|Aiwell|BG2300|:material-check-circle:|co za chłopa wilkołaka miała|
-|Permidion Stark|BG2300|:material-check-circle:|co Thalantyra okraść chciał|
+|Aiwell|BG3200|:material-check-circle:|co za chłopa wilkołaka miała|
+|Permidion Stark|BG3200|:material-check-circle:|co Thalantyra okraść chciał|
+|Thalantyr|BG3202|:material-check-circle:|mag co sklep ciekawy i dwa golema ma|
+|Valera|BG3300|:material-close-circle:|🪦 - co przekonała się, że zdrada nie popłaca|
+|Roger|BG3700|:material-check-circle:|posłaniec zmierzający do Amn|
+|Kissiq|BG3700|:material-check-circle:|co gadające kurczaki widzi|
+|Melicamp|BG3700|:material-check-circle:|gdakający czarodziej|
+|Trungle|BG3700|:material-check-circle:|obwoźny sprzedawca|
+|Footy|BG3700|:material-check-circle:|co rodziny i przyjaciół w szkielety zamianę musiał oglądać|
+|Geltik|BG3700|:material-close-circle:|🪦 - hobgoblin, dobry łucznik|
+|Malkax|BG3700|:material-close-circle:|🪦 - hobgoblin, dobry łucznik|
+|Zargal|BG3700|:material-close-circle:|🪦 - hobgoblin, dobry łucznik|
+|Bassilus|BG3700|:material-close-circle:|🪦 - co w szkielety bliskim zmieniał|
 
-
+Czerwone Jary - BG3700
+Wysoki Żywopłot - siedziba Thalantyra - BG23002
 Wysoki Żywopłot - BG2300
 Świątynia Lathandera - przyświątynny westybuł - BG3401
 Świątynia Lathandera - wnętrze świątyni - BG3402

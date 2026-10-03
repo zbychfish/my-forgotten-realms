@@ -1,5 +1,7 @@
 ![Oko Gorgony](../images/oko_gorgony_logo.webp){ .center-img width="40%" }
 
+<div class="divider">Beregost&nbsp;<span class="mb">5</span></div>
+
 [![Beregost](../maps/BG3300.webp){ .center-img width="40%" }](../maps/BG3300.webp)
 
 Ukryte przejście <span class="mb">29</span> prowadziło do rozległych podziemi, które niegdyś mogły służyć jako miejskie magazyny. W środku kręciło się mnóstwo ludzi, ale wystarczyło kilka spojrzeń, aby zrozumieć, że nieproszona drużyna nie wzbudza ich zachwytu. Mimo nieufności wszyscy wskazywali drogę w głąb kompleksu, jak gdyby ktoś ważny już na nich czekał.

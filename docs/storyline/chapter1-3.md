@@ -1,5 +1,7 @@
 ![Beregost](../images/beregost.webp){ .center-img width="100%" }
 
+<div class="divider">Beregost&nbsp;<span class="mb">5</span></div>
+
 [![Beregost](../maps/BG3300.webp){ .center-img width="40%" }](../maps/BG3300.webp)
 
 

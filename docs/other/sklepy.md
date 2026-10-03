@@ -17,3 +17,7 @@
 **Eurynome Rhade** - Oko Gorgony, sklepik i mozliwość podrasowania broni
 
 **Kelddath Ormlyr** - Świątynia Lathandera, zwóje zamieniające kamień w ciałom
+
+**Thalantyr** - Wysoki Żywopłot, zwoje i pociski i magiczne przedmioty
+
+**Trungle** - Cxzerwone Jary, zwoje i pociski

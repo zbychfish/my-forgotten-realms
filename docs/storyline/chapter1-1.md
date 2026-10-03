@@ -1,3 +1,5 @@
+<div class="divider">Lwi Trakt&nbsp;<span class="mb">2</span></div>
+
 ![Candlekeep](../images/daemonknight.webp){ .center-img width="100%" }
 
 Po zmierzchu obaj opuścili główny szlak i ruszyli na wschód, mając nadzieję, że przed nastaniem głębokiej nocy znajdą bezpieczne schronienie. Nie zdążyli jednak ujść daleko, gdy **Gorion** zatrzymał się gwałtownie. Wystarczyło mu jedno spojrzenie na otaczające ich ciemności, aby zrozumieć, że wpadli w zasadzkę.
@@ -17,6 +19,7 @@ Dopiero gdy napastnicy odeszli, a odgłosy ich kroków całkowicie ucichły, mł
 Bezksiężycowa noc ocaliła go przed mordercami, lecz nie przyniosła ukojenia. Drżąc z zimna, strachu i rozpaczy, skulił się pomiędzy skałami. Sen długo nie nadchodził, a kiedy w końcu zmęczenie wzięło górę, był płytki i niespokojny. Nawet wtedy przed oczami wciąż miał ostatnie chwile **Goriona**.
 
 ---
+
 [![Lwi Trakt](../maps/BG2700.webp){ .center-img width="40%" }](../maps/BG2700.webp)
 
 **Leech** obudził się ze świadomością, że wydarzenia minionej nocy nie były jedynie okropną marą senną. Zasadzka, walka i śmierć **Goriona** wydarzyły się naprawdę. Wciąż miał przed oczami opiekuna powalonego mieczem czarnego rycerza. Nawet potężna magia starego maga nie zdołała powstrzymać napastników.
@@ -48,9 +51,10 @@ Idąc dalej, podróżnicy pośpiesznie wymienili kilka zdań z Binkosem <span cl
 Nie zwlekając dłużej, drużyna ruszyła zgodnie z drogowskazami na północ, w stronę Pomocnej Dłoni.
 
 :material-paw: **Bestiariusz:** *Olbrzymi Wąż, Wilk, Czarny Niedźwiedź*
----
 
-[![Candlekeep](../maps/BG2800.webp){ .center-img width="40%" }](../maps/BG2800.webp)
+<div class="divider">Nadbrzeżny Trakt&nbsp;<span class="mb">3</span></div>
+
+[![Nadbrzeżny Trakt](../maps/BG2800.webp){ .center-img width="40%" }](../maps/BG2800.webp)
 
 Podróżnicy dotarli na Nadbrzeżny Trakt. Niedługo później spotkali starego człowieka odzianego w czerwoną tunikę i spiczasty kapelusz <span class="mb">1</span>. Wygląd nieznajomego oraz jego sposób bycia wskazywały, że mają przed sobą maga. Starzec nawiązał krótką rozmowę z **Sandrah**. **Leech** odniósł wrażenie, że oboje już wcześniej się spotkali, choć żadne z nich nie powiedziało tego wprost. Nieznajomy życzył drużynie powodzenia w podróży, lecz wykazywał przy tym niepokojąco dobrą znajomość jej członków. Znał nawet imię **Imoen**. Pomimo tego młody gnom nie wyczuwał z jego strony zagrożenia. Przeczucie podpowiadało mu jednak, że nie było to ich ostatnie spotkanie.
 
@@ -65,5 +69,3 @@ W północnej części szlaku drużyna minęła Aolna <span class="mb">6</span>.
 Wreszcie w oddali zamajaczyły masywne mury otaczające cel ich podróży. Po wielu godzinach marszu drużyna dotarła do warownej gospody *Pod Pomocną Dłonią*. Leech miał nadzieję, że za jej bramami odnajdzie **Jaheirę** i **Khalida**, a wraz z nimi odpowiedzi na przynajmniej część pytań pozostawionych przez śmierć **Goriona**.
 
 :material-paw: **Bestiariusz:** *Dzik, Wilk, Chory Bełkotek, Rozbójnik, Rozbójnik karawanowy, Xvart, Niedźwiedziożuk, Ogr*
-
-

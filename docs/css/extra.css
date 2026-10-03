@@ -67,3 +67,25 @@ div.dt-container .dt-paging .dt-paging-button.current {
     border: 1px solid var(--md-default-fg-color--light);
     border-radius: 50%;
 }
+
+.divider {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.divider::before,
+.divider::after {
+    content: '';
+    flex: 1;
+    border-bottom: 1px solid var(--md-default-fg-color--lighter);
+}
+
+.divider:not(:empty)::before {
+    margin-right: 1rem;
+}
+
+.divider:not(:empty)::after {
+    margin-left: 1rem;
+}
