@@ -82,7 +82,7 @@ Podczas spaceru **Imoen** zaczęła marzyć, że po zakończeniu awanturniczego 
 
 Po zmroku nadszedł czas na zadania wymagające osłony nocy. Za domem rolnika <span class="mb">33</span> drużyna rzeczywiście odnalazła potwora, którym okazał się ghul. Po pozbyciu się bestii przekazali gospodarzowi <span class="mb">32</span> dobrą wiadomość. Wdzięczny farmer podziękował im za pomoc udzieloną i braku żądania zapłaty ([A WORRIED FARMER](../other/zadania.md#q38)).<BR>:material-trending-up: **Reputacja +1**
 
-:material-paw: **Bestiariusz:** *Ghul*
+:material-paw: **Bestiariusz:** *hhul*
 
 Tego samego wieczoru przy *Wesołym Żonglerze* rozpoczęła się uczta szlachciców <span class="mb">34</span>. Drużyna przekonała karczmarza **Boberta**, aby dolał do piwa nieco mocniejszego trunku. Wkrótce strażnicy zaczęli zwracać większą uwagę na towarzystwo postronnych osób niż na mieszki swoich pracodawców. Leech przekonał jedną z kurtyzan, aby odciągnęła strażnika, otwierając krótkie okno możliwości. **Jen’lig**, która najwyraźniej równie sprawnie posługiwała się palcami jak mieczem, wykradła sakiewkę lordowi **Thalricowi**. Następnie drużyna sprowokowała bójkę z jednym z pijanych gości. Strażnik zakończył imprezę, a lady **Elara** w całym zamieszaniu upuściła wartościowy mieszek. Obie sakiewki trafiły w ręce ludzi **Oka Gorgony**.
 

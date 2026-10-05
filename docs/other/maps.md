@@ -9,6 +9,6 @@
 | Świątynia Lathandera [6,9] | BG3400 | [![Świątynia Lathandera](../maps/BG3400.webp){ width="100" }](../maps/BG3400.webp) |
 | Wysoki Żywopłot [10,13] | BG3200 | [![Wysoki Żywopłot](../maps/BG3200.webp){ width="100" }](../maps/BG3200.webp) |
 | Czerwone Jary [12] | BG3700 | [![Czerwone Jary](../maps/BG3700.webp){ width="100" }](../maps/BG3700.webp) |
-| Dzicze Beregostu [14] | BG3700 | [![Dzicze Beregostu](../maps/BG3800.webp){ width="100" }](../maps/BG3800.webp) |
+| Dzicze Beregostu [14] | BG3800 | [![Dzicze Beregostu](../maps/BG3800.webp){ width="100" }](../maps/BG3800.webp) |
 | Przełęcz Nashkel [15] | BG4300 | [![Przełęcz Nashkel](../maps/BG4300.webp){ width="100" }](../maps/BG4300.webp) |
 

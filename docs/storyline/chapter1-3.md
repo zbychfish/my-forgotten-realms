@@ -25,7 +25,7 @@ Nieco dalej **Alanna** <span class="mb">4</span> poprosiła drużynę o pilną p
 
 W domu naprzeciwko <span class="mb">6</span> drużyna spotkała chłopca wołającego swojego ojca. Ku zaskoczeniu przybyszów wspomnianym „tatusiem” okazał się ogr. Interwencja zakończyła się wprawdzie usunięciem potencjalnego zagrożenia, lecz chłopiec ani trochę nie wyglądał na wdzięcznego. Najwyraźniej więzy rodzinne potrafiły przybierać na *Wybrzeżu Mieczy* naprawdę zaskakujące formy.
 
-:material-paw: **Bestiariusz:** *Ogr"
+:material-paw: **Bestiariusz:** *ogr"
 
 Na jednej z ulic Leech został zatrzymany przez **Pontaga** <span class="mb">7</span>, który ostrzegł go przed nadepnięciem na wielowymiarowego żuka. Problem polegał na tym, że owada nigdzie nie było widać. Starzec wyjaśnił, że postrzega żuki w wielu chwilach jednocześnie, przez co nigdy nie ma pewności, czy obserwuje teraźniejszość, przeszłość, czy coś, co dopiero się wydarzy. Próbował nawet schwytać jeden z okazów, aby udowodnić innym, że nie są wyłącznie wytworem jego wyobraźni. **Imoen** uznała opowieść za godną jednej z gawęd **Winthropa**, natomiast przywódca kompanii ostrożnie zasugerował, że rozmówcy może przydać się odpoczynek. Dotknięty **Pontag** zapewnił, że nic mu nie dolega, pozostawiając drużynę z zagadką owadów istniejących jednocześnie wczoraj, dziś i być może w przyszły czwartek. Towarzysząca mu **Miji** potwierdziła, że starzec jest jej ojcem i od pewnego czasu opowiada o żukach, innych wymiarach oraz chwilach nakładających się na siebie. Zapewniła, że jest nieszkodliwy, choć odrobinę ekscentryczny. Poprosiła, aby podczas kolejnego spotkania potraktować go łagodnie, i wspomniała, że nocami często można go znaleźć za gospodą *Feldeposta*. Tam przeszukuje rzędy drzew, licząc na schwytanie jednego z tajemniczych stworzeń. Drużyna postanowiła przyjrzeć się sprawie. Od walki z zabójcami można było przecież czasem odpocząć, tropiąc żuki, które być może jeszcze się nie pojawiły ([BEETLES, DREAMS AND AN OLD MAN](../other/zadania.md#q22)).
 
@@ -133,7 +133,7 @@ Na placu przy fontannie drużyna spotkała dwóch mężczyzn noszących imię **
 
 Następnie drużyna odwiedziła dom **Landrin** <span class="mb">21</span>. Wewnątrz roiło się od ogromnych pająków. Po pozbyciu się stworzeń podróżnicy zabrali ciało jednego z nich, butelkę wina oraz znoszone buty, o które prosiła właścicielka. Wszystkie przedmioty należało dostarczyć jej podczas kolejnej wizyty w *Pomocnej Dłoni* ([LANDRIN'S POSSESSIONS](../other/zadania.md#q14)).
 
-:material-paw: **Bestiariusz:** *Olbrzymi Pająk"
+:material-paw: **Bestiariusz:** *olbrzymi pająk"
 
 Kolejnym odwiedzonym przybytkiem był *Wesoły Żongler* <span class="mb">22</span>. Przy wejściu rudowłosa **Morwen Alandel** z *Neverwinter* zaproponowała dołączenie do drużyny. Leech odmówił. Po niedawnych doświadczeniach z bardami uznał, że kompania posiada już dostatecznie dużo pieśni, niespełnionych ambicji scenicznych i urażonej artystycznej dumy.
 
@@ -166,7 +166,7 @@ PółElf · Dziki Mag · Chaotyczny Dobry
 </div>
 </div>
 
-:material-paw: **Bestiariusz:** *Czerwony Mag Czarodziej, Czerwony Maf Strażnik"
+:material-paw: **Bestiariusz:** *czerwony mag czarodziej, czerwony mag strażnik"
 
 **Kagain** opuścił drużynę i zapowiedział, że będzie czekał w swoim przedsiębiorstwie.
 

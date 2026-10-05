@@ -1,4 +1,4 @@
-![Oko Gorgony](../images/od_swiatyni_do_kurnika.webp){ .center-img width="40%" }
+![](../images/od_swiatyni_do_kurnika.webp){ .center-img width="40%" }
 
 <div class="divider">Świątynia Lathandera&nbsp;<span class="mb">6</span></div>
 
@@ -36,7 +36,7 @@ Nad horyzontem pojawiły się pierwsze promienie świtu, dlatego zmęczona kompa
 
 ![Miś Dnia Zagłady](../images/mis_dnia_zaglady.webp){ .center-img width="40%" }
 
-**Bestiariusz:** *Czarny niedźwiedź, Pies bojowy, Hobgoblin, Straszliwy wilk, Dziki pies, Worg, Wampiryczny wilk, Pająk miecznik, Astralny pająk fazowy, Zombie, Pająk upiór*
+:material-paw: **Bestiariusz:** *czarny niedźwiedź, pies bojowy, hobgoblin, straszliwy wilk, dziki pies, worg, wampiryczny wilk, pająk miecznik, astralny pająk fazowy, zombie, pająk upiór*
 <br><br>
 
 <div class="divider">Beregost&nbsp;<span class="mb">7</span></div>
@@ -86,7 +86,7 @@ Przy ciele znaleźli pierścień wykonany podobno z pazura jednej z ulubionych b
 
 Podczas dalszej drogi **Neera** wyznała, że odkąd dołączyła do drużyny, jej życie stało się zaskakująco łatwiejsze. Po raz pierwszy od dawna nie musiała zasypiać z obawą, że kolejny pościg zmusi ją do ucieczki albo kobold poderżnie jej gardło. Adeptka Dzikiej Magii opowiedziała również o dzieciństwie w *Wysokim Lesie*. Nigdy nie była pilną uczennicą i często lekceważyła ćwiczenia. Podczas jednego z treningów miała przywołać kulę ognia, lecz magia wymknęła się spod kontroli. Dwie osoby zostały ranne, a przerażona dziewczyna uciekła, zamiast stawić czoła konsekwencjom. Przez pewien czas ukrywała się w lesie, kradnąc jedzenie i pozostawiając rodzicom krótkie wiadomości. Ostatecznie opuściła rodzinne strony i po wielu niefortunnych decyzjach zwróciła na siebie uwagę Thayan. Leech zapewnił, że nie zamierza jej osądzać. Każdy mógł spanikować, gdy lekcja magii nagle zamieniała się w płonące pobojowisko. **Neera** nadal nie wiedziała, dokąd prowadzi jej droga, lecz cieszyła się, że nie musi już przemierzać jej samotnie. Opowieść przekonała drużynę, aby odwiedzić miejsce bliskie młodej czarodziejce.
 
-**Bestiariusz:** *Olbrzymi pająk*
+:material-paw: **Bestiariusz:** *olbrzymi pająk*
 
 <div class="divider">Wysoki Żywopłot&nbsp;<span class="mb">10</span></div>
 
@@ -117,7 +117,7 @@ W drodze powrotnej **Sandrah** zainteresowała się sztyletem znalezionym przy c
 
 Zbliżała się północ. Nadszedł czas powrotu do *Beregostu* i schwytania zdrajcy.
 
-**Bestiariusz:** *Gnoll, Gnoll rozpruwacz, Gnoll weteran, Dzik, Dziki pies, Ghul, Wielki pająk, Szkielet, Golem z ciała*
+:material-paw: **Bestiariusz:** *gnoll, gnoll rozpruwacz, gnoll weteran, dzik, dziki pies, ghul, wielki pająk, szkielet, golem z ciała*
 
 <div class="divider">Beregost&nbsp;<span class="mb">11</span></div>
 
@@ -163,7 +163,7 @@ Pierścień otrzymany od **Mal’meta Bloomducka** przypomniał wtedy o swoim is
 
 Z gadającym kurczakiem w plecaku oraz pierwszą magiczną sferą w ekwipunku bohaterowie ruszyli ponownie do **Thalantyra**.
 
-**Bestiariusz:** *Szkielet, Wilk, Hobgoblin, Elita hobgoblinów, Ghul, Ghast, Zombie, Ettin, Ochrowy galaretowiec*
+:material-paw: **Bestiariusz:** *szkielet, wilk, hobgoblin, elita hobgoblinów, ghul, ghast, zombie, ettin, ochrowy galaretowiec*
 
 <div class="divider">Na szlaku</span></div>
 
