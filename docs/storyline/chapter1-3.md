@@ -33,6 +33,19 @@ W drodze do gospody przybyszów zamienili parę słów z **Seraphiną Whitewood*
 
 Przed gospodą *Płonący Czarodziej* <span class="mb">9</span> drużyna spotkała **Garricka**. Bard wynajął ich do ochrony **Silke Roseny**, utalentowanej artystki, której mieli zagrażać bandyci rzekomo przysłani przez **Feldeposta** w odwecie za odwołany występ. Kompania zgodziła się zapewnić aktorce ochronę i przeniosła się w pobliże gospody *Czerwony Bukiet* <span class="mb">10</span>. Tam pojawili się **Glayde**, **Faltis** i **Tessilan**, niosąc klejnoty, które mieli przekazać **Silke**. Artystka próbowała wykorzystać najemników do ich zamordowania, lecz Leech odmówił wykonania rozkazu bez upewnienia się, kto naprawdę jest winny. Kiedy manipulacja nie przyniosła rezultatu, **Silke** zaatakowała niedoszłych obrońców i przypłaciła ten błąd życiem. Trzej przybysze podziękowali drużynie za rozsądną decyzję, a **Garrick**, który zrozumiał, że dał się zwieść urokowi swojej pracodawczyni, poprosił o możliwość dołączenia do kompanii. Najwyraźniej nawet bardowi przydawał się czasem ktoś, kto odróżnia sceniczny dramat od próby morderstwa.
 
+<div class="character-intro" markdown>
+<div class="character-portrait" markdown>
+![](../images/garrick_p.webp)
+</div>
+<div class="character-summary" markdown>
+# Garrick
+<span class="character-subtitle">
+Człowiek · Łotrzyk · Praworządny Zły
+</span>
+> DODAĆ OPIS.
+</div>
+</div>
+
 Drużyna szybko się powiększa i postanowiono że **Jaheira** i **Khalid** będą na razie czekać w  *Pomocnej Dłoni*, podczas gdy pozostali weszli do Czerwonego Bukietu <span class="mb">11</span>. Na progu powitał ich **Karlat**, kolejny zabójca wynajęty do zgładzenia wychowanka **Goriona**. Starcie zakończyło się podobnie jak wcześniejsze zamachy. Przy ciele napastnika znaleziono kontrakt, z którego wynikało, że cena głowy Leecha wzrosła już do trzystu pięćdziesięciu sztuk złota. Niewielka pociecha, ale przynajmniej ktoś na szlaku doceniał jego rosnącą niezależność.
 
 :material-account-group: **Pozostawieni NPC:** *Jaheira i Khalid* (Pomocna Dłoń)
@@ -45,6 +58,18 @@ W tym samym miejscu spotkali **Perdue’a**, który poszukiwał wielkiego oprych
 
 W głownej sali pownie natknęli się na uroczą bibliotekarkę **Finch**. Obowiązki wobec świątyni **Deneira** nakazywały jej założenie nowej biblioteki w *Nashkel*. Kapłanka uważała, że przy całym skupieniu na miejscowych kopalniach zaniedbano edukację mieszkańców, a jej obowiązkiem jest zapewnienie im narzędzi potrzebnych do zdobywania wiedzy. Miała już listę dzieł, które należało odnaleźć, i zaproponowała wspólną podróż. Leech nie zamierzał odmawiać pomocy sympatycznej miłośniczce ksiąg, zwłaszcza że ich droga i tak prowadziła do *Nashkel*. Coraz bardziej osobliwa kompania zyskała więc kolejną uczoną towarzyszkę ([FINCH BOOKS](../other/zadania.md#q25)).
 
+<div class="character-intro" markdown>
+<div class="character-portrait" markdown>
+![](../images/finch_p.webp)
+</div>
+<div class="character-summary" markdown>
+# Finch
+<span class="character-subtitle">
+Gnom · Kleryk · Neutralny Dobry
+</span>
+> **Finch Bloomwhiffler** z entuzjazmem opowiada o przeczytanych książkach, odwiedzonych bibliotekach i manuskryptach, które miała zaszczyt kopiować. Mimo ogromnej wiedzy sprawia wrażenie osoby, która przed dołączeniem do drużyny znała świat głównie z kart ksiąg, a prawdziwe przygody były jej dotąd obce. Każdy kolejny etap podróży budzi w niej jednocześnie ciekawość i niepewność, lecz nie traci zapału do odkrywania nowych rzeczy, zawsze gotowa zanotować kolejne obserwacje i zdobyć nową wiedzę.
+</div>
+</div>
 
 Na piętrze podróżnicy spotkali **Ralea Windspeara**, wędrownego gawędziarza zbierającego historie i miejscowe pogłoski. **Imoen** natychmiast zauważyła, że opowieści najlepiej poznaje się podczas podróży, ponieważ w gospodzie zawsze znajdzie się ktoś zamawiający piwo dokładnie wtedy, gdy bajarz dociera do najciekawszej części. Brakujące fragmenty trzeba później dopowiadać, co dla jej żywej wyobraźni nigdy nie stanowiło przeszkody.
 
@@ -82,6 +107,19 @@ Z zakupionym antidotum drużyna wróciła do domu **Eltoltha** <span class="mb">
 
 Następnie zajrzeli do przedsiębiorstwa **Kagaina** <span class="mb">16</span>. Krasnoludzki biznesmen zajmował się ochroną karawan podróżujących z *Amnu* do *Wrót Baldura*. Jeden z transportów eskortowanych przez jego najemników nigdy nie dotarł do celu, dlatego poszukiwał wojowników gotowych ustalić, co się wydarzyło. **Sandrah** skojarzyła zaginiony wóz z rozbitą karawaną odnalezioną na *Lwim Trakcie*. Pokazała właścicielowi firmy broszę znalezioną przy ciele młodzieńca. **Kagain** rozpoznał znak rodu **Silvershieldów** i zrozumiał, że jednym z zabitych był syn **Entara Silvershielda**, wpływowego księcia z *Wrót Baldura*. Śmierć młodzieńca oznaczała dla krasnoluda poważne problemy. Mogła pogrzebać jego reputację, przedsiębiorstwo i sporą część majątku. Przedsiębiorczy wojownik zaproponował więc rozwiązanie korzystne przede wszystkim dla siebie: dołączy do drużyny, pomoże zemścić się na bandytach i osobiście przekaże tragiczną wiadomość rodzinie poległego. Leech przyjął ofertę. Krasnolud walczący o odzyskanie pieniędzy i dobrego imienia mógł być bardziej zdeterminowany niż paladyn strzegący świętej relikwii ([SO BE IT! AT LEAST THIS MESS IS OVER WITH NOW](../other/zadania.md#q27)).
 
+<div class="character-intro" markdown>
+<div class="character-portrait" markdown>
+![](../images/kagain_p.webp)
+</div>
+<div class="character-summary" markdown>
+# Kagain
+<span class="character-subtitle">
+Krasnolud · Wojownik · Praworządny Zły
+</span>
+> Kagain nie należał do ludzi, którzy chętnie opowiadali o swojej przeszłości. Każda bardziej osobista rozmowa kończyła się burkliwą odpowiedzią lub mało subtelną sugestią, by rozmówca zajął się własnymi sprawami, jeśli nie chciał stracić kilku zębów. Wiadomo było jedynie, że prowadzi własną kompanię najemników i że złoto zajmuje w jego życiu znacznie ważniejsze miejsce niż honor czy wzniosłe ideały. O sprawach wykraczających poza interesy milczał uparcie, co tylko utwierdzało Leecha w przekonaniu, że krasnolud skrywa więcej tajemnic, niż był gotów przyznać. Jedno nie budziło jednak wątpliwości: Kagain był twardym, bezwzględnie praktycznym najemnikiem, który każdą sytuację potrafił przeliczyć na zysk lub stratę.
+</div>
+</div>
+
 Podczas przeszukiwania zakamarków firmy drużyna znalazła podręcznik obsługi golemów. **Sandrah** zainteresowała się znaleziskiem, licząc, że zawarta w nim wiedza pozwoli skuteczniej radzić sobie z magicznymi konstruktami.
 
 Naprzeciwko gospody *Feldeposta* znajdował się dom **Firebeada Elvenhaira** <span class="mb">17</span>. Stary mag natychmiast rozpoznał w Leechu wychowanka **Goriona** i złożył mu szczere kondolencje. Wieść o śmierci opiekuna nadal ciążyła młodzieńcowi, lecz dobre słowa dawnego znajomego przyniosły mu odrobinę pocieszenia. **Firebead** poprosił o przyniesienie księgi „Historia Fatalnej Monety”. Szczęśliwie drużyna miała już egzemplarz w ekwipunku i od razu przekazała go właścicielowi ([A BOOK FOR FIREBEAD](../other/zadania.md#q28)). **Imoen** zadeklarowała przy tym gotowość do kolejnych przysług, przypominając z dumą, że nie jest już dziewczynką w fartuszku i czepku, lecz „Imoen Wspaniałą”. W odpowiednio drogim stroju mogłaby jednak rozważyć powrót do dawnej garderoby, zwłaszcza gdyby została uszyta ze skarbca jakiegoś smoka.Księga zainteresowała także **Finch**. Kapłanka znała „Historię Martwej Trójki” ze słyszenia i uznała, że mimo ponurej treści dzieło zasługuje na miejsce w tworzonej bibliotece.
@@ -114,6 +152,19 @@ Następnie podróżnicy odwiedzili kuźnię **Taeroma Fuiruima** <span class="mb
 W domu powyżej kuźni <span class="mb">24</span> mieszkała **Mirianne**, która oczekiwała wieści o swoim mężu **Roe**. Mężczyzna wyruszył do *Amnu* i od dłuższego czasu nie dawał znaku życia. Leech obiecał rozglądać się za informacjami podczas dalszej podróży ([MIRIANNE’S HUSBAND](../other/zadania.md#q32)).
 
 W północnej części miasta <span class="mb">25</span> spotkali **Neerę**, która rozpaczliwie poprosiła o ochronę. Chwilę później pojawili się Czerwoni Magowie z *Thay*, dowodzeni przez **Ekandora**. Zamierzali schwytać dziewczynę z powodu jej nieprzewidywalnych zdolności Dzikiej Magii. Drużyna nie zgodziła się oddać młodej adeptki w ich ręce. W trakcie konfrontacji **Neera** przypadkowo teleportowała **Ekandora** w nieznane miejsce, pozostawiając przybyszom trzech jego pomocników. Po zakończonej walce dziewczyna otrzymała zgodę na dołączenie do kompanii. Coraz liczniejsza grupa wzbogaciła się tym samym o kolejną użytkowniczkę magii, której zaklęcia mogły uratować dzień albo przenieść połowę towarzystwa na dach najbliższej stodoły.
+
+<div class="character-intro" markdown>
+<div class="character-portrait" markdown>
+![](../images/neera_p.webp)
+</div>
+<div class="character-summary" markdown>
+# Neera
+<span class="character-subtitle">
+PółElf · Dziki Mag · Chaotyczny Dobry
+</span>
+> **Neera** przyznaje, że od wielu miesięcy ukrywa się przed Czerwonymi Magami z Thay. Sprawia wrażenie osoby pogodnej, impulsywnej i nieco lekkomyślnej, lecz jej sytuacja wskazuje, że ma ku temu poważne powody. Jako dzika maga włada niezwykle potężną, lecz nieprzewidywalną magią, która potrafi wywoływać nieoczekiwane efekty. Choć wyraźnie czerpie radość z korzystania ze swoich niezwykłych zdolności, nietrudno dostrzec, że przeszłość nauczyła ją również obawiać się konsekwencji własnej mocy. **Neera** żyje więc w ciągłym rozdarciu pomiędzy ekscytacją płynącą z używania dzikiej magii a świadomością zagrożeń, jakie może ona sprowadzić zarówno na nią samą, jak i na osoby znajdujące się w jej pobliżu.
+</div>
+</div>
 
 :material-paw: **Bestiariusz:** *Czerwony Mag Czarodziej, Czerwony Maf Strażnik"
 

@@ -16,6 +16,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  - md_in_html
   - tables
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
@@ -29,6 +30,7 @@ extra_javascript:
 extra_css:
   - https://cdn.datatables.net/2.3.4/css/dataTables.dataTables.min.css
   - css/extra.css
+  - css/characters.css
 
 nav:
   - Home: index.md
@@ -39,7 +41,7 @@ nav:
       - Od karczmy do karczmy.: storyline/chapter1-3.md
       - Oko Gorgony.: storyline/chapter1-4.md
       - Od świątyni do kurnika.: storyline/chapter1-5.md
-      # - xxxx.: storyline/chapter1-6.md
+      - xxxx.: storyline/chapter1-6.md
   - Informacje:
       - Nasz bohater: other/leech.md
       - Maps: other/maps.md

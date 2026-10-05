@@ -32,7 +32,33 @@ Samotny, pogrążony w żałobie i wyposażony zaledwie w kilka podstawowych prz
 
 Z ciężkim sercem **Leech** wszedł na szlak. Nie zdążył jednak ujść daleko, gdy niespodziewanie pojawiła się **Imoen** <span class="mb">1</span>. Choć zawsze traktował ją jak młodszą siostrzyczkę, niemal jak dziecko wymagające opieki, widok znajomej twarzy i jej pogodnego uśmiechu wyrwał go z otępienia. Dziewczyna przyznała, że wiedziała o grożącym mu niebezpieczeństwie. Przeczytała list pozostawiony na biurku **Goriona**, a następnie wymknęła się z *Candlekeep*, aby ruszyć za swoim przyjacielem i udzielić mu pomocy. Młody gnom nie mógł już zawrócić, lecz nie zamierzał również pozwolić, by samotnie wałęsała się po niebezpiecznych rozdrożach. Ostatecznie zgodził się, aby do niego dołączyła.
 
+<div class="character-intro" markdown>
+<div class="character-portrait" markdown>
+![](../images/imoen_p.webp)
+</div>
+<div class="character-summary" markdown>
+# Imoen
+<span class="character-subtitle">
+Człowiek · Mag/Złodziej · Neutralny dobry
+</span>
+> **Imoen** na pytania o swoją przeszłość reaguje z rozbawieniem, przypominając Leechowi, że przecież wychowywali się razem w Candlekeep. To właśnie z nią wiążą się jedne z jego najcieplejszych wspomnień z dzieciństwa. **Imoen** przybyła do twierdzy około dziesięć lat później niż on i więcej czasu spędzała z **Winthropem** niż z *Gorionem*, żartobliwie przezywając karczmarza „Pufgutsem”, ku jego niezadowoleniu. Mimo upływu lat pozostała pełną energii i optymizmu dziewczyną, traktującą **Leecha** niemal jak starszego brata. Jej szczery uśmiech i lojalność nie pozostawiają wątpliwości, że zawsze będzie gotowa podróżować u jego boku, niezależnie od tego, jaką drogę wybierze.
+</div>
+</div>
+
 Pierwsze kroki skierowali ku miejscu nocnej kaźni <span class="mb">2</span>. Tam spotkali dziewczynę, która poprzedniego dnia rozmawiała z **Gorionem** na schodach biblioteki. Nieznajoma przedstawiła się jako **Sandrah**. Okazało się również, że to właśnie ona pozostawiła dla **Leecha** miecz w gospodzie. Kleryczka była doskonale zorientowana w sytuacji i znała nawet imię **Imoen**. Budziło to wiele pytań, ale nie był to odpowiedni moment na dociekanie, skąd wiedziała tak dużo. W obliczu śmierci opiekuna i czyhających na szlaku zagrożeń młodzieniec z wdzięcznością przyjął zaoferowaną pomoc. **Sandrah** posiadała zaczarowaną księgę, która co jakiś czas pozwalała jej bezbłędnie rozpoznawać właściwości magicznego ekwipunku. Taki dar z pewnością mógł okazać się niezwykle przydatny podczas dalszej podróży.
+
+<div class="character-intro" markdown>
+<div class="character-portrait" markdown>
+![](../images/sandrah_p.webp)
+</div>
+<div class="character-summary" markdown>
+# Sandrah
+<span class="character-subtitle">
+Człowiek · Wojownik/Klery · Neutralny dobry
+</span>
+> **Sandrah** urodziła się w Waterdeep jako córka jednego z najsławniejszych magów Faerûnu. Jej matka zmarła podczas porodu drugiego dziecka, którego **Sandrah** nigdy nie poznała. W krótkich okresach, gdy ojciec przebywał w domu, przekazał jej wiele tajemnic Mystry i wiedzy o Krainach, lecz większość życia spędzał na swoich wędrówkach. **Sandrah** odziedziczyła po nim zamiłowanie do podróży, a obecnie podąża za wizją, która nakazuje jej odnaleźć kryształowy odłamek należący do ojca. Kieruje nią również tajemniczy sen, skłaniający ją do poszukiwań drugiego dziecka swojej matki, o którym nikt dotąd nie odważył się mówić.
+</div>
+</div>
 
 Przy ciele przybranego ojca odnalaźli piękny sztylet z wygrawerowaną literą „A” ([GORION'S DAGGER](../other/zadania.md#q8)) oraz list podpisany przez tajemniczego „E”. Autor ostrzegał w nim przed nadciągającym niebezpieczeństwem i nalegał, aby mag jak najszybciej opuścił *Candlekeep*. Wspominał również o dwojgu zaufanych przyjaciół przebywających w *Pomocnej Dłoni*. Kim był tajemniczy „E”? O jakich innych osobach powierzonych opiece **Goriona** wspominał list? Dlaczego przybrany ojciec nigdy mu o nich nie powiedział? Każda odpowiedź zdawała się prowadzić do kolejnych pytań, lecz jedno było pewne: **Leech** chciał poznać prawdę. Musiał ją poznać!
 
@@ -45,6 +71,32 @@ Przy klifie drużyna natknęła się na **Chase’a** <span class="mb">3</span>,
 Po powrocie na szlak podróżnicy minęli Kolsseda <span class="mb">4</span>. Napotkany wędrowiec wspomniał o dwojgu podróżnych przebywających niedaleko. **Leech** przez chwilę zastanawiał się, czy mogli to być zaufani przyjaciele wymienieni w liście do Goriona.
 
 Nieopodal rzeczywiście czekała dwójka nieznajomych <span class="mb">5</span>, choć zdecydowanie nie byli to ludzie, których drużyna spodziewała się spotkać. Przedstawili się jako **Xzar** i **Montaron**. Ani **Imoen**, ani **Sandrah** nie zapałały do nich szczególną sympatią. Młody gnom także odniósł wrażenie, że spotkanie nie było całkowicie przypadkowe. Miał jedynie nadzieję, że przemawia przez niego nieufność wywołana niedawnymi wydarzeniami. Ponieważ obaj nieznajomi zmierzali w stronę *Nashkel*, tymczasowo zgodził się połączyć siły i kontynuować podróż razem z nimi ([XZAR AND MONTARON](../other/zadania.md#q9)).
+
+<div class="character-intro" markdown>
+<div class="character-portrait" markdown>
+![](../images/xzar_p.webp)
+</div>
+<div class="character-summary" markdown>
+# Xzar
+<span class="character-subtitle">
+Człowiek · Nekromanta · Chaotyczny Zły
+</span>
+> **Xzar** bardzo niechętnie mówi o swojej przeszłości, a z jego chaotycznych wypowiedzi trudno wyłowić spójne informacje. Twierdzi, że próbuje odkryć przyczynę niedoboru żelaza, co samo w sobie brzmi dość niewinnie, lecz jego prawdziwe motywy pozostają niejasne. Choć sprawia wrażenie osoby niespełna rozumu, jego umiejętności magiczne dowodzą, że zachował pełnię zdolności potrzebnych do praktykowania sztuk tajemnych. Wspomina również, że wraz ze swoim towarzyszem Montaronem służy pewnej potężnej organizacji, lecz pytany o szczegóły staje się wyraźnie rozdrażniony i zamyka się w sobie. Wszystko wskazuje na to, że Xzar przynajmniej częściowo popadł w obłęd, a sieć wpływów, której służy, skrywa wyjątkowo mroczne sekrety.
+</div>
+</div>
+
+<div class="character-intro" markdown>
+<div class="character-portrait" markdown>
+![](../images/montaron_p.webp)
+</div>
+<div class="character-summary" markdown>
+# Montaron
+<span class="character-subtitle">
+Niziołek · Wojownik/Łotrzyk · Neutralny Zły
+</span>
+> **Montaron** reaguje na pytania o swoją przeszłość otwartą wrogością i groźbami, sprawiając wrażenie człowieka niezwykle niebezpiecznego, który bez większych oporów gotów jest sięgnąć po przemoc. Wydaje się niewiele cenić życie, zarówno cudze, jak i własne. Choć wyraźnie gardzi Xzarem, nadal z nim współpracuje, co sugeruje, że organizacja, której obaj służą, musi dysponować znaczną siłą i wpływami. Z ich wzajemnych uszczypliwości łatwo wywnioskować, że chętnie skoczyliby sobie do gardeł, gdyby nie ktoś lub coś trzymało ich w ryzach. Montaron mógłby opowiedzieć więcej o swojej misji i zwierzchnikach, lecz rozmowa na ten temat szybko prowadzi do nieprzyjemnego wniosku, że zbyt dociekliwy rozmówca mógłby nie doczekać kolejnego poranka.
+</div>
+</div>
 
 Idąc dalej, podróżnicy pośpiesznie wymienili kilka zdań z Binkosem <span class="mb">6</span>. Mężczyzna pędził, aby poinformować Wielkich Książąt o kolejnej karawanie napadniętej na północny wschód od Beregostu. Wieści te stanowiły kolejne ostrzeżenie, że na szlakach grasują bandyci, a podróż wcale nie będzie bezpieczna.
 

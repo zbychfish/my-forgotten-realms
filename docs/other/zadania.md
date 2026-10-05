@@ -55,12 +55,38 @@
 |Of Wolves and Men|Aktywny|[Zobacz szczegóły](#q-52)|
 |Snooping Around|Aktywny|[Zobacz szczegóły](#q-53)|
 |Bibliophilia|Aktywny|[Zobacz szczegóły](#q-54)|
-|Melicamp the Chicken|Aktywny|[Zobacz szczegóły](#q-55)|
+|Melicamp the Chicken|Wykonane|[Zobacz szczegóły](#q-55)|
+|Destroy the Cursed Bracers|Aktywny|[Zobacz szczegóły](#q-56)|
+|Kivan and Tazok|Aktywny|[Zobacz szczegóły](#q-57)|
+|The Quest for Jumper|Aktywny|[Zobacz szczegóły](#q-58)|
+|A New Best Friend for Ugh|Aktywny|[Zobacz szczegóły](#q-59)|
 
+??? warning "A New Best Friend for Ugh"
+    - **Zleceniodawca:** Po zwróceniu królika Kessie w Dziczy Beregostu.
+    - Ojciec Kessy sprzedaje króliki na jarmarku w Nashkel. Może zakupimy jednego dla Ugh'a.
+    <div id="q-59"></div>
 
-??? warning "Melicamp the Chicken"
+??? success "The Quest for Jumper"
+    - **Zleceniodawca:** Kessy w Dziczy Beregostu.
+    - Szuka swojego króliczka Jumpera.
+    - Królik Jumper był pod opieką głupiego ale dobrotliwego ogra. Gdy dowiedział się, że poszukuje go mała dziewczynka oddał go bez oporów.
+    - Kessa była wdzięczna za pomoc.
+    <div id="q-58"></div>
+
+??? warning "Kivan and Tazok"
+    - **Zleceniodawca:** Kivan w Wysokim Żywopłocie.
+    - Pomóc Kivanowi zemścić się na Tazoku za zabójstwo bliskiej mu osoby.
+    <div id="q-57"></div>
+
+??? warning "Destroy the Cursed Bracers"
+    - **Zleceniodawca:** Melicamp po uratowaniu Melicampa.
+    - Musimy zebrać kamienie szlachetne konieczne to zniszczenia przeklętych naramienników.
+    <div id="q-56"></div>
+
+??? success "Melicamp the Chicken"
     - **Zleceniodawca:** Zamieniony w kurczaka Melicamp w Czerwonych Jarach.
     - Prosi o eskortę do Wysokiego Żywopłotu.
+    - Thalantyr przy wykorzystaniu czaszki odczarował szczęśliwie Melicampa.
     <div id="q-55"></div>
 
 ??? warning "Bibliophilia"

@@ -28,6 +28,32 @@ Znacznie bardziej rozmowna okazała się **Nessie**, pomocnica karczmarza. Wyja�
 
 Wewnątrz gospody Leech odnalazł wreszcie **Jaheirę** i **Khalida**, przyjaciół wskazanych przez **Goriona**. Półelfka wyjaśniła, że przybrany ojciec od dawna obawiał się o bezpieczeństwo wychowanka i chciał, aby w razie jego przedwczesnej śmierci oboje otoczyli młodego gnoma opieką. Leech był już jednak dorosły, dlatego ostateczna decyzja o przyjęciu ich pomocy należała do niego. Szybko okazało się również, że **Jaheira** znała **Sandrah** z czasów jej dzieciństwa, a **Khalid** pamiętał nawet jej matkę. Kleryczka nie chciała jednak wracać do dawnych wydarzeń i skierowała rozmowę ku bieżącym problemom. Przyjaciele **Goriona** zaproponowali, że będą towarzyszyć jego wychowankowi, dopóki nie odnajdzie własnego miejsca w świecie. Poprosili również drużynę o pomoc w zbadaniu niepokojących wydarzeń w kopalniach *Nashkel*. Zamierzali spotkać się tam z burmistrzem **Berrunem Ghastkillem** i ustalić przyczynę pogłębiającego się kryzysu żelaza. ([JAHEIRA AND KHALID](../other/zadania.md#q11))
 
+<div class="character-intro" markdown>
+<div class="character-portrait" markdown>
+![](../images/jaheira_p.webp)
+</div>
+<div class="character-summary" markdown>
+# Jaheira
+<span class="character-subtitle">
+PółElf · Wojownik/Druid · Neutralny dobry
+</span>
+> **Jaheira** niechętnie wraca wspomnieniami do swojej przeszłości. Urodziła się w *Tethyrze* w rodzinie lojalnej wobec króla Alemana i jako dziecko przeżyła krwawą wojnę domową, podczas której rozwścieczone tłumy zwróciły się przeciw szlachcie. Ocalała jedynie dlatego, że służąca zdołała wyprowadzić ją z rodzinnego zamku tuż przed jego upadkiem. Uciekając przez lasy Ithyr, trafiła do enklawy druidów, którzy przyjęli ją pod swoją opiekę. Dorastając, **Jaheira** wykształciła silny charakter i przekonanie, że natury nie da się chronić wyłącznie z ukrycia, lecz trzeba aktywnie działać w świecie. Choć często pozostaje w konflikcie z **Khalidem** i wydaje się mieć z nim niewiele wspólnego, w rzeczywistości bardzo się o niego troszczy. Nie kryje również swojego szacunku dla **Goriona**, a na wieść o jego śmierci otwarcie deklaruje, że sprawca tej zbrodni poniesie taką samą karę, jaką sam wymierzył.
+</div>
+</div>
+
+<div class="character-intro" markdown>
+<div class="character-portrait" markdown>
+![](../images/khalid_p.webp)
+</div>
+<div class="character-summary" markdown>
+# Khalid
+<span class="character-subtitle">
+PółElf · Wojownik · Neutralny dobry
+</span>
+> **Khalid** z pewną nieśmiałością opowiada o swoim pochodzeniu. Urodził się i wychował w Kalimszanie, w rodzinie kupieckiej, choć odnosi się wrażenie, że jego ojciec poświęcał znacznie więcej uwagi jego przyrodnim braciom niż jemu samemu. Zamiast podążać ścieżką handlu, **Khalid** poświęcił się szkoleniu wojskowemu i doskonalił swoje umiejętności pod okiem członków miejskiej milicji. Niewiele mówi o tym, jak poznał **Jaheirę**, lecz jego oddanie i uczucie do niej są aż nadto widoczne. O relacji z **Gorionem** wspomina jedynie, że byli przyjaciółmi od wielu lat i że jego śmierć będzie opłakiwana przez licznych towarzyszy *Harfiarzy* oraz wspólnych znajomych.
+</div>
+</div>
+
 **Imoen** z charakterystycznym dla siebie entuzjazmem przywitała nowych towarzyszy, przedstawiając się **Jaheirze** nie tylko jako przyjaciółka Leecha, lecz wręcz jego samozwańcza opiekunka. Młody gnom przyjął propozycję wspólnej podróży, traktując ją jako ostatnią wolę przybranego ojca i zarazem pierwszy krok ku odkryciu prawdy o wydarzeniach, które doprowadziły do jego śmierci.
 
 Następnie nadszedł czas na rozmowę z właścicielem warowni. Leech zapytał **Bentleya Mirrorshade’a**, czy ten nie potrzebuje pomocy w jakiejś sprawie. Gospodarz przyznał, że chociaż w *Pomocnej Dłoni* zawsze znajdowało się zajęcie przy pilnowaniu porządku wśród podróżnych, tym razem potrzebował wsparcia w znacznie poważniejszym problemie. **Bentley** potwierdził opowieść o dawnym właścicielu twierdzy. Przed laty warownia należała do nieumarłego kapłana **Bhaala**, którego karczmarz wraz ze swoimi towarzyszami zdołał pokonać. Po zwycięstwie oczyścili budowlę i przekształcili ją w gospodę przeznaczoną dla zmęczonych wędrowców oraz poszukiwaczy przygód. Nie zdołali jednak całkowicie zniszczyć sanktuarium znajdującego się na najniższym poziomie podziemi. Usunęli pozostałości świątyni oraz odnalezione tam przeklęte przedmioty, lecz samych murów i konstrukcji nie mogli zburzyć bez ryzyka naruszenia fundamentów całej warowni. Zdecydowali się więc zamknąć przejście i pozostawić to miejsce zapomnieniu. Niedawno w gospodzie pojawiła się podejrzana grupa, która znacznie bardziej niż odpoczynkiem interesowała się piwnicami. Intruzom udało się odnaleźć tajne przejście prowadzące do podziemi, gdzie rozpoczęli poszukiwania pozostałości dawnego sanktuarium. Aby zapewnić sobie spokój, przyzwali ogromne szczury, nieumarłych oraz potężniejsze plugastwa, które miały powstrzymać każdego, kto spróbowałby za nimi podążyć. **Bentley** zamknął przejście, aby zło nie wydostało się na powierzchnię, lecz potrzebował kogoś, kto zejdzie do piwnic, rozprawi się z przyzwanymi stworzeniami i zmusi intruzów do opuszczenia warowni. Sam zamierzał pozostać na górze, pilnować porządku i zadbać o bezpieczeństwo gości. **Jaheira** pochwaliła zniszczenie dawnej świątyni, zauważając, że *Wybrzeże Mieczy* nie potrzebuje kolejnego sanktuarium poświęconego mordowi. **Imoen** natomiast natychmiast zainteresowała się możliwością przeszukania zapomnianych podziemi i odnalezienia pozostawionych tam skarbów. Drużyna zgodziła się pomóc, gdy tylko będzie odpowiednio przygotowana ([SHADOWS BELOW THE FRIENDLY ARM INN](../other/zadania.md#q12)).
@@ -47,6 +73,19 @@ W narożnym pokoju pewien szlachcic pomylił przybyszów ze służbą i bez wię
 W kolejnym pomieszczeniu drużyna zastała **Jen’lig** stojącą nad martwym ciałem jakiegoś nieszczęśnika. Nieznajoma okazała się githyanki ścigającą złodzieja i mordercę odpowiedzialnego za kradzież świętego miecza jej ludu. Winowajca zdążył już zapłacić za swoje czyny życiem, lecz skradziony artefakt trafił do *Wrót Baldura*. Bramy miasta pozostawały jednak zamknięte z powodu rosnącego zagrożenia ze strony bandytów i pogłębiającego się kryzysu żelaza. **Sandrah** wyjaśniła, że githyanki pochodzą z bezbożnych pustkowi Planu Astralnego i przybywają na inne plany przede wszystkim w poszukiwaniu utraconych relikwii. **Jaheira**, choć nie pochwalała zabójstwa, uznała, że przybyszka postąpiła zgodnie z prawami własnego ludu. Ponieważ odzyskanie miecza wymagało dotarcia do *Wrót Baldura*, **Sandrah** zaproponowała **Jen’lig** wspólną podróż. Wszystko wskazywało na to, że miasto prędzej czy później i tak znajdzie się na szlaku drużyny, a wzajemna pomoc mogła przynieść korzyść obu stronom.
 
 Wojowniczka zgodziła się dołączyć, lecz postawiła warunek, że nie podporządkuje się słabemu przywódcy. Leech, pamiętając lektury z *Candlekeep*, odpowiedział, że zna reputację githyanki jako bezwzględnych wojowników i oddanych wykonawców powierzonych zadań. Następnie jasno dał do zrozumienia, że to on dowodzi wyprawą i oczekuje posłuszeństwa od każdego członka drużyny. **Jen’lig** przyjęła te słowa bez dalszego sprzeciwu, po czym zajęła się ciałem swojej ofiary, odsyłając je na inny Plan.
+
+<div class="character-intro" markdown>
+<div class="character-portrait" markdown>
+![](../images/jenlig_p.webp)
+</div>
+<div class="character-summary" markdown>
+# Jen'lig
+<span class="character-subtitle">
+Githyanki · Łotrzyk · Praworządny Zły
+</span>
+> **Jen’lig** wychowała się wśród githyanki, dla których pojęcia rodziny i tradycyjnego dzieciństwa praktycznie nie istnieją. Dorastała w jednej z ich wylęgarni pod opieką Va’rshów i od najmłodszych lat była szkolona do walki z odwiecznymi wrogami swojego ludu: illithidami oraz githzerai. Gdy osiągnęła dorosłość, nie trafiła do zwykłych oddziałów wojskowych, lecz została wybrana do elitarnej formacji odpowiedzialnej za ochronę srebrnych mieczy githyanki, bezcennych artefaktów pożądanych przez magów i kolekcjonerów w wielu światach. W przeciwieństwie do większości swoich pobratymców **Jen’lig** nie polega jednak wyłącznie na brutalnej sile. Zamiast zdolności wróżbiarskich czy psionicznych rozwinęła umiejętności tropienia, śledztwa i przewidywania działań przeciwnika, co uczyniło ją wyjątkowo skuteczną łowczynią złodziei srebrnych mieczy i agentką działającą poza granicami zwykłego społeczeństwa githyanki.
+</div>
+</div>
 
 ---
 

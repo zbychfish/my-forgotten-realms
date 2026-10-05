@@ -167,7 +167,22 @@
 |Malkax|BG3700|:material-close-circle:|🪦 - hobgoblin, dobry łucznik|
 |Zargal|BG3700|:material-close-circle:|🪦 - hobgoblin, dobry łucznik|
 |Bassilus|BG3700|:material-close-circle:|🪦 - co w szkielety bliskim zmieniał|
+|Kivan|BG3200|:material-check-circle: postać przyłączalna|Elf pragnący zemsty na Tazoku|
+|Kessy|BG3800|:material-check-circle:|co króliczka w dziczy zgubiła|
+|Bub Snikt|BG3800|:material-check-circle:|co króliczka w dziczy zgubiła|
+|Jumper|BG3800|:material-check-circle:|królik Kessy|
+|Ugh|BG3800|:material-check-circle:|ogr co lubi króliki nie jeść|
+|Tristan|BG3800|:material-close-circle:|🪦 - tragikomiczny kochanek|
+|Isolde|BG3800|:material-close-circle:|🪦 - tragikomiczna kochanka|
+|Portalbendarwinden|BG4300|:material-check-circle:|pustelnik wizjoner|
+|Uguth|BG4300|:material-check-circle:|zakochany pół-ork|
+|Lord Foreshadow|BG4300|:material-check-circle:|pierścieniodawca i fun NeverWinter|
+|Roomokum|Na szlaku|:material-check-circle:|skarpetodawca|
 
+
+
+Przełęcz Nashkel - BG4300
+Dzicze Beregostu - BG3800
 Czerwone Jary - BG3700
 Wysoki Żywopłot - siedziba Thalantyra - BG23002
 Wysoki Żywopłot - BG2300
