@@ -149,9 +149,12 @@
     - Składamy raport Eloran.
     <div id="q-47"></div>
 
-??? warning "Shadows and Echoes"
+??? success "Shadows and Echoes"
     - **Zleceniodawca:** Ariosh w Oku Gorgony.
-    - Trzeba nam zabić zdrajcę w szeregach. Musimy go wywabić podrzucając do skrytki szpiega nieprawdziwą informację.
+    - Trzeba nam zidentyfikować zdrajcę w szeregach. Musimy go wywabić podrzucając do skrytki szpiega nieprawdziwą informację.
+    - Wkładamy za dnia spreparowana wiadomość do beczki za Płonącym Czarodziejem w Beregost.
+    - W nocy przy południowej fontannie zastajemy Valerę. To ona sprzedała się straży.
+    - Eskortujemy ja do Ariosha, który pomimo jej oferty pracy jako podwójny agent każe ją zgładzić 
     <div id="q-46"></div>
 
 ??? success "Moonlight Retrieval"
@@ -192,7 +195,8 @@
 
 ??? warning "Liedel's Bounty: Carth"
     - **Zleceniodawca:** Liedel w Oku Gorgony..
-    - Zgładzić Cartha za niespłacony dług u Zentharimów. Osttanio widziany gdzieś na północy."
+    - Zgładzić Cartha za niespłacony dług u Zentharimów. Mieliśmy z nim już do czynienia w Pomocnej Dłoni."
+    - Znajdujemy go tam, gdzie przebywał za pierwszym razem i wykonujemy wyrok, chociaż nie z ciężkim sercem. Obżarstwo nie popłaca.
     <div id="q-40"></div>
 
 ??? success "Shadows of Revelry"
@@ -353,9 +357,12 @@
     - Celem jest odnalezienia wykradzionego srebrnego miecza. Ślady prowadzą do Wrót Baldura.
     <div id="q-15"></div>
 
-??? warning "Landrin's Possessions"
+??? success "Landrin's Possessions"
     - **Zleceniodawca:** Landrin na drugim piętrze w Pomocnej Dłoni.
     - Pragnie odzyskać kilka drobiazgów ze swojego domu w Beregoście w którym zalęgły się pająki.
+    - Odnajdujemy jej dom w Beregoście i eliminujemy intruzów.
+    - Wracamy do Landrin i oddajemy zabrane z jej domu rzeczy.
+    - Dziękuje nam i zaprasza na herbatę u siebiem gdyż postanawia wrócić w pielesze.
     <div id="q-14"></div>
 
 ??? success "A Rogue Ogre"

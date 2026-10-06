@@ -57,7 +57,7 @@
 |Unshey|BG2302|:material-check-circle:|zleceniodawca z wyczulonym węchem|
 |Landrin|BG2302|:material-check-circle:|wygnana z domu przez pająki|
 |Jen'lig|BG2303|:material-check-circle: postać przyłączalna|moja githanki|
-|Carth|BG2303|:material-check-circle:|wygnana z domu przez pająki|
+|Carth|BG2303|:material-close-circle:|🪦 - co wyzionął ducha za długi u Zentarimów|
 |Leilo|L#FAI3|:material-close-circle:|🪦 - obrońca piwnic pod Pomocną Dłonią|
 |Klarinn|L#FAI4|:material-close-circle:|🪦 - obrońca piwnic pod Pomocną Dłonią|
 |Apsu|L#FAI4|:material-close-circle:|🪦 - obrońca piwnic pod Pomocną Dłonią|

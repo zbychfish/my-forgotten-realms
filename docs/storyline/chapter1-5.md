@@ -53,7 +53,7 @@ W drodze do siedziby **Oka Gorgony** <span class="mb">29</span> drużyna ponowni
 
 W podziemiach gildii przekazali **Liedel** wisior **Vapuli** i odebrali nagrodę. Pozostawało mieć nadzieję, że nawrócony złodziej rzeczywiście znajdzie własną drogę i wykorzysta otrzymaną szansę ([LIEDEL’S BOUNTY: VAPULA SIMBERG](../other/zadania.md#q41)). 
 
-Następnie umieścili spreparowaną wiadomość w beczce za *Płonącym Czarodziejem* <span class="mb">41</span>. Teraz wystarczyło zaczekać do nocy i sprawdzić, kto połknie przynętę ([SHADOWS AND ECHOES](../other/zadania.md#q46)).
+Następnie umieścili spreparowaną wiadomość w beczce za *Płonącym Czarodziejem* <span class="mb">41</span>. Teraz wystarczyło zaczekać do nocy i sprawdzić, kto połknie przynętę ([Shadows and Echoes](../other/zadania.md#q46)).
 
 <div class="divider">Świątynia Lathandera&nbsp;<span class="mb">8</span></div>
 
@@ -127,7 +127,7 @@ Spreparowana wiadomość zniknęła z beczki za *Płonącym Czarodziejem* <span 
 
 Złodziejka należała do **Oka Gorgony**, lecz równocześnie przekazywała informacje Straży Miejskiej. Przyłapana na gorącym uczynku przyznała, że skusiły ją pieniądze i obietnica lepszej przyszłości. Próbowała jednak kupić wolność wiadomościami o planowanych działaniach strażników. Leech postanowił poręczyć za nią przed **Arioshem**, zastrzegając, że ostateczna decyzja będzie należała do informatora gildii. **Valera** zgodziła się wrócić z kompanią do podziemi, lecz ostrzegła, że w razie zdrady potrafi odpowiedzieć pięknym za nadobne.
 
-Przed **Arioshem** <span class="mb">29</span> zdrajczyni ujawniła, że Straż Miejska przygotowuje szeroko zakrojoną obławę, a do miasta zmierza ktoś ważny z *Wrót Baldura*. Wieści miały pochodzić bezpośrednio od **Seraphiny Whitewood**. Mimo wartości informacji **Ariosh** uznał, że **Oko Gorgony** nie może pozostawiać darować zdrady. Wyrok wykonał **Blackthorn**, kończąc sprawę szybko i bez zbędnych słów. Informator pochwalił skuteczność Leecha oraz decyzję o przyjęciu najemnika do gildii. **Valera** zabrała swoje sekrety do grobu, ale jej ostrzeżenie przed nadchodzącą obławą mogło jeszcze okazać się prawdziwe ([SHADOWS AND ECHOES](../other/zadania.md#q46)).
+Przed **Arioshem** <span class="mb">29</span> zdrajczyni ujawniła, że Straż Miejska przygotowuje szeroko zakrojoną obławę, a do miasta zmierza ktoś ważny z *Wrót Baldura*. Wieści miały pochodzić bezpośrednio od **Seraphiny Whitewood**. Mimo wartości informacji **Ariosh** uznał, że **Oko Gorgony** nie może pozostawiać darować zdrady. Wyrok wykonał **Blackthorn**, kończąc sprawę szybko i bez zbędnych słów. Informator pochwalił skuteczność Leecha oraz decyzję o przyjęciu najemnika do gildii. **Valera** zabrała swoje sekrety do grobu, ale jej ostrzeżenie przed nadchodzącą obławą mogło jeszcze okazać się prawdziwe ([Shadows and Echoes](../other/zadania.md#q46)).
 
 Przy wyjściu z podziemi drużyna ponownie spotkała **Pontaga** <span class="mb">28</span>. Starzec był rozczarowany wynikiem wspólnego eksperymentu i sam nie wiedział już, czy widzieli prawdziwego żuka, czy jedynie zbiorową halucynację. Nie zamierzał się jednak poddawać. Poprosił, aby Leech wrócił za kilka dni, gdy przygotuje kolejną próbę ([BEETLES, DREAMS AND AN OLD MAN](../other/zadania.md#q22)).
 
