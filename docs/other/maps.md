@@ -11,4 +11,5 @@
 | Czerwone Jary [12] | BG3700 | [![Czerwone Jary](../maps/BG3700.webp){ width="100" }](../maps/BG3700.webp) |
 | Dzicze Beregostu [14] | BG3800 | [![Dzicze Beregostu](../maps/BG3800.webp){ width="100" }](../maps/BG3800.webp) |
 | Przełęcz Nashkel [15] | BG4300 | [![Przełęcz Nashkel](../maps/BG4300.webp){ width="100" }](../maps/BG4300.webp) |
+| Ustronne Jezioro [16] | BG4200 | [![Przełęcz Nashkel](../maps/BG4200.webp){ width="100" }](../maps/BG4200.webp) |
 

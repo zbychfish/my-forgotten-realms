@@ -178,9 +178,16 @@
 |Uguth|BG4300|:material-check-circle:|zakochany pół-ork|
 |Lord Foreshadow|BG4300|:material-check-circle:|pierścieniodawca i fun NeverWinter|
 |Roomokum|Na szlaku|:material-check-circle:|skarpetodawca|
+|Teyngan|BG4200|:material-close-circle:|🪦 - chojrak bez zaplecza|
+|Jemby|BG4200|:material-close-circle:|🪦 - była dziewczyną Teyngana|
+|Zerkar|BG4200|:material-close-circle:|🪦 - żle dobrał sobie towarzystwo|
+|Drizzt Do'Urden|BG4200|:material-check-circle:|legendarny wojownik|
+|Torlo|BG4200|:material-check-circle:|legendarny wojownik|
+|Chelan|BG4200|:material-check-circle:|legendarny wojownik|
 
 
 
+Ustronne Jezioro - BG4200
 Przełęcz Nashkel - BG4300
 Dzicze Beregostu - BG3800
 Czerwone Jary - BG3700
