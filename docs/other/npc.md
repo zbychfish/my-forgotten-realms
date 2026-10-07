@@ -184,9 +184,16 @@
 |Drizzt Do'Urden|BG4200|:material-check-circle:|legendarny wojownik|
 |Torlo|BG4200|:material-check-circle:|legendarny wojownik|
 |Chelan|BG4200|:material-check-circle:|legendarny wojownik|
+|Kull Huggerglitter|BG4800|:material-check-circle:|kriofil|
+|Bardolan|BG4800|:material-check-circle:|strażnik w Nashkel bez dobrych wieści|
+|Brat|BG4800|:material-check-circle:|plotki roznoszący|
+|Neira|BG4801|:material-close-circle:|🪦 - ostatnie zlecenie opiewające na 680 sztuk złota niezrealizowane|
+|Lady von Undenzieht|BG4801|:material-check-circle:|wspominała coś o nowym zwierzątku ich syna Arnima|
+|Lord von Undenzieht|BG4801|:material-check-circle:|jak to lord duża gęba pusty łeb|
+|Taris|BG4800|:material-check-circle:|rozglądająca się za kimś|
 
-
-
+Nashkel - gospoda - BG4801
+Nashkel - BG4800
 Ustronne Jezioro - BG4200
 Przełęcz Nashkel - BG4300
 Dzicze Beregostu - BG3800

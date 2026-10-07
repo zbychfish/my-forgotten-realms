@@ -61,9 +61,19 @@
 |The Quest for Jumper|[Zobacz szczegóły](#q-58)|
 |A New Best Friend for Ugh|[Zobacz szczegóły](#q-59)|
 |An Errant Funeral|[Zobacz szczegóły](#q-60)|
+|Ice and Ore|[Zobacz szczegóły](#q-61)|
+|The Melting Man|[Zobacz szczegóły](#q-62)|
 
 
+??? warning "The Melting Man"
+    - **Zleceniodawca:** Brat w Nashkel.
+    - Podobno w jaskini na Przełęczy Nashkel ukrywa się "topniejący" człowiek.
+    <div id="q-62"></div>
 
+??? warning "Ice and Ore"
+    - **Zleceniodawca:** Kull Huggerglitter w Nashkel.
+    - Kull poszukuje kuli magicznego lodu.
+    <div id="q-61"></div>
 
 ??? warning "An Errant Funeral"
     - **Zleceniodawca:** Eloran w Świątyni Lathandera.
@@ -378,9 +388,10 @@
     - Bentley była nam bardzo wdzięczny za zażegnanie sytuacji i wyczyszczenie piwnic.
     <div id="q-12"></div>
 
-??? warning "Jaheira and Khalid"
+??? success "Jaheira and Khalid"
     - **Zleceniodawca:** Jaheira i Khalid.
     - Mamy razem dotrzeć do Nashkel aby przyjrzeć się problemowi z żelazem.
+    - Docieramy do Nashkel.
     <div id="q-11"></div>
 
 ??? warning "The Magnificent Karlini"
@@ -388,9 +399,10 @@
     - Odnależć księgę zaklęć Karliniego w ruinach Szkoły Ulcastera.
     <div id="q-10"></div>
 
-??? warning "Xzar and Montaron"
+??? failure "Xzar and Montaron"
     - **Zleceniodawca:** Xzar po spotkaniu na Lim Trakcie.
     - Dotrzeć razem do Nashkel.
+    - Po dotarciu z Jaheirą quest zniknął z listy.
     <div id="q-9"></div>
 
 ??? warning "Gorion's Dagger"

@@ -1,7 +1,25 @@
-![](../images/nashkel.webp){ .center-img width="40%" }
+![](../images/nashkel.webp){ .center-img width="90%" }
 
 *Po niedawnej, pospiesznej ucieczce z Candlekeep problemy nękające Wybrzeże Mieczy wciąż zlewały się w trudny do uporządkowania chaos. **Gorion** z pewnością nie chciałby jednak, aby jego wychowanek pozostawał bezczynny. Zbadanie miejscowych kłopotów mogło rzucić nieco światła zarówno na kryzys żelaza i wydarzenia w kopalniach Nashkel, jak i na niepewne położenie samego Leecha. Młody przywódca nie wiedział jeszcze, czy problemy regionu mają jakikolwiek związek z zasadzką, śmiercią przybranego ojca i kolejnymi kontraktami wystawianymi na jego głowę. Wkrótce miał się jednak przekonać, że na Wybrzeżu Mieczy przypadkowe zdarzenia wyjątkowo często okazują się fragmentami tej samej, znacznie większej układanki.*
 
 <div class="divider">Nashkel&nbsp;<span class="mb">20</span></div>
 
 [![Nashkel](../maps/BG4200.webp){ .center-img width="40%" }](../maps/BG4200.webp)
+
+Dotarłem do Nashkel i wypełniłem prośbę Goriona (Jaheira and Khalid 11).
+
+Na rogatkach *Nashkel* drużyna spotkała **Kulla Huggerglittera** (1), uczonego zainteresowanego nietypowymi właściwościami miejscowej rudy. Badacz uważał, że miasto zbyt mocno kojarzy się z kopalnią, a zdecydowanie za mało ze sztuką i nauką. Sam zamierzał nieco poprawić tę nierównowagę, rozpoczynając projekt dotyczący wpływu skrajnych temperatur na surowce oraz wykonane z nich przedmioty. Szczególnie interesowało go magiczne zimno. Chciał sprawdzić, jak długotrwałe działanie mrozu wpływa na rudę i jakość wytwarzanej później broni oraz pancerzy. Przy obecnym kryzysie żelaza badanie mogło mieć praktyczne znaczenie, ponieważ należało ustalić, czy wyposażenie wykonane z poddanego takim warunkom metalu pozostaje bezpieczne. Leech zgodził się pomóc, choć potrzebny składnik zapowiadał się nietypowo. **Kull** poszukiwał zwartej bryły magicznego lodu, powstałej w wyniku wieloletniego działania naturalnych procesów, długiej zimy albo wyjątkowo chłodnego klimatu. Nie oczekiwał szybkiego rezultatu, lecz poprosił, aby drużyna przyniosła mu podobne znalezisko, jeśli natrafi na nie podczas dalszych wędrówek (Ice and Ore 61).
+
+Ostatnie walki znacznie wpłynęły na Haiass’a stał się teraz dużo groźniejszym kompanem.
+
+Przy wejściu do *Nashkel* drogę zastąpił drużynie **Bardolan** (2), miejscowy strażnik pilnujący porządku w niespokojnym regionie. Ostrzegł, że osoby szukające kłopotów powinny czym prędzej ruszyć dalej. W *Nashkel* i bez ich pomocy działo się już wystarczająco źle. Zapytany przez **Finch** o sytuację w mieście, **Bardolan** opowiedział o coraz bardziej niepokojących pogłoskach. Ruda wydobywana w kopalni była zepsuta, a w podziemiach miały grasować demony. Najniższe poziomy zostały opuszczone i miały pozostać zamknięte do czasu rozwiązania kryzysu. Strażnik wspomniał również o dowódcy **Brage’u**, który pewnej nocy wpadł w szał i zamordował własną rodzinę. Pozbawiono go tytułu, lecz **Bardolan** nadal nazywał go dowódcą, pamiętając człowieka, którym był przed tragedią. **Brage** uciekł w pobliskie wzgórza, a jego dawny podwładny wierzył, że coś musiało doprowadzić go do szaleństwa. Na wspomnienie upadłego dowódcy głos strażnika zaczął drżeć. Nie opłakiwał wyłącznie zamordowanej rodziny, lecz także człowieka utraconego przez całe *Nashkel*. Drużyna wkroczyła więc do miasta z trzema wyraźnymi tropami: zepsutą rudą, pogłoskami o stworzeniach w kopalni oraz tajemniczym obłędem **Brage’a**. Wszystkie wskazywały, że kryzys na południu sięga znacznie głębiej, niż sugerowały uliczne plotki.
+
+Tuż obok Brat (3) twierdzi, że widział topniejącego człowieka w jaskini na północ od miasta (The Melting Man 62).
+
+W gospodzie (4) kolejna łowczyni głów – Neira, odchodzi w zapomnienie i jej kontrakt opiewający już na 680 sztuk złota. W pokoju zastajemy napuszoną szlachtę z rodu Undenzieht, lady wspomniała syna Armina bawiącego się nowym zwierzakiem.
+
+Rozmowy z gośćmi miejscowej karczmy szybko potwierdziły, że sytuacja w *Nashkel* jest znacznie gorsza, niż mogłoby się wydawać przyjezdnym. Jeden z bywalców poradził drużynie, aby zawróciła, póki jeszcze może. Odkąd w kopalni pojawiły się potwory mordujące górników, mieszkańcy zaczęli uważać miasto za przeklęte. Karczemne pogłoski przypomniały również o tragedii **Brage’a**. Zaledwie kilka tygodni wcześniej dowódca miejscowej straży stracił rozum i wymordował własną rodzinę. Dla mieszkańców był to kolejny dowód, że nad *Nashkel* zawisło coś znacznie gorszego niż zwyczajny kryzys żelaza. Jak oznajmił ponuro jeden z gości, nie było to dobre miejsce na dłuższy pobyt.
+
+Karczmarz ostrzegł drużynę, że sytuacja w *Nashkel* jest znacznie gorsza, niż mogłoby się wydawać przyjezdnym. Odkąd potwory zaczęły mordować górników w miejscowej kopalni, mieszkańcy uznawali miasto za przeklęte, a rozsądniejszym podróżnym radzono zawrócić, póki jeszcze mogli. Wspomniał również o tragedii **Brage’a**, niedawnego dowódcy straży, który kilka tygodni wcześniej stracił rozum i wymordował własną rodzinę. Dla karczmarza był to kolejny dowód, że nad *Nashkel* zawisło coś znacznie gorszego niż zwyczajny kryzys żelaza. Jak stwierdził ponuro, nie było to dobre miejsce na dłuższy pobyt.
+
+Przy gospodzie (5) smutna kobieta o imieniu Taris rozpytywała o jakiegoś mężczyznę, ale nie byliśmy w stanie jej pomóc.
