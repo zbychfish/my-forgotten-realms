@@ -20,4 +20,6 @@
 
 **Thalantyr** - Wysoki Żywopłot, zwoje i pociski i magiczne przedmioty
 
-**Trungle** - Cxzerwone Jary, zwoje i pociski
+**Trungle** - Czerwone Jary, zwoje i pociski
+
+**Nalin** - Świątynia Helma w Nashkel, eliksiry i kilak zwojów 

@@ -191,7 +191,24 @@
 |Lady von Undenzieht|BG4801|:material-check-circle:|wspominała coś o nowym zwierzątku ich syna Arnima|
 |Lord von Undenzieht|BG4801|:material-check-circle:|jak to lord duża gęba pusty łeb|
 |Taris|BG4800|:material-check-circle:|rozglądająca się za kimś|
+|Berrun Ghastkill|BG4800|:material-check-circle:|burmistrz Nashkel|
+|Oublek|BG4800|:material-check-circle:|PR'owiec Nashkel|
+|Hick|BG4810|:material-check-circle:|Podwładny kapitana Brage'a, kóry nie wierzy że zabił rodzinę rozmyślnie|
+|Edwin|BG4800|:material-check-circle:|Czerwony mag szukający druzyny do mokrej roboty|
+|Sistryia|BG4800|:material-check-circle:|Krainy Cieni wizytatorka|
+|Pani Brunnstein|BG4800|:material-check-circle:|Dla syna pomocy szukająca|
+|Volo|BG4809|:material-check-circle:|Poeta i plotkarz o regionalnym zasięgu|
+|Lake Poet Rob|BG4809|:material-check-circle:|Kolejny poeta gotów sławić lub łżyć nasze osiągnięcia za sowitą opłatą|
+|Noober|BG4800|:material-check-circle:|Upierdliwiec|
+|Karp|BG4800|:material-check-circle:|co opisała "piękno" pracy na roli|
+|Nigati|BG4800|:material-check-circle:|zielarka szukająca sezonowej pomocy|
+|Rasaad|BG4800|:material-check-circle: postać przyłączalna|Ten co brata stracił dwa razy.|
+|Barin|BG4802|:material-check-circle:|tropiciel ale bez sukcesów|
+|Nalin|BG4802|:material-check-circle:|kapłan Helma|
 
+Nashkel - Świątynia Helma - BG4802
+Nashkel - Bekający Smok - BG4809
+Nashkel - garnizon - BG4810
 Nashkel - gospoda - BG4801
 Nashkel - BG4800
 Ustronne Jezioro - BG4200

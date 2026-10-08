@@ -25,7 +25,7 @@
 |Beetles, Dreams and an Old Man|[Zobacz szczegóły](#q-22)|
 |Perdue's Short Sword|[Zobacz szczegóły](#q-23)|
 |Bassilus Murderer|[Zobacz szczegóły](#q-24)|
-|Finch Books|[Zobacz szczegóły](#q-25)|
+|Finch's Quest to Start a Library in Nashkel|[Zobacz szczegóły](#q-25)|
 |Zhurlong's Missing Boots|[Zobacz szczegóły](#q-26)|
 |So be it! At least this mess is over with now|[Zobacz szczegóły](#q-27)|
 |A Book for Firebead|[Zobacz szczegóły](#q-28)|
@@ -63,7 +63,57 @@
 |An Errant Funeral|[Zobacz szczegóły](#q-60)|
 |Ice and Ore|[Zobacz szczegóły](#q-61)|
 |The Melting Man|[Zobacz szczegóły](#q-62)|
+|The Tale of Captain Brage|[Zobacz szczegóły](#q-63)|
+|Oublek the Bounty Officer|[Zobacz szczegóły](#q-64)|
+|Prism the Sculptor|[Zobacz szczegóły](#q-65)|
+|Captain Brage's Guilt|[Zobacz szczegóły](#q-66)|
+|Into the Manhood|[Zobacz szczegóły](#q-67)|
+|Edwin and Dynaheir|[Zobacz szczegóły](#q-68)|
+|Stronghold and Its Shadows|[Zobacz szczegóły](#q-69)|
+|A Failed Picninc|[Zobacz szczegóły](#q-70)|
 
+??? warning "A Failed Picnic"
+    - **Zleceniodawca:** Pani Brunnstein przy Bekającym Smoku w Nashkel
+    - Prosi o pomoc w odnalezieniu jej syna Aarona.
+    <div id="q-70"></div>
+
+??? warning "Stronghold and Its Shadows"
+    - **Zleceniodawca:** Sistriya w Nashkel
+    - Uciekając przed gnolami w ich twierdzy zostawiła notatki w krainie cienia a klucz do portalu schowała pomiedzy kamieniami twierszy.
+    - Prosi o dostarczenie notatek.
+    <div id="q-69"></div>
+
+??? failure "Edwin and Dynaheir"
+    - **Zleceniodawca:** Edwin przy południowym moście w Nashkel
+    - Chciał nas wynając do mokrej roboty ale odmówiliśmy ze względu na Sandrah alergię do tej maści czarodziejów.
+    <div id="q-68"></div>
+
+??? success "Into the Manhood"
+    - **Zleceniodawca:** Dzieciak przy koszarach
+    - Chce sie dowiedzieć co to znacyz być mężczyzną.
+    - Otrzymał romantyczne wyjaśnienie.
+    <div id="q-67"></div>
+
+??? warning "Captain Brage's Guilt"
+    - **Zleceniodawca:** Jeden z amnijskich żołnierzy w garnizonie w Nashkel
+    - Dobrze by było zrozumieć co kryje się dokłądnie za zniknięciem kapitana i śmiercią jego rodziny.
+    - Hick wspomniał coś o jakimś mieczu.
+    <div id="q-66"></div>
+
+??? warning "Prism the Sculptor"
+    - **Zleceniodawca:** Oublek w Nashkel.
+    - Zniknął rzeżbiarz Prism a z nim dwa wielkie diamenty, które są poszukiwane bardziej niż artysta.
+    <div id="q-65"></div>
+
+??? success "Oublek the Bounty Officer"
+    - **Zleceniodawca:** Oublek w Nashkel.
+    - Należy oszukać bądz nie Oubleka.
+    <div id="q-64"></div>
+
+??? warning "The Tale of Captain Brage"
+    - **Zleceniodawca:** W trakcie rozmów z mieszkańcami Nashkel.
+    - Zniknął kapitan Stracy - Brage. W jego domu znaleziono zmasakrowaną rodzinę. Jets on podejrzewany o tą masakrę.
+    <div id="q-63"></div>
 
 ??? warning "The Melting Man"
     - **Zleceniodawca:** Brat w Nashkel.
@@ -296,9 +346,10 @@
     - Oddaliśmy buty złodziejaszkowi.
     <div id="q-26"></div>
 
-??? warning "Finch Books"
+??? warning "Finch's Quest to Start a Library in Nashkel"
     - **Zleceniodawca:** Finch w Czerwonym bukiecie w Beregost.
     - Ma zdobyć kilka ksiąg, które będą stanowiły bazę nowe biblioteki jaką jej zakon planuje otworzyć. Wspólnie poszukamy tych tomiszczy.
+    - Burmistrz Nashkel zaakceptowal plan budowy biblioteki w Nashkel, teraz jedynie musimy znależć księgi.
     <div id="q-25"></div>
 
 ??? success "Bassilus Murderer"
