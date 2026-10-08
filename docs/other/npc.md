@@ -205,7 +205,14 @@
 |Rasaad|BG4800|:material-check-circle: postać przyłączalna|Ten co brata stracił dwa razy.|
 |Barin|BG4802|:material-check-circle:|tropiciel ale bez sukcesów|
 |Nalin|BG4802|:material-check-circle:|kapłan Helma|
+|Daer'Ragh|BG4800|:material-check-circle:|obrońca grobu Marka D.|
+|Arnim|BG4800|:material-check-circle:|potomek Undenziehtów|
+|Trask|BG4804|:material-check-circle:|Przełożony Finch|
+|Samantha|BG4805|:material-check-circle:|co kryła amanta w szafie|
+|Jamie|BG4805|:material-check-circle:|nagi amant Samanthy|
 
+Nashkel - posiadłość Fenrica - piętro - BG4805
+Nashkel - posiadłość Fenrica - BG4804
 Nashkel - Świątynia Helma - BG4802
 Nashkel - Bekający Smok - BG4809
 Nashkel - garnizon - BG4810

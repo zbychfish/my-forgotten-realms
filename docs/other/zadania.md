@@ -71,6 +71,18 @@
 |Edwin and Dynaheir|[Zobacz szczegóły](#q-68)|
 |Stronghold and Its Shadows|[Zobacz szczegóły](#q-69)|
 |A Failed Picninc|[Zobacz szczegóły](#q-70)|
+|Nashkel Monster|[Zobacz szczegóły](#q-71)|
+|Joseph's Wife|[Zobacz szczegóły](#q-72)|
+
+??? warning "Joseph's Wife"
+    - **Zleceniodawca:** Żona górnika w domu na zachodzie Nashkel
+    - Prosi o wieści o mężu, któy jest w kopalni, nosi nefrytowy pierścień.
+    <div id="q-72"></div>
+
+??? warning "Nashkel Monster"
+    - **Zleceniodawca:** Arnim uciekający przed wywerną
+    - Skąd wiwerna w Nashkel?
+    <div id="q-71"></div>
 
 ??? warning "A Failed Picnic"
     - **Zleceniodawca:** Pani Brunnstein przy Bekającym Smoku w Nashkel
@@ -163,6 +175,7 @@
 ??? warning "Bibliophilia"
     - **Zleceniodawca:** Gadający mebel w prywatnych komnatach Thalantyra.
     - Mebel to bibliofil uwielbiajacy cykl histori Cienistej Doliny ale brakuje mu ostatniego trzynastego tomu i prosi o jego dostarczenie.
+    - Księgę znależliśmy w Nashkel w siedzibie Fenrica.
     <div id="q-54"></div>
 
 ??? warning "Snooping Around"
