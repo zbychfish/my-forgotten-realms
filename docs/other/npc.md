@@ -210,7 +210,9 @@
 |Trask|BG4804|:material-check-circle:|Przełożony Finch|
 |Samantha|BG4805|:material-check-circle:|co kryła amanta w szafie|
 |Jamie|BG4805|:material-check-circle:|nagi amant Samanthy|
+|Boohady Cream|L#MEL1|:material-check-circle:|nagi amant Samanthy|
 
+Przełęcz Nashkel - jaskinia - L#MEL1
 Nashkel - posiadłość Fenrica - piętro - BG4805
 Nashkel - posiadłość Fenrica - BG4804
 Nashkel - Świątynia Helma - BG4802

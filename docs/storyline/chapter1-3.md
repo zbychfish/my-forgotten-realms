@@ -42,7 +42,7 @@ Przed gospodą *Płonący Czarodziej* <span class="mb">9</span> drużyna spotka�
 <span class="character-subtitle">
 Człowiek · Łotrzyk · Praworządny Zły
 </span>
-> DODAĆ OPIS.
+> Zapytany o swoją przeszłość **Garrick** opowiada, że należał niegdyś do słynnej trupy aktorskiej zwanej **Wędrownymi Trubadurami z Doliny**. Artyści podróżowali wzdłuż całego wybrzeża, występując od *Neverwinter* aż po *Amn*. Grywali przed książętami i przedstawicielami szlachty, ponieważ w okresie największej popularności ich występy należały do wyjątkowo kosztownych. Bard nie wspomina jednak tego czasu zbyt dobrze. Z biegiem lat coraz bardziej niepokoił go kierunek, w którym zmierzała trupa. Odkrył, że przedstawienia służyły jedynie jako odwrócenie uwagi, podczas gdy jego towarzysze dokonywali kradzieży. **Garrick** nie chciał mieć z tym nic wspólnego, lecz pozostali artyści odrzucili jego sprzeciw i ostatecznie usunęli go ze swoich szeregów. Od tamtej pory młody bard podróżuje samotnie, grając i śpiewając dla każdego, kto zechce go wysłuchać. Nadal pozostaje nieco naiwny i łatwo ulega wpływom, lecz doświadczenia z dawną trupą nauczyły go ostrożności wobec osób składających zbyt piękne obietnice.
 </div>
 </div>
 

@@ -73,6 +73,20 @@
 |A Failed Picninc|[Zobacz szczegóły](#q-70)|
 |Nashkel Monster|[Zobacz szczegóły](#q-71)|
 |Joseph's Wife|[Zobacz szczegóły](#q-72)|
+|The Rat King|[Zobacz szczegóły](#q-73)|
+|A Zhent Agent|[Zobacz szczegóły](#q-74)|
+
+??? success "A Zhent Agent"
+    - **Zleceniodawca:** Eloran w świątyni Lathandera
+    - Mamy zabić agent Zhentarimów podązającego do Beregost z Pomocnej Dłoni.
+    <div id="q-74"></div>
+
+??? success "The Rat King"
+    - **Zleceniodawca:** Eloran w świątyni Lathandera
+    - Mamy wyplenić pagę szczurów w jednym z domów w Beregoście.
+    - Deratyzacja nie odbyła się, bo szczurami dowodził szczurołak, który zgodził przenieść się z rodziną do jaskiń przy Nadbrzeżnym Trakcie.
+    - Eloran jest zadowolona z wykonanego szybko zadania.
+    <div id="q-73"></div>
 
 ??? warning "Joseph's Wife"
     - **Zleceniodawca:** Żona górnika w domu na zachodzie Nashkel
@@ -130,6 +144,8 @@
 ??? warning "The Melting Man"
     - **Zleceniodawca:** Brat w Nashkel.
     - Podobno w jaskini na Przełęczy Nashkel ukrywa się "topniejący" człowiek.
+    - W jaskini na południu Przełęczy Nashkel spotykamy pokaranego klątwą Boohady Creama i postanawiamy mu pomóc.
+    - Musimy znaleźć więdźmę, która rzuciła na niego czar.
     <div id="q-62"></div>
 
 ??? warning "Ice and Ore"
@@ -137,9 +153,12 @@
     - Kull poszukuje kuli magicznego lodu.
     <div id="q-61"></div>
 
-??? warning "An Errant Funeral"
+??? sucess "An Errant Funeral"
     - **Zleceniodawca:** Eloran w Świątyni Lathandera.
     - W Nashkel zniknęły zwłoki, podobno samodzielnie. Trzeba wyjaśnić sprawę.
+    - Okazało sie że pochowany pragnął pochówku zgodnego ze swoją wiarą i wstał ze zmarłych aby to uzyskać.
+    - Udało się przekonać grabarza przebywającego w świątyni Helma do powtórnego pochówku i zmarły mógł odejść w spokoju.
+    - Eloran była zadowolona z wykonania zadania.
     <div id="q-60"></div>
 
 ??? warning "A New Best Friend for Ugh"
@@ -207,7 +226,6 @@
     - Grożny mag kontrolujący bazyliszki zamienia ludzi w kamień. Udał się na wschód.
     <div id="q-49"></div>
 
-
 ??? success "Drunk near Beregost Temple"
     - **Zleceniodawca:** Polus przy westybule świątyni Lathandera.
     - Pijaczyna zasnął w dziczy i pewnie zagryzą go okoliczne drapieżniki.       
@@ -266,10 +284,11 @@
     - Liedel został przekonany, że Vapula zakończył żywot i otrzymaliśmy nagrodę.
     <div id="q-41"></div>
 
-??? warning "Liedel's Bounty: Carth"
+??? success "Liedel's Bounty: Carth"
     - **Zleceniodawca:** Liedel w Oku Gorgony..
     - Zgładzić Cartha za niespłacony dług u Zentharimów. Mieliśmy z nim już do czynienia w Pomocnej Dłoni."
     - Znajdujemy go tam, gdzie przebywał za pierwszym razem i wykonujemy wyrok, chociaż nie z ciężkim sercem. Obżarstwo nie popłaca.
+    - Liedel jest zadowolony z szybkiego załatwienia sprawy.
     <div id="q-40"></div>
 
 ??? success "Shadows of Revelry"

@@ -94,4 +94,87 @@ W dworku na północy (23) spotykamy przełożonego Finch – Trask’a. Oczekuj
 
 W domu na zachodzie (24) mieszkająca tam kobieta poprosiła nas o zadbanie o jej męża Józefa, górnika z kopalni w pobliskiej kopalni (JOSEPH’S WIFE). Mąż nosi pierścień z nefrytem (Joseph's Wife 72).
 
+Postanawiamy udać się do Beregostu i Pomocnej Dłoni po Imoen i Garricka i załatwić tam kilka spraw związanych ze zleceniami.
+
 Bestiariusz: młoda wiwerna
+
+<div class="divider">Przełęcz Nashkel&nbsp;<span class="mb">21</span></div>
+
+[![Przełęcz Nashkel](../maps/BG4300.webp){ .center-img width="40%" }](../maps/BG4300.webp)
+
+Rzeczywiście w jaskini (5) drużyna spotkała **Boohady’ego Creama**, którego miejscowe dzieci nie bez powodu nazywały Topniejącym Człowiekiem. Nieszczęśnik rzeczywiście powoli rozpływał się na oczach przybyszów. Wyjaśnił, że niegdyś był zupełnie zwyczajnym człowiekiem, dopóki nie obraził niewłaściwej osoby. Rozwścieczona **Madame Potpourri** rzuciła na niego klątwę, zapowiadając, że stopi się niczym lody pozostawione w upalny dzień. **Boohady** zdążył już pogodzić się z losem. Wspominał udane życie i dwoje dzieci, dochodząc do wniosku, że najwyraźniej zasłużył na karę. Leech nie zamierzał jednak bezczynnie patrzeć, jak człowiek zmienia się w kałużę. Problem polegał na tym, że ofiara nie znała sposobu na zatrzymanie klątwy ani miejsca pobytu czarownicy. Jedyną wskazówką były upodobania **Madame Potpourri**. Kobietę miały przyciągać jaskrawe kolory, słodycze i hazard. Pozostawało więc odnaleźć miejsce łączące wszystkie trzy przyjemności i przekonać kapryśną czarownicę do cofnięcia zaklęcia, zanim z **Boohady’ego Creama** pozostanie jedynie wyjątkowo nieszczęśliwa plama (**The Melting Man** 62).
+
+Podążamy do Świątyni Lathandera zdać sprawy I
+
+Bestiariusz: bełkotek
+
+<div class="divider">Świątynia Lathandera&nbsp;<span class="mb">22</span></div>
+
+[![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }](../maps/BG3400.webp)
+
+Po zakończeniu sprawy z zaginionym pochówkiem drużyna zdała **Eloran** (2) raport. Okazało się, że zmarły sam opuścił grób, niezadowolony z obrzędów odprawionych przez kapłanów **Helma**. Jako wyznawca **Ibrandula** pragnął pożegnania zgodnego z własną wiarą. Kapłanka uznała historię za interesującą. **Ibrandul**, sprzymierzony zarówno z **Maską**, jak i **Ilmaterem**, stał niemal na przeciwległym krańcu boskiego porządku względem **Lathandera**. Zapytała więc Leecha, jak zamierza postępować wobec ludzi, których wiara pozostaje całkowicie sprzeczna z jego własnymi przekonaniami. Wychowanek **Goriona** przyznał, że zapewne nie zdoła nikogo przekonać samymi słowami. Może jednak pokazać własnym przykładem, że istnieją inne drogi życia, a ciekawość skłoni niektórych do samodzielnego poszukiwania odpowiedzi. **Eloran** uznała, że podobna metoda czasem rzeczywiście przynosi efekty, po czym zakończyła rozmowę i poleciła wrócić, gdy młody awanturnik będzie gotów na kolejne zadanie (**An Errant Funeral** 60).
+
+Nowe zlecenie okazało się znacznie mniej wzniosłe. Tym razem nie chodziło o nieumarłych, nekromantów ani wyznawców mrocznych bóstw, lecz o plagę szczurów w domu jednej z mieszkanek *Beregostu*, niedaleko *Płonącego Czarodzieja*. Leech z niedowierzaniem zapytał, czy naprawdę ma polować na kilka gryzoni. **Eloran** przypomniała mu jednak, że nie każde zadanie musi być efektowne, a świątynia odpowiada również za zwyczajne problemy mieszkańców. Skoro **Płonąca Pięść** odmówiła pomocy, ktoś musiał zająć się szkodnikami. Kapłanka zasugerowała przy tym, że tępienie szczurów jest niemal rytuałem przejścia każdego szanującego się poszukiwacza przygód. Młody gnom zgodził się bez dalszych protestów. Najwyraźniej po duchach, malarytach i skradzionych zwłokach przyszła pora ponownie udowodnić, że żadna piwnica pełna gryzoni nie może czuć się przy nim bezpiecznie (**The Rat King** 73).
+
+<div class="divider">Świątynia Lathandera&nbsp;<span class="mb">23</span></div>
+
+[![Beregost](../maps/BG3300.webp){ .center-img width="40%" }](../maps/BG3300.webp)
+
+Pierwsze kroki kierujemy do Wesołego Żonglera (22) i zabieramy ze sobą Imoen.
+
+:material-account-group: **Przyłączeni NPC:** *Imoen*
+
+Następnie odwiedzamy panię Landrin (21) i częstuje nas ożywczą herbatką, która skutecznie leczy wszystkie rany.
+
+Zaglądamy do domu wskazanego przez Elonara (42). Właścicielka wskazała nam siedlisko gryzoni na górze. Ku naszemu zdziwieniu zamieszkał tam Król Szczurów, wyglądający bardziej na likantropa niż gryzonia. Udało się nam wyperswadować mu przenosiny do sieci jaskiń na Nadbrzeżnym Trakcie, które zasiedlał malaryta i pająki (**The Rat King** 73).
+
+Zaglądamy do Oka Gorgony (29) i zamykamy sprawę kontraktu na Cartha. Liedel jest zadowolony i nie ma na razie więcej zleceń (Liedel's Bounty: Carth 40).
+
+<div class="divider">Świątynia Lathandera&nbsp;<span class="mb">24</span></div>
+
+[![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }](../maps/BG3400.webp)
+
+Szybko załatwonia sprawa ze szczurami skłoniła nas do powrotu do świątyni Pieśni Poranka (2). Poinformano Eloran, że szczurami dowodził likantrop, którego Leech oszczędził i przekonał, by wraz ze swoim stadem przeniósł się do tuneli zajmowanych wcześniej przez wyznawcę **Malara**. Kapłanka zapytała, dlaczego pozostawił szczurołaka przy życiu. Wychowanek **Goriona** odparł, że przeciwnik nie zasługiwał na śmierć wyłącznie z powodu swojej natury. **Eloran** zauważyła, że nie mamy wpływu na to, kim się rodzimy, lecz możemy zdecydować, kim ostatecznie się staniemy. Miała jedynie nadzieję, że darowana istocie szansa nie obróci się kiedyś przeciwko młodemu gnomowi (**The Rat King** 73).
+
+Kolejne zlecenie nie dotyczyło już nieumarłych, kultystów ani gryzoni. Z *Pomocnej Dłoni* do *Beregostu* zmierzał agent Zhentarimów, którego należało odnaleźć i zlikwidować. Leech zapytał, czy nie warto najpierw z nim porozmawiać, lecz **Eloran** stanowczo odrzuciła ten pomysł. Według niej jedyny dobry Zhent był martwym Zhentem, a poszukiwany nie należał do nielicznych renegatów zasługujących na wątpliwości. Agent powinien poruszać się wzdłuż traktu pomiędzy *Pomocną Dłonią* a *Beregostem*. Zhentarimscy wysłannicy nie słynęli z dyskrecji, dlatego odnalezienie celu nie powinno sprawić większych trudności. Tym razem kapłanka nie pozostawiła miejsca na moralne rozważania: zadanie miało zakończyć się śmiercią agenta (**A Zhent Agent** 74).
+
+Podążamy więc do agenta.
+
+<div class="divider">Nadbrzeżny Trakt&nbsp;<span class="mb">25</span></div>
+
+[![Nadbrzeżny Trakt](../maps/BG2800.webp){ .center-img width="40%" }](../maps/BG2800.webp)
+
+Agenta znaleźliśmy nie przy trakcie ale podązającego ukradkiem w cieniu drzew (10). Napadł Sandrah z nienacka ale udało się go szybko zneutralizować (**A Zhent Agent** 74).
+
+Będą tak blisko Pomocnej Dłoni udajemy się tam odpocząć.
+
+Bestiariusz: chory bełkotek
+
+<div class="divider">Pomocna Dłoń&nbsp;<span class="mb">26</span></div>
+
+[![Pomocna Dłoń](../maps/BG2300.webp){ .center-img width="40%" }](../maps/BG2300.webp)
+
+Raasad staje się bardziej rozmowny. Jego matka zmarła przy porodzie a ojciec miał trudności z wychowaniem jego i młodszego brata, Gamaza. Życie w Calimporcie jest trudne dla tych, którzy nie urodzili się w bogactwie i przywilejach. Kiedy nie mógł już spłacać rosnących długów, ojciec Raasada został skazany na Arenę Efeetum, gdzie walczył i zginął dla rozrywki ludzi. Jego śmierć pozostawiła braci, zdanych na życie na ulicach. Pomagali sobie nawzajem, żebrząc, służąc i… czasami kradnąc. Pewnego dnia Gamaza złapano z ręką na sakiewce mnicha Słonecznej Duszy. Zamiast nas karać, mnich zabrał nas do klasztoru, gdzie zostaliśmy wykąpani, nakarmieni i ubrani jako nowicjusze. Od tego dnia uczyli się tajemnic Selûne i trenowali swoje ciała, umysły i duchy, aby szerzyć jej światło innym. Selûne pobłogosławiła Gamaza i Raasada w dniu, w którym spotkali tego mnicha. Od tego dnia światło bogini rozjaśniło ich egzystencję. Raasad pojawił się w Nashkel bo kiedy sekta w Athkatli przestała odpowiadać na wiadomości, jego mistrzowie w Calimporcie wysłali dziesięciu mnichów do zbadania sprawy. Bracia byli wśród wybranych do wypłynięcia do Amn. Zastali klasztor opuszczony. Mieszkańcy z okolicy, pytani o tę tajemnicę, zmieniali temat lub uciekali. Tygodniami prowadzili dochodzenie. Wreszcie, dzięki skrytości, podstępowi i cierpliwości, dotarli do pogłosek, że agenci Shar, Pani Nocy, zamordowali wszystkich mnichów Słonecznej Duszy w Athkatli. Miejscowi bali się Shar zbyt bardzo, by rozmawiać o tym z przybyszami. Ale wciąż wypływało jedno imię: Alorgoth. Niestety nie ma żadnych śladów i został tylko z tym imieniem. Przyrzekł wkrótce ponownie porozmawiać o bracie i swojej historii. (Podczas dalszej rozmowy **Rasaad** opowiedział Leechowi, jak trafił do Zakonu Słonecznej Duszy. Wspomnienie rodzinnego domu wciąż budziło w nim zarówno ciepło, jak i żal. Matka zmarła, wydając go na świat, a ojciec samotnie wychowywał jego oraz starszego brata, **Gamaza**. Życie w *Calimportcie* nie było łaskawe dla osób pozbawionych majątku i wpływów. Kiedy rosnące długi przerosły możliwości rodziny, ojca skazano na walkę na Arenie Ifrytów, gdzie zginął ku rozrywce tłumu. Osieroceni bracia próbowali przetrwać na ulicach, żebrząc, usługując i czasem kradnąc. Pewnego dnia **Gamaz** został przyłapany z ręką w sakiewce mnicha Słonecznej Duszy. Zamiast wymierzyć karę, duchowny zabrał obu chłopców do klasztoru. Tam otrzymali schronienie, jedzenie i odzież, a z czasem rozpoczęli naukę sztuk walki oraz tajemnic **Selûne**. To właśnie światło Panny Księżyca po raz pierwszy rozjaśniło ich ponure życie. Leech zapytał następnie, co sprowadziło mnicha do *Nashkel*. **Rasaad** wyjaśnił, że choć poszczególne odłamy Zakonu Słonecznej Duszy służą różnym bogom, nadal utrzymują ze sobą kontakt. Gdy klasztor w *Athkatli* przestał odpowiadać na wiadomości, przełożeni z *Calimportu* wysłali dziesięciu mnichów, aby zbadali sprawę. Wśród wybranych znaleźli się również **Rasaad** i **Gamaz**. Na miejscu zastali opuszczony klasztor. Mieszkańcy okolicy bali się mówić, lecz po wielu tygodniach cierpliwego śledztwa mnisi odkryli, że za zniknięciem wspólnoty mogli stać wyznawcy **Shar**, odwiecznej przeciwniczki **Selûne**. W zasłyszanych szeptach wciąż powracało jedno imię: **Alorgoth**. Leech zauważył, że poszukiwania mnicha brzmią jak kolejna wyprawa napędzana zemstą. **Rasaad** zaprzeczył. Zemsta była jedynie cieniem padającym na serce, podczas gdy on pragnął odpowiedzi i sprawiedliwości dla zaginionych braci zakonnych. Młody gnom skwitował, że zawsze słyszał o zemście podawanej na zimno, lecz nie zamierzał dalej drażnić nowego towarzysza. Do tej historii mogli jeszcze powrócić.)
+
+Podczas rozmowy Leech zauważył, że słynny **Drizzt Do’Urden** znał **Sandrah** znacznie lepiej, niż mogłoby wynikać z ich niedawnego spotkania. Kapłanka przyznała z dumą, że drow był niegdyś jednym z jej nauczycieli walki. Ta wiadomość tylko pogłębiła zdumienie młodego gnoma. Bez podobnego szkolenia sama sprawność jego towarzyszki i tak robiła wrażenie, lecz teraz nabierała zupełnie nowego znaczenia. Wszystko zaczęło się w czasie, gdy **Sandrah** sporadycznie towarzyszyła ojcu podczas jego misji. Szybko zauważyła, że magia oraz dyplomacja nie zawsze wystarczają do rozwiązania każdego problemu, dlatego postanowiła opanować również sztukę walki. Początkowo sięgała po bardziej „damskie” uzbrojenie, takie jak sztylety, później zaś próbowała broni dystansowej, aby trzymać przeciwników z dala od siebie. Prawdziwe powołanie odnalazła jednak zupełnym przypadkiem. Pewnego ciepłego, wiosennego dnia została sama w rodzinnej rezydencji, przygotowując hol na zbliżające się urodziny ojca. Przytwierdzała do ściany girlandy za pomocą drobnych gwoździ i niewielkiego młotka, gdy przez otwarte drzwi wszedł niespodziewany gość. Był nim **Drizzt Do’Urden**, lecz młoda **Sandrah** wzięła słynnego wojownika za złodzieja i bez chwili namysłu ruszyła do ataku swoim małym młotkiem. Leech z trudem wyobrażał sobie tę scenę: drobna dziewczynka nacierająca z młotkiem na jednego z najznakomitszych wojowników w Krainach. Drow zamiast natychmiast wyjaśnić pomyłkę, postanowił jednak podtrzymać zabawę i sprawdzić umiejętności napastniczki. Pojedynek trwał do chwili, gdy w drzwiach stanął ojciec **Sandrah** i wybuchnął śmiechem. Po wyjaśnieniu nieporozumienia **Drizzt** przyznał, że jest pod wrażeniem naturalnego talentu dziewczyny do walki w zwarciu. Sam miał nawet nabawić się kilku paskudnych siniaków. Zdecydował się więc udzielić jej prawdziwych lekcji podczas pobytu w *Waterdeep*, a za broń odpowiednią dla młodej uczennicy uznał właśnie młot. Wychowanek **Goriona** nie krył podziwu. Lekcje walki od **Drizzta Do’Urdena** wyjaśniały, dlaczego **Sandrah** tak pewnie radziła sobie na polu bitwy. Zażartował, że w następnej kolejności zapewne dowie się, iż samego rzucania zaklęć uczył ją **Elminster**. Tajemniczy uśmiech kapłanki sugerował jednak, że nawet ten żart mógł być niebezpiecznie bliski prawdy.
+
+W wolnej chwili **Imoen** postanowiła wyrównać rachunki z **Finch** za jeden z dawnych żartów w *Candlekeep*. Bibliotekarka odkryła w swoim posłaniu lepką mieszaninę robaków i miodu, podczas gdy sprawczyni z trudem powstrzymywała śmiech, wspominając osłupiałą minę starego **Puffgutsa**. **Finch** szybko domyśliła się, kto odpowiada za ten bałagan. Przypomniała przyjaciółce, że wcześniejszy dowcip polegał jedynie na przyklejeniu ulubionej zakładki **Imoen** do rzadkiego tomu poświęconego archeologii *Netherilu*. Jej zdaniem była to drobna psota, zupełnie nieporównywalna z wypełnieniem czyjegoś łóżka miodem i wijącymi się robakami. Młoda złodziejka odparła, że musiała wreszcie odpłacić za żart sprzed lat, choć z przezorności oszczędziła torbę z książkami. Bibliotekarka przyznała, że mogło być gorzej, po czym oznajmiła, że skoro sama przebrała pościel, **Imoen** zajmie się praniem koców oraz myciem jej stóp. Zwycięstwo siostrzyczki Leecha okazało się więc krótkotrwałe, lepkie i zakończone dodatkowymi obowiązkami.
+
+Podczas marszu **Sandrah** usłyszała, jak **Garrick** nuci nieznaną melodię. Bard z dumą oznajmił, że utwór jest jego własnym dziełem, choć po chwili przyznał, że w przypadku artystów natchnienie niekiedy przychodzi z tak odległych źródeł, iż dopiero później odkrywają, że melodię zasłyszeli już u kogoś innego. Szybko wyszło na jaw, że pieśń stanowi część powstającego eposu o bohaterach *Wybrzeża Mieczy*, a jedną z jego głównych postaci miała być właśnie córka potężnego maga. Zaintrygowana **Sandrah** poprosiła, aby rozpoczął od początku. Pieśń opowiadała o niebezpiecznych szlakach, chłodzie, starej magii oraz pięknej bohaterce, którą bard próbował opisać w odpowiednio wzniosłych słowach. W tym miejscu natchnienie wyraźnie zaczęło go opuszczać. **Garrick** przyznał, że nadal poszukuje określeń zdolnych oddać urodę swojej muzy. **Sandrah** przyjęła komplement z rozbawieniem, lecz przypomniała pieśniarzowi, że bardowskie pochwały należy tłumaczyć tak, aby nie raziły przesadą. **Garrick** poczuł się niesprawiedliwie oceniony i zapytał, jak ma udowodnić szczerość swoich słów. Służka **Mystry** odpowiedziała, że powinien przestać mówić i zamiast tego wykazać się czynami. Ta propozycja odebrała bardowi znaczną część pewności siebie. Zdołał jedynie wyjąkać, że mogliby przynajmniej spróbować, po czym oboje pozostali nieco z tyłu za resztą drużyny. Leech nie słyszał już dalszego ciągu rozmowy, lecz sądząc po nagłej ciszy **Garricka**, tym razem to nie brak rymu sprawił artyście największą trudność.
+
+Wracamy do Nashkel przygotować się na odiwedziny kopalni.
+
+:material-account-group: **Odłączeni NPC:** *Rasaad* (powinien być w Nashkel)
+
+:material-account-group: **Przyłączeni NPC:** *Garrick*
+
+<div class="divider">Nashkel&nbsp;<span class="mb">20</span></div>
+
+[![Nashkel](../maps/BG4800.webp){ .center-img width="40%" }](../maps/BG4800.webp)
+
+
+
+
+
+
+
