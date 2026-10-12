@@ -75,10 +75,31 @@
 |Joseph's Wife|[Zobacz szczegóły](#q-72)|
 |The Rat King|[Zobacz szczegóły](#q-73)|
 |A Zhent Agent|[Zobacz szczegóły](#q-74)|
+|Traveling Librarians|[Zobacz szczegóły](#q-75)|
+|Carnival and the Missing Brother|[Zobacz szczegóły](#q-76)|
+|Imoen in Love|[Zobacz szczegóły](#q-77)|
 
-??? success "A Zhent Agent"
+??? warning "Imoen in Love"
+    - **Zleceniodawca:** Po spotkani Henninga w sklepie Nashkel
+    - Imoen chce bliżej poznać Henninga. Szuka pretekstu do powrotu do Nashkel.
+    <div id="q-77"></div>
+
+??? success "Carnival and the Missing Brother"
+    - **Zleceniodawca:** Tayn na jarmarku w Nashkel
+    - Poszukuje brata, który zaginął w lesie.
+    - Okazuje się, że brat został zjedzony przez mimika.
+    - Przekazujemy smutną wiadomość.
+    <div id="q-76"></div>
+
+??? warning "Traveling Librarians"
+    - **Zleceniodawca:** Garrick po przestudiowaniu księgi zakupionej od Archibalda w jarmarku e Nashkel
+    - Księga wspomina o duchu barda Myr’Cutio i skarbach gdzieś w Ulcaster.
+    <div id="q-75"></div>
+
+??? warning "A Zhent Agent"
     - **Zleceniodawca:** Eloran w świątyni Lathandera
     - Mamy zabić agent Zhentarimów podązającego do Beregost z Pomocnej Dłoni.
+    - Agent zlikwidowany na Nadbrzeżnym Trakcie.
     <div id="q-74"></div>
 
 ??? success "The Rat King"
@@ -93,9 +114,11 @@
     - Prosi o wieści o mężu, któy jest w kopalni, nosi nefrytowy pierścień.
     <div id="q-72"></div>
 
-??? warning "Nashkel Monster"
-    - **Zleceniodawca:** Arnim uciekający przed wywerną
-    - Skąd wiwerna w Nashkel?
+??? success "Nashkel Monster"
+    - **Zleceniodawca:** Arnim uciekający przed wiwerną
+    - Skąd wiwerna w Nashkel? Zabiliśmy stwora. A mały uciekł wystraszony.
+    - Przy Nashkel Inn ojciec Arnima. lord Undenzieht oskarżył nas o zabicie węża.
+    - Po krótkiej dyskusji udało się udowodnić, że niegrożny pupil wył wiwerną.
     <div id="q-71"></div>
 
 ??? warning "A Failed Picnic"
@@ -146,6 +169,8 @@
     - Podobno w jaskini na Przełęczy Nashkel ukrywa się "topniejący" człowiek.
     - W jaskini na południu Przełęczy Nashkel spotykamy pokaranego klątwą Boohady Creama i postanawiamy mu pomóc.
     - Musimy znaleźć więdźmę, która rzuciła na niego czar.
+    - Klątwodawcą okazała się madame Potpouri, która znależliśmy w jednym z namiotów na jarmarku w Nashkel.
+    - Kupiliśmy od niej antidotum.
     <div id="q-62"></div>
 
 ??? warning "Ice and Ore"
@@ -425,11 +450,13 @@
 ??? warning "Amber Flower"
     - **Zleceniodawca:** Otter O' Forest przay północnych rogatkach Beregost.
     - Mamy znaleźć burstynowy kwiat rosnący tylko nocą w miejscu wielkiej straty.
+    - Kwiat rósł przy drzewie w okolicy kopalni Nashkel. Udało się nam go zerwać.
     <div id="q-19"></div>
 
-??? warning "Find the Petrified Priestess"
+??? success "Find the Petrified Priestess"
     - **Zleceniodawca:** Sandrah podczas wspólnej podróży.
-    - W wizji zobaczyła dziewczynę zamienioną w kamień. Prosi abyś ją odnaleźli i przywrócili do życia
+    - W wizji zobaczyła dziewczynę zamienioną w kamień. Prosi abyś ją odnaleźli i przywrócili do życia.
+    - Dziewczyną zamienioną okazała się Branwem, którą przywróciliśmy do życia na jarmarku w Nashkel.
     <div id="q-18"></div>
 
 ??? success "Joia's Flamedance Ring"

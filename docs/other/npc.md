@@ -211,7 +211,38 @@
 |Samantha|BG4805|:material-check-circle:|co kryła amanta w szafie|
 |Jamie|BG4805|:material-check-circle:|nagi amant Samanthy|
 |Boohady Cream|L#MEL1|:material-check-circle:|nagi amant Samanthy|
+|Henning|BG4800|:material-check-circle:|sklepikarz ale także umiłowany Imoen|
+|Archibald|BG4900|:material-check-circle:|bibliotekarz co nie zainteresował Finch|
+|Wielki Gazib|BG4900|:material-check-circle:|pseudomag co ogra wyczarowywał|
+|Oopah Wspaniały|BG4900|:material-close-circle:|🪦 - ogr co wyczaroway po trzykroć był|
+|Vitiare|BG4903|:material-close-circle:|🪦 - nie wystarczająco szybka w swoich złodzieskim fachu|
+|Madame Potpouri|BG4904|:material-check-circle:|co klątwy rzuca po głupia|
+|„Lord” Binky the Buffon|BG4900|:material-check-circle:|przedzieźniacz, bez sensu i składu|
+|Zordral|BG4906|:material-close-circle:|🪦 - ten co zabijać chciał bez powodu|
+|Bentha|BG4906|:material-check-circle:|ocalona z rąk Zordrala|
+|Lestor|BG4900|:material-check-circle:|narzekacz|
+|Tina|BG4900|:material-check-circle:|śliczna dziewka, której pieniądza nie szczędzimy|
+|Zeke|BG4900|:material-check-circle:|co na skamieniałych zarobić chciał|
+|Branwen|BG4800|:material-check-circle: postać przyłączalna|Piękna kapłanka Tempusa|
+|Keiria Silverstring|BG4900|:material-check-circle:|bardka ale nie chcemy jej w drużynie|
+|Tayn|BG4900|:material-check-circle:|szuka brata co w lesie się z pięknością zabawia|
+|Skeezer Lumpkin VI|BG4900|:material-check-circle:|gnom i mag co z nami nie powędruje|
+|Pruflas|BG4902|:material-check-circle:|ćpun|
+|Senjak|Na szlaku|🪦 - jeden ze zdrajców poszukiwanych przez Dorna|
+|Dorotea|Na szlaku|🪦 - zdrajczyni poszukiwana przez Dorna|
+|Dorn|BG2300|:material-check-circle: postać przyłączalna|półork co zabijać potrafi|
+|Zargos Flintblade|BG5400|🪦 - kolejny łowca głów bez głowy, ale miał silne wsparcie w najemnych krasnoludach!|
+|Dandal|BG4902|:material-check-circle:|co ostrzegł nas co spotkamy koło kopalni|
+|Galtok|BG4902|:material-check-circle:|z koboldofobią|
 
+
+
+
+Kopalnia Nashkel - BG5400
+Jarmark w Nashkel - palarnia czarnego lotosu - BG4902           
+Jarmark w Nashkel - jeden z mniejszych namiotów - BG4906
+Jarmark w Nashkel - namiot gier - BG4903
+Jarmark w Nashkel - BG4900
 Przełęcz Nashkel - jaskinia - L#MEL1
 Nashkel - posiadłość Fenrica - piętro - BG4805
 Nashkel - posiadłość Fenrica - BG4804
@@ -259,10 +290,6 @@ Candlekeep barak wojskowy - BG2628
 Candlekeep koszary - BG2618
 Candlekeep karczma - BG2616
 Candlekeep - BG2600
-
-
-
-
 
 
 

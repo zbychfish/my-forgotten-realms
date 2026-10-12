@@ -12,14 +12,21 @@
 
 **Magnus sklepikarz** Przy fontannie w Beregoście, pociski i strzały lodowe?
 
-**Taeroma Fuiruima** W kuźni w Beregości, pociski i strzały 
+**Taeroma Fuiruima** W kuźni w Beregości, pociski i strzały     
 
 **Eurynome Rhade** - Oko Gorgony, sklepik i mozliwość podrasowania broni
 
 **Kelddath Ormlyr** - Świątynia Lathandera, zwóje zamieniające kamień w ciałom
 
-**Thalantyr** - Wysoki Żywopłot, zwoje i pociski i magiczne przedmioty
+S**Thalantyr** - Wysoki Żywopłot, zwoje i pociski i magiczne przedmioty
 
 **Trungle** - Czerwone Jary, zwoje i pociski
 
 **Nalin** - Świątynia Helma w Nashkel, eliksiry i kilak zwojów 
+
+**Henning** - sklep w Nashkel, nic specjalnego, dobra cena za futra białego wilka
+
+S**Sklepikarz w namiocie koło dużych jurt** - jarmark w Nashkel, bardzo dobre amulety i zwoje ochronne
+
+**Sklepikarze przy wozach** - jarmark w Nashkel, troche broni i eliksirów
+

@@ -162,19 +162,151 @@ W wolnej chwili **Imoen** postanowiła wyrównać rachunki z **Finch** za jeden 
 
 Podczas marszu **Sandrah** usłyszała, jak **Garrick** nuci nieznaną melodię. Bard z dumą oznajmił, że utwór jest jego własnym dziełem, choć po chwili przyznał, że w przypadku artystów natchnienie niekiedy przychodzi z tak odległych źródeł, iż dopiero później odkrywają, że melodię zasłyszeli już u kogoś innego. Szybko wyszło na jaw, że pieśń stanowi część powstającego eposu o bohaterach *Wybrzeża Mieczy*, a jedną z jego głównych postaci miała być właśnie córka potężnego maga. Zaintrygowana **Sandrah** poprosiła, aby rozpoczął od początku. Pieśń opowiadała o niebezpiecznych szlakach, chłodzie, starej magii oraz pięknej bohaterce, którą bard próbował opisać w odpowiednio wzniosłych słowach. W tym miejscu natchnienie wyraźnie zaczęło go opuszczać. **Garrick** przyznał, że nadal poszukuje określeń zdolnych oddać urodę swojej muzy. **Sandrah** przyjęła komplement z rozbawieniem, lecz przypomniała pieśniarzowi, że bardowskie pochwały należy tłumaczyć tak, aby nie raziły przesadą. **Garrick** poczuł się niesprawiedliwie oceniony i zapytał, jak ma udowodnić szczerość swoich słów. Służka **Mystry** odpowiedziała, że powinien przestać mówić i zamiast tego wykazać się czynami. Ta propozycja odebrała bardowi znaczną część pewności siebie. Zdołał jedynie wyjąkać, że mogliby przynajmniej spróbować, po czym oboje pozostali nieco z tyłu za resztą drużyny. Leech nie słyszał już dalszego ciągu rozmowy, lecz sądząc po nagłej ciszy **Garricka**, tym razem to nie brak rymu sprawił artyście największą trudność.
 
-Wracamy do Nashkel przygotować się na odiwedziny kopalni.
+Po wygodnym noclegu wracamy do Nashkel przygotować się na odwiedziny kopalni.
 
 :material-account-group: **Odłączeni NPC:** *Rasaad* (powinien być w Nashkel)
 
 :material-account-group: **Przyłączeni NPC:** *Garrick*
 
-<div class="divider">Nashkel&nbsp;<span class="mb">20</span></div>
+<div class="divider">Nashkel&nbsp;<span class="mb">27</span></div>
 
 [![Nashkel](../maps/BG4800.webp){ .center-img width="40%" }](../maps/BG4800.webp)
 
+Przy Nashkel Inn (4) Leech został niespodziewanie oskarżony o napaść na młodego **Arnima**, syna bogatych państwa **von Undenzieh**, oraz zabicie jego rzekomo niegroźnego zwierzątka. Rozwścieczeni rodzice przyprowadzili amnijskiego żołnierza i zażądali natychmiastowego aresztowania winowajcy. Według ich wersji młody gnom groził chłopcu bronią, a następnie zabił jego niewielkiego węża ogrodowego. **Sandrah** stanowczo zaprzeczyła oskarżeniom. Wyjaśniła, że drużyna uratowała **Arnima** przed młodą wiwerną, która wykluła się z zakupionego przez rodzinę jaja i rzuciła się na chłopca. Rodzice nie chcieli słuchać wyjaśnień, utrzymując, że ich synowi nigdy nie groziło żadne niebezpieczeństwo, a zabite stworzenie było jedynie kosztownym, egzotycznym pupilem. Kapłanka zwróciła się więc bezpośrednio do chłopca i zażądała prawdy. Następnie pokazała świeżo odciętą głowę młodej wiwerny, rozwiewając wszelkie wątpliwości żołnierza. Przyciśnięty dowodami **Arnim** przyznał, że stworzenie rzeczywiście wykluło się z jaja i próbowało go pożreć. Skłamał ze strachu przed karą ojca za utratę drogiego zwierzęcia. Amnijski strażnik uznał skargę za bezpodstawną i odrzucił żądanie aresztowania. Państwo **von Undenzieh** nie zdobyli się jednak na szczere podziękowanie. Ojciec chłopca bardziej przejmował się utratą egzotycznego stworzenia wartego tysiąc sztuk złota niż ocaleniem syna, a na odchodne obraził swoich wybawców Żołnierz przeprosił Leecha za fałszywe oskarżenia. Młody dowódca zachował spokój, choć zapewne po raz pierwszy spotkał rodzinę, dla której uratowanie dziecka stanowiło mniejszy problem niż utrata kosztownego jaja (Nashkel Monster 71).
+
+Zaglądamy do tutejszego sklepu (25), który prowadzi Henning. Wspomniał on o białym wilku widzianym podobno w Chmurnych Szczytach. Zwierzę miało być łatwym celem dla doświadczonego łowcy, a kupiec obiecał dobrze zapłacić za jego futro. Zaraz potem handlarz zwrócił uwagę na **Imoen**, choć początkowo zabrakło mu odwagi, by zapytać o nią wprost. **Sandrah** szybko zrozumiała jego intencje i z rozbawieniem przywołała przyjaciółkę. Przedstawiła ją jako **Imoen z Candlekeep**, dając wyraźnie speszonemu kupcowi okazję do osobistego powitania. Młoda adeptka magii znacznie bardziej zainteresowała się jednak zawartością sklepu niż jego właścicielem. Natychmiast zapytała o różowe ubrania, a uradowany **Henning** zaprezentował jej odpowiedni towar i zaproponował uczciwą cenę. Drużyna sprzedała mu również zdobyte wcześniej futro zimowego wilka, otrzymując pięćset sztuk złota. Kupiec z miejsca rozpoznał w Leechu łowcę, który przyniósł cenny okaz, i ponownie zaprosił kompanię do obejrzenia swojego asortymentu.
+
+Mając Imoen ze sobą możemy odwiedzić jarmark.
+
+<div class="divider">Jarmark w Nashkel&nbsp;<span class="mb">28</span></div>
+
+[![Jarmark w Nashkel](../maps/BG4900.webp){ .center-img width="40%" }](../maps/BG4900.webp)
+
+Imoen i **Sandrah** zauważyły, że **Henning** z *Nashkel* jest nie tylko przystojny, lecz także wyjątkowo dobrze wychowany. **Imoen** natychmiast ostrzegła przyjaciółkę, że kupiec jest całkowicie poza jej zasięgiem. Tym razem zamierzała osobiście dopilnować, by żadna kapłanka, bez względu na urodę i wdzięk, nie sprzątnęła jej interesującego mężczyzny sprzed nosa. Służka **Mystry** zapewniła, że nie odważyłaby się rywalizować z „Imoen Wspaniałą”. Dodała przy tym, że dziewczyna nie ma powodów do obaw, ponieważ **Henning** wyraźnie zwrócił uwagę właśnie na nią. Od chwili wejścia do sklepu nie spuszczał z niej wzroku, a później poprosił **Sandrah**, aby ich sobie przedstawiła. Zwykle pewna siebie **Imoen** natychmiast się speszyła. Zaczęła mieć nadzieję, że Leech wkrótce uzna za konieczne ponowne uzupełnienie zapasów. Najwyraźniej sklep **Henninga** stał się dla niej nagle znacznie ciekawszy niż wszystkie różowe stroje wystawione na sprzedaż.
+
+Podszedł do nas bibliotekarz Archibald (1) z propozycją ostatnich dzieł jakie wyprzedaje przed emeryturą. Garrick napalił się na jedną z nich – Ostateczne Kompendium i staliśmy się jego posiadaczem. Szybko udało się nam zauważyć ze książka wspomina o duchu barda Myr’Cutio, który gdzieś w Ulcaster może ukrywać skarby (Travelling Librarians 75). (Wśród ostatnich posiadanych tomów znajdowało się „Ostateczne kompendium sławnych, choć mało znanych bohaterów” autorstwa **Saemona Schamy**. Tytuł natychmiast rozpoznał **Garrick**, który marzył o tej książce, odkąd był niewiele wyższy od gnoma. Zapewnił, że dzieło należy do klasyki i z pewnością okaże się przydatne każdemu bardowi. Ujęty jego entuzjazmem oraz dobrymi manierami drużyny **Archibald** podarował księgę bez zapłaty. Pożegnał podróżników, dodając, że nawet najgorsze przeciwności losu mogą kiedyś przynieść człowiekowi coś pożytecznego. Uradowany **Garrick** obiecał, że nie zapomni hojności starego bibliotekarza.) Szybko udało się nam zauważyć ze książka wspomina o duchu barda Myr’Cutio, który gdzieś w Ulcaster może ukrywać skarby (Traveling Librarian 75).
+
+Artyści nieopodal (2) przekazali nam trochę informacji o poszukiwanym rzeźbiarzu. Podobno zmienił się od czasu powrotu z Evereski i wszyscy są zdziwieni jego nieobecnościa na ulubionym przez niego jarmarku (Prism the Sculptor 65).
+
+The Great Gazib (3) dureń wyczarowujący ogra - The Amazing Oopah - wkurzył go poprzez ciągłe tortury. Ten w końcu zaatakował. Musieliśmy zabić ogra a pseudo czarodziej zwiał w podskokach. Sandrah jest pewna, że zamieniona w kamień kobieta jest gdzieś tutaj.
+
+Tuż obok (4) natknęliśmy się na hodowcę królików. Kupiliśmy jednego może dobrotliwy Ugh ucieszy się z nowego zwierzaczka (A New Best Friend for Ugh 59).
+
+W jednej z jurt (5) szybkopalca Vitiare oskubała ze 100 sztuk złota i nie zwiała. Szybko zareagowaliśmy i już nikogo nie okradnie. Tam także madame Potpourri, za namową pieniądza podzieliła się antidotum na problem pana Cream’a. Miałem ochotę zdobyć ten flakonik z użyciem miecza, bo „pinda” z niej jakich mało. Sądziła, że Boohady szydził z niej, gdy tak naprawdę odwoływał się do swojego nazwiska (The Melting Man 62).
+
+Kolejny idiota „Lord” Binky the Buffon (6) próbował mnie przedrzeźniać, ale w końcu dał za wygraną.
+
+W kolejnej szulerni (7) jeden z krupierów, zaproponował zakup rzadkiego przedmiotu, okazała się nim skórzana uprząż podobno należąca do jakiegoś bohatera z Icewind Dale.
+
+W jednym z mniejszych namiotów (8) natknęli się na **Zordrala**, który więził czarodziejkę **Benthę** i groził jej śmiercią. Oskarżał kobietę o zamiar otrucia dzieci, wybicia zwierząt gospodarskich oraz podporządkowania sobie młodych mieszkańców miasta. **Sandrah** wytknęła mu obłudę: sam był magiem i zamierzał zabić pojmaną za pomocą zaklęcia, a mimo to potępiał ją wyłącznie za posługiwanie się magią. Wyśmiany **Zordral** stracił panowanie nad sobą i zaatakował, przypłacając własny fanatyzm życiem. Uwolniona **Bentha** przyznała, że rzeczywiście zajmuje się magią, lecz zaprzeczyła wszystkim oskarżeniom. **Zordral** był jej dawnym wrogiem, który od lat przysparzał cierpienia zarówno jej, jak i całej rodzinie. Gdyby drużyna nie pojawiła się w odpowiedniej chwili, czarodziejka zostałaby zamordowana. Wdzięczna za ratunek **Bentha** wspomniała, że nie zna dobrze okolic *Nashkel*, ale wskazała osobę mogącą posiadać przydatne informacje. W miejscowej gospodzie zatrzymał się **Volothamp Geddarm**, człowiek słynący z wiedzy tak rozległej, że zdaniem czarodziejki wie więcej, niż powinien wiedzieć zwykły śmiertelnik.
+
+W kolejnej pałatce (9) sklepikarz oferuje bardzo ciekawe amulety i zwoje ochronne. Dalej Lestor (10) przyznał, że jarmark opustoszał, ponieważ większość mieszkańców pracuje w kopalni albo już padła ofiarą czyhających tam stworzeń. Mimo zagrożenia górnicy nadal schodzą pod ziemię, gdyż bez pracy ich rodziny czeka głód. Sam, z powodu niesprawnej nogi, nie nadawał się do garnizonu i mógł jedynie pchać wózki z rudą.
+
+W kolejnym jarmarcznym pawilonie (11) sprzedawca chciał wyłudzić pieniądze za nic nie warte eliksiry. Postanowilem skrócić go o głowę i zabrać bardziej wartościowe ze skrzyń. Reputacja: -4. Kolejni sprzedawcy (12), (13) zaopatrzeni w trochę broni i eliksirów.
+
+Spotkaliśmy Tinę (14), która pragnęła wycyganić od nas trochę pieniędzy. W końcu dostała 20 sztuk złota za nic nie warty amulet, bo dziewka ładna była. Jak się okazało był to jej zakład o to czy namówi kogoś na podarowanie jej pieniędzy. Ach, żebym miał więcej czasu tutaj to Tina miałaby dużo więcej gier do wyboru.
+
+Krasnolud Zeke (15) chciał sprzedać za 500 sztuk złota czar zamiany kamienia w ciało. Sandrah rozpoznała w kamiennej figurze (16) poszukiwaną przez nią kobietę i w ostrych słowach zdobyła za darmo od ulicznego liczykrupy konieczny nam zwój (Przy jednym z jarmarcznych pawilonów **Zeke** zachęcał przechodniów do oglądania skamieniałej kobiety. Za pięćset sztuk złota oferował zwój, którym nabywca mógł uwolnić nieznajomą z kamiennego więzienia i przekonać się, czy jest księżniczką, potężną czarodziejką czy zwyczajną ofiarą klątwy. **Sandrah** nie zamierzała płacić za cudze nieszczęście. Zdzieliła handlarza młotem, odebrała mu zwój i przepędziła go z jarmarku, ostrzegając, by więcej nie żerował na krzywdzie innych. **Zeke** próbował jeszcze tłumaczyć, że chciał jedynie sprawdzić działanie zaklęcia, lecz szybko uznał, że najrozsądniej będzie uciec.).
+
+Sandrah użyła zwoju i w ten sposób przyłaczyła się do nas Branwen. Przedstawiła się jako kapłanka-wojowniczka **Tempusa** z Wysp Norheim. W podzięce za ratunek dołączyła do drużyny, przysięgając pomóc w jej sprawie. Ostrzegła również przed magiem **Tranzigiem**, który ją skamienił i działał na zlecenie nieznanej grupy najemników. Poprzysięgła odnaleźć go i zabić, zanim powróci w rodzinne strony (Find the Petrified Priestess 18). **Sandrah** wyjaśniła, że o losie wojowniczki dowiedziała się dzięki *Odłamkowi Mystry*, magicznemu urządzeniu jej ojca ukazującemu odległe wydarzenia. **Branwen** dostrzegła ironię w tym, że magia odpowiedzialna za jej uwięzienie pośrednio doprowadziła także do ratunku. Służka **Mystry** przypomniała jednak, że bogini obdarza mocą wielu ludzi, a zadaniem jej kapłanów jest naprawianie szkód wyrządzonych przez tych, którzy nadużywają tego daru. Przekonana tym wyjaśnieniem **Branwen** wezwała drużynę do wspólnej walki w imię **Tempusa** i **Mystry**, rozpoczynając polowanie na **Tranziga** oraz jego sprzymierzeńców.
+
+<div class="character-intro" markdown>
+<div class="character-portrait" markdown>
+![Branwen](../images/branwen_p.webp)
+</div>
+<div class="character-summary" markdown>
+# Branwen
+<span class="character-subtitle">
+Człowiek · Wojowniczka/Kapłanka Tempusa · Neutralna
+</span>
+> Pochodzi z osady *Seawolf* na Wyspach Norheim. Opuściła rodzinne strony w młodym wieku, ponieważ pragnęła zostać kapłanką, choć w jej społeczności funkcję tę mogli pełnić wyłącznie mężczyźni. Nie żywi jednak urazy do swoich pobratymców, uznając te przeciwności za próbę wiary. Podróżując wzdłuż wybrzeża, służyła w lokalnych milicjach, aż dołączyła do grupy poszukiwaczy przygód działającej w okolicach *Nashkel*. Nie wiedziała, że jej towarzysze zajmują się rozbojem. Podczas pierwszego napadu odmówiła zaatakowania karawany bezbronnych kupców i wystąpiła przeciw bandytom. W trakcie walki mag **Tranzig** przemienił ją w kamień. Pomimo poniesionej klęski **Branwen** wierzy, że **Tempus** aprobuje jej decyzję. W jej oczach atakowanie bezbronnych należy do najbardziej nikczemnych czynów.
+</div>
+</div>
+
+:material-account-group: **Odłączeni NPC:** *Garrick* (Pomocna Dłoń)
+
+:material-account-group: **Przyłączeni NPC:** *Branwen*
+
+Na jarmarku mnóstwo nudzących się i przygód pragnących nieznajomych. Keiria Silverstring młoda bardka (15) próbowała się przyłączyć, ale stanowczo nie potrzebujemy początkujących bardów.
+
+**Imoen** przypomniała **Sandrah**, że kończą się zapasy soli, strzał i kilku innych potrzebnych drobiazgów. Kapłanka przekazała Leechowi, że pobyt w *Nashkel* warto wykorzystać na uzupełnienie ekwipunku. Zanim zdążyła zaproponować wysłanie **Imoen** do sklepu z listą zakupów, dziewczyna już pędziła w stronę kramów. **Sandrah** roześmiała się tylko, mając nadzieję, że w całym pośpiechu siostrzyczka Leecha nie zapomniała zabrać samej listy.
+
+Podczas rozmowy **Jen’lig** i **Branwen** z początku traktowały się z wyraźną nieufnością. Kapłanka **Tempusa** znała githyanki jedynie z opowieści przedstawiających ich jako bezlitosnych zabójców, natomiast astralna wojowniczka uważała mieszkańców Planu Materialnego za słabych i często pozbawionych honoru. Obie szybko dostrzegły jednak podobieństwo własnych uprzedzeń. **Branwen** postanowiła dać githyanki szansę, jeśli ta rzeczywiście zna wartość honoru i potrafi o niego walczyć. **Jen’lig** zauważyła natomiast, że zło często przypisuje się temu, co obce lub nieznane, dlatego prawdy zawsze należy szukać głębiej niż w zasłyszanych opowieściach.
+
+Zmartwiony Tayn (17) szuka swojego brata Husky’iego, który poszedł do lasu spuścić pary z panienką, ale ta wróciła bez niego, mówiąc, że miała większe oczekiwania i zostawiła go przy jakiejś jaskini. Zgodziliśmy się rozejrzeć (Carnival and the Missing Brother 76).
+
+W skrzyni (18) znajdujemy pierwszą z poszukiwanych przez Finch ksiąg: Współczesna metalurgia (Finch's Quest to Start a Library in Nashkel 25).
+
+Kolejny gnom (19) z magicznymi predyspozycjami – Skeezer Lumpkin VI - pragnący przygód, no, nie z nami tym razem.
+
+W palarni opium na wschodzie (20) tylko Pruflas był zdolny do artykulacji, ale niczego sensownego.
+
+W lesie na północy znajdujemy jaskinię (21) a w niej skrzynia okazała się Mimikiem. Po jego pokonaniu znaleźliśmy odgryzioną, owłosioną dłoń i zacny amulet chyba należały do Husky brata Tyana. Po chwili potweirdzamy przypuszczenie (17) (Carnival and the Missing Brother 76).
+
+![mimik](../images/jar_mimik.webp){ .center-img width="60%" }
+
+Rolnik opowiedział nam o wypadku na morzu, w którym kilkunastu ludzi straciło życie, gdy ich łódź została zalana. Czy to robota Wodnej Królowej Umberlee, zastanawiam się? Inny narzekał na bandytów kradnących bydło. Podobno w ruinach mostu Firewine znajdują się wielkie skarby.
+
+Podczas ostrożnego marszu **Sandrah** przysunęła się do Leecha i położyła dłoń na jego ramieniu. Zapewniła, że dopóki są razem, to raczej czekające przed nimi zagrożenia powinny się obawiać. Młody gnom zażartował, że odnosi wrażenie, iż to ona próbuje chronić jego. Kapłanka przyznała, że nie wątpi w jego umiejętności, lecz człowiek ścigany przez skrytobójców powinien przyjmować każdą dostępną ochronę. Leech odpowiedział, że jej opieka zawsze będzie mile widziana, nazywając ją czule swoją ukochaną.
+
+Czujemy się bardzo zmęczeni i postanawiamy zaoobozować w lesie przu jarmarku. 
+
+![Sen](../images/dream1.webp){ .center-img width="60%" }
+
+*Podczas niespokojnej nocy Leech po raz pierwszy od opuszczenia *Candlekeep* ujrzał we śnie **Goriona**. Wizja przeniosła go pod mury dawnego domu, gdzie cień przybranego ojca ponownie ruszył ku lasom, jak podczas ich ostatniej wspólnej podróży. Tym razem młody gnom nie podążył za nim, wiedząc, co czeka pośród drzew. Na jego oczach przeszłość raz po raz odtwarzała śmierć **Goriona**. Potężny wojownik wyłonił się z ciemności, a przybrany ojciec, mimo całej swojej magii, nie potrafił powstrzymać napastnika. Każde powtórzenie sprawiało jednak, że nieznany zabójca wydawał się coraz mniej niezwyciężony. W umyśle Leecha narodziło się przekonanie, że pewnego dnia zdobędzie dość siły, by dorównać mordercy i pomścić wszystkie jego ofiary. Gdy wizja dobiegła końca, odnalazł w mrocznym lesie nieznaną wcześniej ścieżkę. Podążył nią bez wahania, prowadzony obcym głosem obiecującym to, czego pragnął. Obraz śmierci **Goriona** powracał przez całą noc. Z każdym kolejnym przebudzeniem ból nie znikał, lecz stawał się dziwnie znajomy.*
+
+**Sandrah** zauważyła, że Leech źle spał. Młody gnom opowiedział jej o śnie, w którym po raz pierwszy od opuszczenia *Candlekeep* ujrzał **Goriona**. Wizja zawierała niezrozumiałe przesłanie, a po przebudzeniu odkrył w sobie nowe zdolności. Kapłanka ostrzegła, że wewnątrz niego ścierają się dwie siły i dwie możliwe drogi. Walkę tę mogła zapoczątkować śmierć **Goriona** albo obraz jego mordercy. Leech podziękował jej za troskę i pocałował ukochaną, wiedząc, że niezależnie od znaczenia snu nie będzie mierzył się z nim samotnie.
+
+Także **Imoen** zauważył ze Leech jest blady i wyraźnie poruszony. Młody gnom przyznał, że zamiast zwykłego snu nawiedził go koszmar, w którym ponownie znalazł się w *Candlekeep* i oglądał śmierć **Goriona**. Wizja pozostawiła po sobie coś więcej niż wspomnienie. Po przebudzeniu Leech odkrył, że potrafi wysysać z przeciwnika siły życiowe, zadając mu rany i jednocześnie lecząc własne ciało. **Imoen** uznała tę nagle nabytą moc za niepokojącą, lecz być może przydatną. Poradziła mu odpocząć, a sama zajęła się pakowaniem rzeczy przed dalszą drogą.
+
+Czas na kopalnie!!!
+
+Bestiariusz: agresywny młody mimik
+
+<div class="divider">Na szlaku</span></div>
+
+Na szlaku drużynę zatrzymali **Senjak** i **Dorotea**, wspierani przez ukrytych łuczników. Bandyci zażądali całego dobytku, grożąc śmiercią każdemu, kto spróbuje stawić opór. Negocjacje szybko straciły jednak sens, gdy kolejni strzelcy zaczęli padać, a z ukrycia wyłonił się **Dorn**. Półork rozpoznał w napastnikach dawnych towarzyszy, którzy zdradzili go i pozostawili, by poniósł winę za działania **Simmeona**. **Dorotea** próbowała zrzucić całą odpowiedzialność na przywódcę grupy, natomiast **Senjak** odpowiedział obelgami. Wkrótce oboje zaczęli oskarżać się nawzajem, dokładnie tak samo, jak wcześniej wspólnie zwrócili się przeciw **Dornowi**. Półork nie zamierzał słuchać dalszych wymówek. Oznajmił, że połowa bandy już nie żyje, a zdrajcy wkrótce do niej dołączą. **Senjak** i **Dorotea** wydali rozkaz ataku, rozpoczynając starcie, które miało rozliczyć dawne zdrady i przybliżyć **Dorna** do odnalezienia **Simmeona**. (Tuż przed kopalnią zostaliśmy zaatakowani przez bandę prowadzoną przez zbyt pewnych siebie Senjaka i Doroteę. Naszym niespodziewanym sprzymierzeńcem okazał się Dorn – przemknął wcześniej w Pomocnej Dłoni. Ten pół-ork szuka zemsty za zostawienie go w więzieniu przez kamratów. Zostało jeszcze dwóch i prosił o pomoc w dokończeniu dzieła i zaoferował swój miecz. Przystałem na to chociaż Imoen nie jest do tego przekonana.) 
+Po walce **Dorn** ujawnił, że od niemal roku ściga dawnych towarzyszy, którzy zdradzili go i pozostawili w więzieniu w *Luskanie*. Śmierć **Senjaka** i **Dorotei** oznaczała, że pozostało mu jeszcze dwoje zdrajców, w tym **Simmeon**. Półork nie chciał wyjaśnić źródła swoich nadnaturalnych mocy, lecz przyjął propozycję wspólnej podróży. Uznał, że drużyna może pomóc mu dokonać zemsty, a jego umiejętności okażą się przydatne Leechowi. Młody gnom zgodził się przyjąć go do kompanii, uznając, że zdrada nie powinna pozostać bez kary.
+Póki co każemy mu czekać na nas w Pomocnej Dłoni.
+
+![Dorn](../images/dorn_appears.webp){ .center-img width="60%" }
+
+<div class="character-intro" markdown>
+<div class="character-portrait" markdown>
+![Dorn](../images/dorn_p.webp)
+</div>
+<div class="character-summary" markdown>
+# Dorn
+<span class="character-subtitle">
+Półork · Czarny strażnik · Neutralny Zły
+</span>
+> **Dorn** niechętnie opowiada o swojej przeszłości i mimo pomocy w walce z dawnymi towarzyszami pozostaje oszczędny w osobistych szczegółach. Z nielicznych informacji wynika, że ten bezwzględny półork pochodzi z północy i już wcześniej padł ofiarą zdrady. Nie wybacza podobnych przewinień i bezlitośnie ściga każdego, kto złamie dane mu słowo. Całkowite skupienie na zemście pozostawiło mu niewiele zainteresowań poza walką.
+</div>
+</div>
+
+:material-account-group: **Przyłączeni NPC:** *Dorn*
+
+:material-account-group: **Odłączeni NPC:** *Dorn* (Pomocna Dłoń)
+
+<div class="divider">Kopalnia Nashkel&nbsp;<span class="mb">29</span></div>
+
+[![Kopalnia Nashkel](../maps/BG5400.webp){ .center-img width="40%" }](../maps/BG5400.webp)
+
+**Sandrah** zapytała **Branwen** o niedawną przeszłość i jej związki z magiem **Tranzigiem**. Wojowniczka, choć wstydziła się własnych błędów, wyjawiła, że czarodziej należał do organizacji odpowiedzialnej zarówno za napady bandytów, jak i problemy w kopalni. Podziemną operacją dowodził półork wspierany przez liczną armię koboldów, które uważały go niemal za boga. Była to cała wiedza, jaką posiadała, lecz pozwalała drużynie lepiej przygotować się do zejścia pod ziemię. **Branwen** podziękowała kapłance za przypomnienie, że może wspierać kompanię nie tylko orężem, lecz także zdobytymi informacjami.
+
+**Sandrah** przyłapała **Imoen** na próbie odczytywania tropów. Dziewczyna uznała ślady za należące do niewielkiego wilka, lecz kapłanka szybko ją poprawiła: był to zwykły pies. **Imoen** oburzyła się, przypominając, że to właśnie **Sandrah** chciała odnaleźć zimowego wilka i zdobyć jego futro dla **Henninga**. Gdy służka **Mystry** zapytała, jakiej nagrody przyjaciółka oczekuje od kupca, **Imoen** roześmiała się i zasugerowała, że zamierza poprosić o coś znacznie ciekawszego niż pieniądze (Imoen in Love 77). A co najważniejsze natknęliśmy się na zimowego wilka i śnieżno białe futro mamy w bagażu.
+
+Na północy przy magazynie koło kopalni (1) kolejny łowca głów – Zargos Flintblade – nie zwiększył swojej płynności finansowej, ale jego czterech pomocników (najemne krasnoludy) były niezłym wyzwaniem. Przyszło nam się także zmierzyć z czterema najemnymi krasnalami – nie było łatwo ale z tarczą. Zargos miał przy sobie kontrakt popisany ponownie przez M.S.. Juz 400 sztuk złota.
+
+W ponurym miejscu naznaczonym śmiercią (2) Leech odnalazł niezwykły **Bursztynowy Kwiat**. Roślina wyrosła tam, gdzie człowiek odebrał sobie życie, i przemówiła jako uosobienie nadziei, której zadaniem było łagodzić strach, pocieszać pogrążonych w żałobie oraz wskazywać drogę zagubionym. Kwiat wyczuł w młodym gnomie krew i śmierć, lecz dostrzegł też jego wolę dalszej walki. Pozwolił się zerwać, prosząc, aby Leech zaniósł go osobie potrzebującej pomocy. Ostrzegł przy tym, że zanim będzie mógł ocalić innych, sam będzie musiał nauczyć się przyjmować wsparcie (**Amber Flower 19**) (Przy czarnym, uschłym drzewie (3) natknęliśmy się na Bursztynowy Kwiat, który zdradził nam, że w tym miejscu ktoś popełnił samobójstwo a on kwitnie by uśmierzyć płacz i pocieszyć. Wiedział, że przybędziemy po niego i zabierzemy go do Otter’a ).
+
+![Amber Flower](../images/amber_flower.webp){ .center-img width="60%" }
+
+Dandald (3) poinformował nas o stworach z głowami psów w kopalni oraz rzeźbiarzu Prismie pracującym nad czymś na północy. **Dandal** ostrzegł drużynę przed gnollami grasującymi w okolicy i poradził wrócić do bezpiecznego *Nashkel*. Gdy **Jen’lig** wyjaśniła, że są poszukiwaczami przygód, wskazał kopalnię na północnym zachodzie. Uprzedził, że zarządca **Emerson** może odrzucić ich pomoc, choć górnicy potrzebują każdego zdolnego wojownika. Wspomniał również o ekscentrycznym rzeźbiarzu **Prismie**, który pracował nad ogromnym posągiem wykutym w zboczu pobliskiego urwiska.
+
+Przerażony **Galtok** (4) poprosił drużynę o pomoc. Wyjaśnił, że został pojmany przez tuzin koboldów, które torturowały go wyłącznie dla rozrywki. Zdołał uciec, lecz napastnicy ruszyli jego tropem. **Finch** zapewniła, że rozprawią się z prześladowcami i nikomu nie stanie się krzywda. Ledwie wypowiedziała te słowa, koboldy pojawiły się w pobliżu, zmuszając kompanię do natychmiastowej walki.
 
 
 
-
-
+Bestiariusz: krasnolud najemnik (mlot i proca), pies bojowy, ghoul, wilk, kobold, bełkotek, xvart, zimowy wilk, 
 
