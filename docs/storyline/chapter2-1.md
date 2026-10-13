@@ -2,7 +2,7 @@
 
 *Po niedawnej, pospiesznej ucieczce z Candlekeep problemy nękające Wybrzeże Mieczy wciąż zlewały się w trudny do uporządkowania chaos. **Gorion** z pewnością nie chciałby jednak, aby jego wychowanek pozostawał bezczynny. Zbadanie miejscowych kłopotów mogło rzucić nieco światła zarówno na kryzys żelaza i wydarzenia w kopalniach Nashkel, jak i na niepewne położenie samego Leecha. Młody przywódca nie wiedział jeszcze, czy problemy regionu mają jakikolwiek związek z zasadzką, śmiercią przybranego ojca i kolejnymi kontraktami wystawianymi na jego głowę. Wkrótce miał się jednak przekonać, że na Wybrzeżu Mieczy przypadkowe zdarzenia wyjątkowo często okazują się fragmentami tej samej, znacznie większej układanki.*
 
-<div class="divider">Nashkel&nbsp;<span class="mb">20</span></div>
+<div class="divider">Nashkel&nbsp;<span class="cb">20</span></div>
 
 [![Nashkel](../maps/BG4800.webp){ .center-img width="40%" }](../maps/BG4800.webp)
 
@@ -98,7 +98,7 @@ Postanawiamy udać się do Beregostu i Pomocnej Dłoni po Imoen i Garricka i za�
 
 Bestiariusz: młoda wiwerna
 
-<div class="divider">Przełęcz Nashkel&nbsp;<span class="mb">21</span></div>
+<div class="divider">Przełęcz Nashkel&nbsp;<span class="cb">21</span></div>
 
 [![Przełęcz Nashkel](../maps/BG4300.webp){ .center-img width="40%" }](../maps/BG4300.webp)
 
@@ -108,7 +108,7 @@ Podążamy do Świątyni Lathandera zdać sprawy I
 
 Bestiariusz: bełkotek
 
-<div class="divider">Świątynia Lathandera&nbsp;<span class="mb">22</span></div>
+<div class="divider">Świątynia Lathandera&nbsp;<span class="cb">22</span></div>
 
 [![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }](../maps/BG3400.webp)
 
@@ -116,7 +116,7 @@ Po zakończeniu sprawy z zaginionym pochówkiem drużyna zdała **Eloran** (2) r
 
 Nowe zlecenie okazało się znacznie mniej wzniosłe. Tym razem nie chodziło o nieumarłych, nekromantów ani wyznawców mrocznych bóstw, lecz o plagę szczurów w domu jednej z mieszkanek *Beregostu*, niedaleko *Płonącego Czarodzieja*. Leech z niedowierzaniem zapytał, czy naprawdę ma polować na kilka gryzoni. **Eloran** przypomniała mu jednak, że nie każde zadanie musi być efektowne, a świątynia odpowiada również za zwyczajne problemy mieszkańców. Skoro **Płonąca Pięść** odmówiła pomocy, ktoś musiał zająć się szkodnikami. Kapłanka zasugerowała przy tym, że tępienie szczurów jest niemal rytuałem przejścia każdego szanującego się poszukiwacza przygód. Młody gnom zgodził się bez dalszych protestów. Najwyraźniej po duchach, malarytach i skradzionych zwłokach przyszła pora ponownie udowodnić, że żadna piwnica pełna gryzoni nie może czuć się przy nim bezpiecznie (**The Rat King** 73).
 
-<div class="divider">Świątynia Lathandera&nbsp;<span class="mb">23</span></div>
+<div class="divider">Świątynia Lathandera&nbsp;<span class="cb">23</span></div>
 
 [![Beregost](../maps/BG3300.webp){ .center-img width="40%" }](../maps/BG3300.webp)
 
@@ -130,7 +130,7 @@ Zaglądamy do domu wskazanego przez Elonara (42). Właścicielka wskazała nam s
 
 Zaglądamy do Oka Gorgony (29) i zamykamy sprawę kontraktu na Cartha. Liedel jest zadowolony i nie ma na razie więcej zleceń (Liedel's Bounty: Carth 40).
 
-<div class="divider">Świątynia Lathandera&nbsp;<span class="mb">24</span></div>
+<div class="divider">Świątynia Lathandera&nbsp;<span class="cb">24</span></div>
 
 [![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }](../maps/BG3400.webp)
 
@@ -140,7 +140,7 @@ Kolejne zlecenie nie dotyczyło już nieumarłych, kultystów ani gryzoni. Z *Po
 
 Podążamy więc do agenta.
 
-<div class="divider">Nadbrzeżny Trakt&nbsp;<span class="mb">25</span></div>
+<div class="divider">Nadbrzeżny Trakt&nbsp;<span class="cb">25</span></div>
 
 [![Nadbrzeżny Trakt](../maps/BG2800.webp){ .center-img width="40%" }](../maps/BG2800.webp)
 
@@ -150,7 +150,7 @@ Będą tak blisko Pomocnej Dłoni udajemy się tam odpocząć.
 
 Bestiariusz: chory bełkotek
 
-<div class="divider">Pomocna Dłoń&nbsp;<span class="mb">26</span></div>
+<div class="divider">Pomocna Dłoń&nbsp;<span class="cb">26</span></div>
 
 [![Pomocna Dłoń](../maps/BG2300.webp){ .center-img width="40%" }](../maps/BG2300.webp)
 
@@ -168,7 +168,7 @@ Po wygodnym noclegu wracamy do Nashkel przygotować się na odwiedziny kopalni.
 
 :material-account-group: **Przyłączeni NPC:** *Garrick*
 
-<div class="divider">Nashkel&nbsp;<span class="mb">27</span></div>
+<div class="divider">Nashkel&nbsp;<span class="cb">27</span></div>
 
 [![Nashkel](../maps/BG4800.webp){ .center-img width="40%" }](../maps/BG4800.webp)
 
@@ -178,7 +178,7 @@ Zaglądamy do tutejszego sklepu (25), który prowadzi Henning. Wspomniał on o b
 
 Mając Imoen ze sobą możemy odwiedzić jarmark.
 
-<div class="divider">Jarmark w Nashkel&nbsp;<span class="mb">28</span></div>
+<div class="divider">Jarmark w Nashkel&nbsp;<span class="cb">28</span></div>
 
 [![Jarmark w Nashkel](../maps/BG4900.webp){ .center-img width="40%" }](../maps/BG4900.webp)
 
@@ -288,7 +288,7 @@ Półork · Czarny strażnik · Neutralny Zły
 
 :material-account-group: **Odłączeni NPC:** *Dorn* (Pomocna Dłoń)
 
-<div class="divider">Kopalnia Nashkel&nbsp;<span class="mb">29</span></div>
+<div class="divider">Kopalnia Nashkel&nbsp;<span class="cb">29</span></div>
 
 [![Kopalnia Nashkel](../maps/BG5400.webp){ .center-img width="40%" }](../maps/BG5400.webp)
 
@@ -306,7 +306,38 @@ Dandald (3) poinformował nas o stworach z głowami psów w kopalni oraz rzeźbi
 
 Przerażony **Galtok** (4) poprosił drużynę o pomoc. Wyjaśnił, że został pojmany przez tuzin koboldów, które torturowały go wyłącznie dla rozrywki. Zdołał uciec, lecz napastnicy ruszyli jego tropem. **Finch** zapewniła, że rozprawią się z prześladowcami i nikomu nie stanie się krzywda. Ledwie wypowiedziała te słowa, koboldy pojawiły się w pobliżu, zmuszając kompanię do natychmiastowej walki.
 
+Przy skalnym urwisku (5) drużyna odnalazła Prisma, który kończył monumentalny portret elfiej piękności imieniem Ellesime. Rzeźbiarz przyznał, że skradł dwa szmaragdy, aby wykorzystać je jako oczy swego arcydzieła. Wyczerpany wielodniową pracą i wspomagany miksturami szybkości poprosił o ochronę przed łowcą nagród Greywolfem. Najemnik przybył chwilę później, zainteresowany wyłącznie klejnotami i zapłatą. Gdy Leech odmówił wydania artysty, Greywolf zaatakował na swoje nieszczęści. Walka nie była łatwa gdyż wspomagali go znający fach łucznicy. Prism zdążył ukończyć rzeźbę, po czym opadł z sił i zmarł czując się spełniony. Pozwolił zabrać cały swój dobytek, prosząc jedynie, by szmaragdy pozostały w oczach ukochanej Ellesime czego jednak nie mogliśmy zrobić - ieobecni nie maja głosy (Prism the Sculptor 65). Reputacja: +1 ( Zaślepiony pracą na swoim kolejnym dziełem poprosił nas o pomoc, aby mógł ja ukończyć. Wykradzione przez niego szmaragdy, które mają uwiecznić jego wiekopomne są poszukiwane nie tylko przeze mnie, ale także przez Szarego Wilka (lokalny łowca nagród), chyba wspominał o nim Oublek z Nashkel. Zgodziliśmy się chronić Prism’a do czasu ukończenia jego pracy. Niestety nasz oponent po fachu, nie chciał poczekać odrobiny czasu i teraz już więcej kontraktów nie przyjmie jak i trzech jego pomocników. Prism ostatkiem sił zakończył swoje wiekopomne przedsięwzięcie i zszedł z uśmiechem i imieniem Ellesime na ustach. Nie zostało nam nic innego, jak zabrać poszukiwane szmaragdy z wiarą, że kiedyś wrócą tu – gdzie ich miejsce.)
 
 
-Bestiariusz: krasnolud najemnik (mlot i proca), pies bojowy, ghoul, wilk, kobold, bełkotek, xvart, zimowy wilk, 
+Imoen patrzy na mnie z wyrzutem abyśmy jednak wrócili z futrem do Nashkel.
 
+
+Bestiariusz: krasnolud najemnik (mlot i proca), pies bojowy, ghoul, wilk, kobold, bełkotek, xvart, zimowy wilk, bandyta łucznik
+
+<div class="divider">Nashkel&nbsp;<span class="cb">30</span></div>
+
+[![Nashkel](../maps/BG4800.webp){ .center-img width="40%" }](../maps/BG4800.webp)
+
+Imoen przypomniała Sandrah, że kończą się zapasy soli, strzał i innych potrzebnych drobiazgów. Kapłanka zaproponowała więc wykorzystać pobyt w Nashkel na uzupełnienie ekwipunku. Zanim zdążyła wysłać przyjaciółkę do sklepu (25), dziewczyna już pobiegła na zakupy. Pozostawało tylko mieć nadzieję, że zabrała ze sobą listę. Zachowuje się jak kotka w rui. Podążyliśmy za nią i Henning z chęcią kupił kolejne futro. Po dostarczeniu futra zimowego wilka Henning wypłacił drużynie pięćset sztuk złota i pochwalił odwagę Imoen. Przyznał, że często martwi się o niebezpieczeństwa czyhające na nią podczas wypraw, a każda otwierająca się furtka sklepu budzi w nim nadzieję na jej powrót. Wyraźnie zadowolona dziewczyna wygrzebała z plecaka nieco sfatygowane suszone różowe jagody i zaprosiła kupca, aby wspólnie zjedli je na słońcu. Wyglądało na to, że zainteresowanie Imoen przestało ograniczać się do różowych ubrań i korzystnych cen (Imoen in Love 77).
+
+Postanowiliśmy poprawić nasz wizerunek i wydaliśmy trochę pieniędzy w światyni Helma (19). Reputacja +5
+
+Przekazaliśmy Oublekowi (7) odnalezione szmaragdy i zamknęliśmy jedno z jego zleceń (Prism the Sculptor 65).
+
+Przy spichlerzu (26) daliśmy się namówić na pomoc pani Blackwood. Nie mogę się nadziwić mojej naiwności – chodziło opiekę nad dwójką uroczych ludzkich „demonów” – Sarah i Tom’em. To był koszmar!!! (Babysitting in Nashkel 79) Reputacja: +1.
+
+Już miałem wydać rozkaz powrotu do kopalń, gdy Imoen znowu spojrzała na mnei z wyrzutem i jeszcze raz zajrzeliśmy do Henninga (25). Zachwycona Imoen powitała kupca pocałunkiem. Mężczyzna przygotował dla niej wyjątkowy prezent: miękkie, różowe futro, które natychmiast podbiło jej serce. Dziewczyna nie zamierzała czekać ani chwili z przymiarką. Obsypała Henninga pocałunkami i z figlarną obietnicą pociągnęła go na piętro. Wyglądało na to, że różowe futro ostatecznie przypieczętowało rodzący się romans.
+
+Sandrah zachwyciła się różowym futrem Imoen. Strój był nie tylko miękki i elegancki, lecz także nasycony zaklęciami chroniącymi przed zimnem i upałem. Kapłanka uznała, że kosztowny prezent najlepiej świadczy o uczuciach Henninga. Imoen zaczęła jednak wątpić, czy związek ze sklepikarzem pasuje do „Imoen Wspaniałej”, marzącej dotąd raczej o rycerzu lub paladynie. Sandrah przypomniała jej, że Henning nie oczekuje porzucenia przygód ani stania za ladą. Przeciwnie, podziwia jej niezależność i bohaterstwo. Uspokojona dziewczyna szybko dostrzegła korzyści takiego układu. Zaczęła nawet planować reklamowanie sklepu hasłem: „Kupuj tam, gdzie kupują bohaterowie”, z uzbrojeniem osobiście certyfikowanym przez Imoen Wspaniałą i jej towarzyszy.
+
+<div class="divider">Kopalnia Nashkel&nbsp;<span class="cb">31</span></div>
+
+[![Kopalnia Nashkel](../maps/BG5400.webp){ .center-img width="40%" }](../maps/BG5400.webp)
+
+Płacząca kobieta (7) wspomina, że jej mąż kupił nietypowy miecz i chwilę później zaginął (The Echoed Cry 79). Ciekawe podobno kapitan Brage także zaopatrzył się w nową klingę tuż przed masakrą.
+
+Koło wejścia do kopalni natykamy się na górników dzielących się informacją, że na dolnych poziomach ruda jest skażona i do niczego się nie nadaje a ilość górników się zmniejsza dramatycznie. Niedaleko Emerson’a (6) poprosił nas o sprawdzenie co dzieje się w kopalni, nie on pierwszy (Invetigating the Nashkel Mines 80).
+
+<div class="divider">Kopalnia Nashkel - poziom I&nbsp;<span class="cb">31</span><span class="cb">I</span></div>
+
+[![Kopalnia Nashkel](../maps/BG5401.webp){ .center-img width="40%" }](../maps/BG5401.webp)

@@ -6,7 +6,7 @@ Pod opieką mędrca Goriona, wewnątrz uświęconych sal wiedzy nasz bohater sp�
 
 [![Candlekeep](../maps/BG2600.webp){ .center-img width="40%" }](../maps/BG2600.webp)
 
-<div class="divider">Candlekeep&nbsp;<span class="mb">1</span></div>
+<div class="divider">Candlekeep&nbsp;<span class="cb">1</span></div>
 
 Dzisiaj rano **Gorion** wydaje się bardziej wzburzony niż kiedykolwiek, a teraz w nietypowy dla siebie sposób przerwał rutynę **Leecha** w środku dnia przekazując mu pośpieszne instrukcje, aby wyposażył się do podróży i wręczył mu trochę złota bez żadnej wskazówki i powodu tej nagłej wyprawy. Nasz bohater jest właśnie przy Gospodzie w *Candlekeep* i tak zaczyna się ta opowieść <span class="mb">1</span>.
 

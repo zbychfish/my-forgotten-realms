@@ -1,6 +1,6 @@
 ![](../images/ostatnie_sprawy_przed_nashkel.webp){ .center-img width="80%%" }
 
-<div class="divider">Ustronne Jezioro&nbsp;<span class="mb">16</span></div>
+<div class="divider">Ustronne Jezioro&nbsp;<span class="cb">16</span></div>
 
 [![Ustronne Jezioro](../maps/BG4200.webp){ .center-img width="40%" }](../maps/BG4200.webp)
 
@@ -23,7 +23,7 @@ Drużyna miała do zamknięcia kilka spraw, dlatego bez dalszego ociągania rusz
 
 :material-paw: **Bestiariusz:** *Gnoll, Półogr, Pełzacz ścierwojad, Ogrillion, Pies bojowy, Ghast*
 
-<div class="divider">Beregost&nbsp;<span class="mb">17</span></div>
+<div class="divider">Beregost&nbsp;<span class="cb">17</span></div>
 
 [![Beregost](../maps/BG3300.webp){ .center-img width="40%" }](../maps/BG3300.webp)
 
@@ -53,7 +53,7 @@ Na pożegnanie **Miji** przekazała młodemu gnomowi pozostawioną przez ojca fi
 
 Po załatwieniu spraw w mieście drużyna skierowała się do *Świątyni Lathandera*.
 
-<div class="divider">Świątynia Lathandera&nbsp;<span class="mb">18</span></div>
+<div class="divider">Świątynia Lathandera&nbsp;<span class="cb">18</span></div>
 
 [![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }](../maps/BG3400.webp)
 
@@ -67,7 +67,7 @@ Kapłanka miała już kolejne zlecenie, tym razem wymagające dyskrecji. W *Nash
 
 Przed wyruszeniem na południe pozostało jeszcze zabrać z *Pomocnej Dłoni* **Jaheirę** i **Khalida**, którzy od początku nalegali na zbadanie problemów miejscowej kopalni.
 
-<div class="divider">Pomocna Dłoń&nbsp;<span class="mb">19</span></div>
+<div class="divider">Pomocna Dłoń&nbsp;<span class="cb">19</span></div>
 
 [![Pomocna Dłoń](../maps/BG2300.webp){ .center-img width="40%%" }](../maps/BG2300.webp)
 

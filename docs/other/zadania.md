@@ -78,10 +78,33 @@
 |Traveling Librarians|[Zobacz szczegóły](#q-75)|
 |Carnival and the Missing Brother|[Zobacz szczegóły](#q-76)|
 |Imoen in Love|[Zobacz szczegóły](#q-77)|
+|Babysitting in Nashkel|[Zobacz szczegóły](#q-78)|
+|The Echoed Cry|[Zobacz szczegóły](#q-79)|
+|Invetigating the Nashkel Mines|[Zobacz szczegóły](#q-80)|
+
+
+??? warning "Invetigating the Nashkel Mines"
+    - **Zleceniodawca:** Emerson przy wejściu do kopalni
+    - Mamy dowiedzieć sie co sie dzieje w kopalni.
+    <div id="q-80"></div>
+
+??? warning "The Echoed Cry"
+    - **Zleceniodawca:** Płacząca kobieta przy wejściu do kopalni Nashkel
+    - Jej mąż kupił miecz aby rozprawić się ze złem w kopalni i nie wrócił.
+    <div id="q-79"></div>
+
+??? success "Babysitting in Nashkel"
+    - **Zleceniodawca:** Pani Blackwood przy Bekającym Smoku
+    - Poprosiła nas o przypilnowanie jej dzieci.
+    - Przeżyliśmy koszmar.
+    <div id="q-78"></div>
 
 ??? warning "Imoen in Love"
     - **Zleceniodawca:** Po spotkani Henninga w sklepie Nashkel
     - Imoen chce bliżej poznać Henninga. Szuka pretekstu do powrotu do Nashkel.
+    - I znalazła gdy ubiliśmy zimowego wilka.
+    - Z futra Henning zrobił dla niej wspaniałej futro, chroniące ją przez czarami i mieczem.
+    - Imoen jest zakochana.
     <div id="q-77"></div>
 
 ??? success "Carnival and the Missing Brother"
@@ -149,9 +172,12 @@
     - Hick wspomniał coś o jakimś mieczu.
     <div id="q-66"></div>
 
-??? warning "Prism the Sculptor"
+??? success "Prism the Sculptor"
     - **Zleceniodawca:** Oublek w Nashkel.
-    - Zniknął rzeżbiarz Prism a z nim dwa wielkie diamenty, które są poszukiwane bardziej niż artysta.
+    - Zniknął rzeżbiarz Prism a z nim dwa wielkie szmaragdy, które są poszukiwane bardziej niż artysta.
+    - Odnaleźliśmy go poniżej kopalni Nashkel. Kończył swoje największe dzieł, które na koniec doprowadziło do jego śmierci.
+    - Udało się nam się także odzyskać poszukiwane szmaragdy.
+    - Oddaliśmy szmaragdy Oublekowi.
     <div id="q-65"></div>
 
 ??? success "Oublek the Bounty Officer"

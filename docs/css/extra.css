@@ -68,6 +68,24 @@ div.dt-container .dt-paging .dt-paging-button.current {
     border-radius: 50%;
 }
 
+
+/* Prostokątny znacznik lokacji dla wartości 3-cyfrowych (np. 100+) */
+.cb {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2.2em;
+    height: 1.4em;
+    padding: 0 0.35em;
+    box-sizing: border-box;
+    font-size: 0.85em;
+    font-weight: bold;
+    color: var(--md-typeset-color);
+    background-color: var(--md-code-bg-color);
+    border: 1px solid var(--md-default-fg-color--light);
+    border-radius: 0.4em;
+}
+
 .divider {
     display: flex;
     align-items: center;

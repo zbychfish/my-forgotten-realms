@@ -228,13 +228,18 @@
 |Tayn|BG4900|:material-check-circle:|szuka brata co w lesie się z pięknością zabawia|
 |Skeezer Lumpkin VI|BG4900|:material-check-circle:|gnom i mag co z nami nie powędruje|
 |Pruflas|BG4902|:material-check-circle:|ćpun|
-|Senjak|Na szlaku|🪦 - jeden ze zdrajców poszukiwanych przez Dorna|
-|Dorotea|Na szlaku|🪦 - zdrajczyni poszukiwana przez Dorna|
+|Senjak|Na szlaku|:material-close-circle:|🪦 - jeden ze zdrajców poszukiwanych przez Dorna|
+|Dorotea|Na szlaku|:material-close-circle:|🪦 - zdrajczyni poszukiwana przez Dorna|
 |Dorn|BG2300|:material-check-circle: postać przyłączalna|półork co zabijać potrafi|
-|Zargos Flintblade|BG5400|🪦 - kolejny łowca głów bez głowy, ale miał silne wsparcie w najemnych krasnoludach!|
-|Dandal|BG4902|:material-check-circle:|co ostrzegł nas co spotkamy koło kopalni|
-|Galtok|BG4902|:material-check-circle:|z koboldofobią|
-
+|Zargos Flintblade|BG5400|:material-close-circle:|🪦 - kolejny łowca głów bez głowy, ale miał silne wsparcie w najemnych krasnoludach!|
+|Dandal|BG5400|:material-check-circle:|co ostrzegł nas co spotkamy koło kopalni|
+|Galtok|BG5400|:material-check-circle:|z koboldofobią|
+|Prism|BG5400|:material-check-circle:|🪦 - spełniony artysta ale już nie oddychający|
+|Greywolf|BG5400|:material-check-circle:|🪦 - cóż, za mało miejsca na kilka grup poszukiwaczy przygód i zleceń|
+|Emerson|BG5400|:material-check-circle:|właściciel koplani oczekujący pomocy|
+|Pani Blackwood|BG4800|:material-check-circle:|matka co dzieci nieznajaomym zostawia na przechowanie|
+|Sarah|BG4800|:material-check-circle:|nieznośny dzieciak|
+|Tom|BG4800|:material-check-circle:|nieznośny dzieciak|
 
 
 

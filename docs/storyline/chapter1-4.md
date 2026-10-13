@@ -1,6 +1,6 @@
 ![Oko Gorgony](../images/oko_gorgony_logo.webp){ .center-img width="40%" }
 
-<div class="divider">Beregost&nbsp;<span class="mb">5</span></div>
+<div class="divider">Beregost&nbsp;<span class="cb">5</span></div>
 
 [![Beregost](../maps/BG3300.webp){ .center-img width="40%" }](../maps/BG3300.webp)
 

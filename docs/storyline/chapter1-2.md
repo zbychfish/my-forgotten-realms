@@ -1,6 +1,6 @@
 ![Pod pomocną dłonią](../images/friendlyarm.webp){ .center-img width="100%" }
 
-<div class="divider">Pomocna Dłoń&nbsp;<span class="mb">4</span></div>
+<div class="divider">Pomocna Dłoń&nbsp;<span class="cb">4</span></div>
 
 [![Pomocna Dłoń](../maps/BG2300.webp){ .center-img width="40%" }](../maps/BG2300.webp)
 

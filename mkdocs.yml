@@ -35,7 +35,9 @@ extra_css:
 nav:
   - Home: index.md
   - Podróż:
-      - Co za dzień!: storyline/prologue.md
+    - Co za dzień! (prolog): storyline/prologue.md
+
+    - Rozdział 1:
       - To nie mogło się stać.: storyline/chapter1-1.md
       - Ile trzeba aby pomocną dłoń otrzymać?: storyline/chapter1-2.md
       - Od karczmy do karczmy.: storyline/chapter1-3.md
@@ -43,7 +45,10 @@ nav:
       - Od świątyni do kurnika.: storyline/chapter1-5.md
       - Miłość, zemsta i ciepłe skarpety.: storyline/chapter1-6.md
       - Ostatnie sprawy przed Nashkel.: storyline/chapter1-7.md
+
+    - Rozdział 2:
       - Co z tym żelazem?: storyline/chapter2-1.md
+
   - Informacje:
       - Nasz bohater: other/leech.md
       - Maps: other/maps.md

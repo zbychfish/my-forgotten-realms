@@ -1,6 +1,6 @@
 ![](../images/milosc_zemsta_skarpety.webp){ .center-img width="40%" }
 
-<div class="divider">Wysoki Żywopłot&nbsp;<span class="mb">13</span></div>
+<div class="divider">Wysoki Żywopłot&nbsp;<span class="cb">13</span></div>
 
 [![Wysoki Żywopłot](../maps/BG3200.webp){ .center-img width="40%" }](../maps/BG3200.webp)
 
@@ -41,7 +41,7 @@ Nadszedł czas, aby opuścić *Wysoki Żywopłot* i ruszyć na południe od *Ber
 
 :material-paw: **Bestiariusz:** *gnoll, szkielet*
 
-<div class="divider">Dzicze Beregostu&nbsp;<span class="mb">14</span></div>
+<div class="divider">Dzicze Beregostu&nbsp;<span class="cb">14</span></div>
 
 [![Dzicze Beregostu](../maps/BG3800.webp){ .center-img width="40%" }](../maps/BG3800.webp)
 
@@ -79,7 +79,7 @@ Rankiem drużyna ruszyła dalej i wkrótce dotarła do *Przełęczy Nashkel*.
 
 :material-paw: **Bestiariusz:** *olbrzymi wąż, bełkotek, ghul, ogrillion, hobgoblin, goblin, łupieżca umysłu*
 
-<div class="divider">Przełęcz Nashkel&nbsp;<span class="mb">15</span></div>
+<div class="divider">Przełęcz Nashkel&nbsp;<span class="cb">15</span></div>
 
 [![Przełęcz Nashkel](../maps/BG4300.webp){ .center-img width="40%" }](../maps/BG4300.webp)
 
@@ -105,7 +105,7 @@ Przed odejściem **Lord Foreshadow** wręczył Leechowi pierścień otrzymany od
 
 :material-paw: **Bestiariusz:** *hobgoblin, goblin, ghul, bełkotek*
 
-<div class="divider">Na szlaku&nbsp;<span class="mb">16</span></div>
+<div class="divider">Na szlaku&nbsp;<span class="cb">16</span></div>
 
 Na szlaku drużyna odnalazła rannego **Roomokuma**, który padł ofiarą licznej bandy „małych, skaczących rozbójników”. Leech początkowo nie potrafił zrozumieć jego chaotycznych wyjaśnień, lecz podał mu chleb i wodę. Po odzyskaniu sił wędrowiec doprecyzował, że napastnikami były koboldy, znacznie liczniejsze i lepiej zorganizowane niż zwykle. Słyszał, jak stworzenia wspominały o jakimś planie oraz osobie wydającej im rozkazy. Wyglądało więc na to, że kolejny napad nie był dziełem przypadkowej bandy.
 
