@@ -4,5 +4,8 @@
 
 *Jest pewne, że śmierć Mulaheya złagodzi obawy sterroryzowanych mieszkańców Nashkel, ale ja dalej jestem niespokojny. Choć pół-ork rzeczywiście mógł być przyczyną nieszczęść, które dotknęły kopalnię, niedobór żelaza jest zbyt powszechny, by to była tylko jego sprawka. Jego listy potwierdzają, chociaż dają niewiele wskazówek co do tego, gdzie ukrywają się jego wspólnicy, że mogą oni mieć powiązania z bandytami, którzy obecnie nękają Wybrzeże.*
 
+## Dolina Grobowców&nbsp;<span class="cb">32</span> { .divider }
+
+[![Dolina grobowców](../maps/BG5000.webp){ .center-img width="40%" }](../maps/BG5000.webp)
 
 
