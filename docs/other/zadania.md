@@ -523,6 +523,7 @@
 ??? warning "Jen'Lig's Hunt"
     - **Zleceniodawca:** Jen'Lig podczas rozmowy przez nią zainicjowaną.
     - Celem jest odnalezienia wykradzionego srebrnego miecza. Ślady prowadzą do Wrót Baldura.
+    - Udało się odnaleźć pochwę miecza w kryjówce Mulaheya w kopalni Nashkel.
     <div id="q-15"></div>
 
 ??? success "Landrin's Possessions"

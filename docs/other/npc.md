@@ -252,7 +252,8 @@
 |Gorken Bloodaxe|BG5403|:material-close-circle:|🪦 - niezłą ekipę miał|
 |Rovo "Niespodziewany Bohater"|BG5403|:material-close-circle:|🪦 - któremu w łapy wpadła przednia katana|
 |Mulahey|BG5405|:material-close-circle:|🪦 - żelaza złóż trucicel|
-
+|Xan|BG5405|:material-check-circle: postać przyłączalna|niby taki niesamowity a uwieził go byle kto|
+|Horvok|BG2302|:material-close-circle:|🪦 - to cię czeka gdy cię szuka githyanki nie w celach prokreacyjnych|
 
 
 

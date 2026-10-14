@@ -145,7 +145,9 @@ Ostatni list pochodził od nieznanej organizacji, która od dłuższego czasu ob
 
 Śmierć **Mulaheya** mogła uspokoić mieszkańców *Nashkel*, lecz nie kończyła kryzysu. Niedobór żelaza obejmował zbyt rozległy obszar, aby odpowiadała za niego wyłącznie jedna podziemna operacja. Dokumenty wskazywały na większy spisek powiązany z bandytami pustoszącymi całe Wybrzeże Mieczy.
 
-W komnatach więziono także **Xana**, członka Szarych Płaszczy z Evereski, wysłanego w celu zbadania kryzysu. Elf spędził wiele tygodni pod ziemią, lecz po uwolnieniu dołączył do drużyny, choć z właściwym sobie pesymizmem uznał sprawę za niemal beznadziejną. Wśród skarbów **Mulaheya** odnaleziono jego najcenniejszy przedmiot, księżycowe ostrze.
+W komnatach więziono także **Xana**, członka *Szarych Płaszczy* z *Evereski*, wysłanego w celu zbadania kryzysu. Elf spędził wiele tygodni pod ziemią, lecz po uwolnieniu dołączył do drużyny, choć z właściwym sobie pesymizmem uznał sprawę za niemal beznadziejną. Wśród skarbów **Mulaheya** odnaleziono jego najcenniejszy przedmiot, księżycowe ostrze.
+
+Uwagę podróżników przykuła także pięknie zdobiona pochwa jakiegoś miecza. **Jen’lig** rozpoznała ją jako przedmiot githyanki, przeznaczony dla srebrnego miecza *Gith*. Broń należała do marszałka **Kastyi**, który został ranny na *Planie Materialnym* i wykryty przez wrogą ludzką magię. Na miejscu jego upadku pojawiło się sześciu ludzi. Ślad trucizny poprowadził do sierżanta **Horvoka** z *Płonącej Pięści*, zabitego wcześniej w *Pomocnej Dłoni*. Według ustaleń wojowniczki **Horvok** i jego towarzysze ograbili rannego marszałka, zamordowali go i zabrali srebrny miecz. Pozostali sprawcy należeli do większej organizacji działającej w *Beregoście*. Chroniła ich potężna mroczna osłona, podobna do tej wyczuwanej wcześniej w jaskini **Mulaheya**, dlatego **Jen’lig** nie potrafiła ustalić ich dokładnego położenia. Leech zgodził się pomóc jej odnaleźć zabójców i odzyskać świętą broń jej ludu ([Jen'lig's Hunt](../other/zadania.md#q15)).
 
 <div class="character-intro" markdown>
 <div class="character-portrait" markdown>
@@ -160,8 +162,10 @@ Elf · Zaklinacz · Praworządny Dobry
 </div>
 </div>
 
+Wszyscy razem mieli już dość kopalni i udali się na powierzchnię przez wyjście <span class="mb">2</span> znajdujące się z tyłu czwartego poziomu kopalni.
+
 :material-account-group: **Przyłączeni NPC:** *Xan*
 
 :material-account-group: **Odłączeni NPC:** *Branwen* (świątynia w Nashkel)
 
-:material-paw:Bestiariusz: kobold, kobold szaman, pająk miecznik, szary szlam, ghul, kobold, szkielet
+:material-paw:Bestiariusz: *kobold, kobold szaman, pająk miecznik, szary szlam, ghul, kobold, szkielet, hobgoblin elita, hobgoblin kapitan*
