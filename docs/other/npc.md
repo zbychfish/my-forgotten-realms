@@ -240,9 +240,26 @@
 |Pani Blackwood|BG4800|:material-check-circle:|matka co dzieci nieznajaomym zostawia na przechowanie|
 |Sarah|BG4800|:material-check-circle:|nieznośny dzieciak|
 |Tom|BG4800|:material-check-circle:|nieznośny dzieciak|
+|górnik Gord|BG5401|:material-check-circle:|no barbórki to nie obchodzi|
+|górnik Ryuffin|BG5401|:material-check-circle:|tak z kilofem mu do twarzy|
+|górnik Dink|BG5401|:material-check-circle:|znalazca sztyletu Kylee'a|
+|górnik Dilak|BG5401|:material-check-circle:|banialuki rzecz|
+|górnik Marvin|BG5401|:material-check-circle:|smoki widzi, mniej gorzały!|
+|górnik Bob|BG5401|:material-check-circle:|dudowniczym to on nie jest|
+|górnik Beldin|BG5402|:material-check-circle:|z koboldofobią|
+|górnik Kylee|BG5402|:material-check-circle:|ze zwróconym sztyletem|
+|górnik Joseph|BG5403|:material-check-circle:|🪦 - miał kochającą żonę|
+|Gorken Bloodaxe|BG5403|:material-close-circle:|🪦 - niezłą ekipę miał|
+|Rovo "Niespodziewany Bohater"|BG5403|:material-close-circle:|🪦 - któremu w łapy wpadła przednia katana|
+|Mulahey|BG5405|:material-close-circle:|🪦 - żelaza złóż trucicel|
 
 
 
+
+Kopalnia Nashkel - siedziba Mulaheya - BG5405
+Kopalnia Nashkel - poziom III - BG5403
+Kopalnia Nashkel - poziom II - BG5402
+Kopalnia Nashkel - poziom I - BG5401
 Kopalnia Nashkel - BG5400
 Jarmark w Nashkel - palarnia czarnego lotosu - BG4902           
 Jarmark w Nashkel - jeden z mniejszych namiotów - BG4906

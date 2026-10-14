@@ -1,8 +1,9 @@
+# Co z tym żelazem?
 ![](../images/nashkel.webp){ .center-img width="90%" }
 
 *Po niedawnej, pospiesznej ucieczce z Candlekeep problemy nękające Wybrzeże Mieczy wciąż zlewały się w trudny do uporządkowania chaos. **Gorion** z pewnością nie chciałby jednak, aby jego wychowanek pozostawał bezczynny. Zbadanie miejscowych kłopotów mogło rzucić nieco światła zarówno na kryzys żelaza i wydarzenia w kopalniach Nashkel, jak i na niepewne położenie samego Leecha. Młody przywódca nie wiedział jeszcze, czy problemy regionu mają jakikolwiek związek z zasadzką, śmiercią przybranego ojca i kolejnymi kontraktami wystawianymi na jego głowę. Wkrótce miał się jednak przekonać, że na Wybrzeżu Mieczy przypadkowe zdarzenia wyjątkowo często okazują się fragmentami tej samej, znacznie większej układanki.*
 
-<div class="divider">Nashkel&nbsp;<span class="cb">20</span></div>
+## Nashkel&nbsp;<span class="cb">20</span> { .divider }
 
 [![Nashkel](../maps/BG4800.webp){ .center-img width="40%" }](../maps/BG4800.webp)
 
@@ -98,7 +99,7 @@ Postanawiamy udać się do Beregostu i Pomocnej Dłoni po Imoen i Garricka i za�
 
 Bestiariusz: młoda wiwerna
 
-<div class="divider">Przełęcz Nashkel&nbsp;<span class="cb">21</span></div>
+## Przełęcz Nashkel&nbsp;<span class="cb">21</span> { .divider }
 
 [![Przełęcz Nashkel](../maps/BG4300.webp){ .center-img width="40%" }](../maps/BG4300.webp)
 
@@ -108,7 +109,7 @@ Podążamy do Świątyni Lathandera zdać sprawy I
 
 Bestiariusz: bełkotek
 
-<div class="divider">Świątynia Lathandera&nbsp;<span class="cb">22</span></div>
+## Świątynia Lathandera&nbsp;<span class="cb">22</span> { .divider }
 
 [![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }](../maps/BG3400.webp)
 
@@ -116,7 +117,7 @@ Po zakończeniu sprawy z zaginionym pochówkiem drużyna zdała **Eloran** (2) r
 
 Nowe zlecenie okazało się znacznie mniej wzniosłe. Tym razem nie chodziło o nieumarłych, nekromantów ani wyznawców mrocznych bóstw, lecz o plagę szczurów w domu jednej z mieszkanek *Beregostu*, niedaleko *Płonącego Czarodzieja*. Leech z niedowierzaniem zapytał, czy naprawdę ma polować na kilka gryzoni. **Eloran** przypomniała mu jednak, że nie każde zadanie musi być efektowne, a świątynia odpowiada również za zwyczajne problemy mieszkańców. Skoro **Płonąca Pięść** odmówiła pomocy, ktoś musiał zająć się szkodnikami. Kapłanka zasugerowała przy tym, że tępienie szczurów jest niemal rytuałem przejścia każdego szanującego się poszukiwacza przygód. Młody gnom zgodził się bez dalszych protestów. Najwyraźniej po duchach, malarytach i skradzionych zwłokach przyszła pora ponownie udowodnić, że żadna piwnica pełna gryzoni nie może czuć się przy nim bezpiecznie (**The Rat King** 73).
 
-<div class="divider">Świątynia Lathandera&nbsp;<span class="cb">23</span></div>
+## Beregost&nbsp;<span class="cb">23</span> { .divider }
 
 [![Beregost](../maps/BG3300.webp){ .center-img width="40%" }](../maps/BG3300.webp)
 
@@ -130,7 +131,7 @@ Zaglądamy do domu wskazanego przez Elonara (42). Właścicielka wskazała nam s
 
 Zaglądamy do Oka Gorgony (29) i zamykamy sprawę kontraktu na Cartha. Liedel jest zadowolony i nie ma na razie więcej zleceń (Liedel's Bounty: Carth 40).
 
-<div class="divider">Świątynia Lathandera&nbsp;<span class="cb">24</span></div>
+## Świątynia Lathandera&nbsp;<span class="cb">24</span> { .divider }
 
 [![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }](../maps/BG3400.webp)
 
@@ -140,7 +141,7 @@ Kolejne zlecenie nie dotyczyło już nieumarłych, kultystów ani gryzoni. Z *Po
 
 Podążamy więc do agenta.
 
-<div class="divider">Nadbrzeżny Trakt&nbsp;<span class="cb">25</span></div>
+## Nadbrzeżny Trakt&nbsp;<span class="cb">25</span> { .divider }
 
 [![Nadbrzeżny Trakt](../maps/BG2800.webp){ .center-img width="40%" }](../maps/BG2800.webp)
 
@@ -150,7 +151,7 @@ Będą tak blisko Pomocnej Dłoni udajemy się tam odpocząć.
 
 Bestiariusz: chory bełkotek
 
-<div class="divider">Pomocna Dłoń&nbsp;<span class="cb">26</span></div>
+## Pomocna Dłoń&nbsp;<span class="cb">26</span> { .divider }
 
 [![Pomocna Dłoń](../maps/BG2300.webp){ .center-img width="40%" }](../maps/BG2300.webp)
 
@@ -168,7 +169,7 @@ Po wygodnym noclegu wracamy do Nashkel przygotować się na odwiedziny kopalni.
 
 :material-account-group: **Przyłączeni NPC:** *Garrick*
 
-<div class="divider">Nashkel&nbsp;<span class="cb">27</span></div>
+## Nashkel&nbsp;<span class="cb">27</span> { .divider }
 
 [![Nashkel](../maps/BG4800.webp){ .center-img width="40%" }](../maps/BG4800.webp)
 
@@ -178,7 +179,7 @@ Zaglądamy do tutejszego sklepu (25), który prowadzi Henning. Wspomniał on o b
 
 Mając Imoen ze sobą możemy odwiedzić jarmark.
 
-<div class="divider">Jarmark w Nashkel&nbsp;<span class="cb">28</span></div>
+## Jarmark w Nashkel&nbsp;<span class="cb">28</span> { .divider }
 
 [![Jarmark w Nashkel](../maps/BG4900.webp){ .center-img width="40%" }](../maps/BG4900.webp)
 
@@ -263,7 +264,7 @@ Czas na kopalnie!!!
 
 Bestiariusz: agresywny młody mimik
 
-<div class="divider">Na szlaku</span></div>
+## Na szlaku { .divider }
 
 Na szlaku drużynę zatrzymali **Senjak** i **Dorotea**, wspierani przez ukrytych łuczników. Bandyci zażądali całego dobytku, grożąc śmiercią każdemu, kto spróbuje stawić opór. Negocjacje szybko straciły jednak sens, gdy kolejni strzelcy zaczęli padać, a z ukrycia wyłonił się **Dorn**. Półork rozpoznał w napastnikach dawnych towarzyszy, którzy zdradzili go i pozostawili, by poniósł winę za działania **Simmeona**. **Dorotea** próbowała zrzucić całą odpowiedzialność na przywódcę grupy, natomiast **Senjak** odpowiedział obelgami. Wkrótce oboje zaczęli oskarżać się nawzajem, dokładnie tak samo, jak wcześniej wspólnie zwrócili się przeciw **Dornowi**. Półork nie zamierzał słuchać dalszych wymówek. Oznajmił, że połowa bandy już nie żyje, a zdrajcy wkrótce do niej dołączą. **Senjak** i **Dorotea** wydali rozkaz ataku, rozpoczynając starcie, które miało rozliczyć dawne zdrady i przybliżyć **Dorna** do odnalezienia **Simmeona**. (Tuż przed kopalnią zostaliśmy zaatakowani przez bandę prowadzoną przez zbyt pewnych siebie Senjaka i Doroteę. Naszym niespodziewanym sprzymierzeńcem okazał się Dorn – przemknął wcześniej w Pomocnej Dłoni. Ten pół-ork szuka zemsty za zostawienie go w więzieniu przez kamratów. Zostało jeszcze dwóch i prosił o pomoc w dokończeniu dzieła i zaoferował swój miecz. Przystałem na to chociaż Imoen nie jest do tego przekonana.) 
 Po walce **Dorn** ujawnił, że od niemal roku ściga dawnych towarzyszy, którzy zdradzili go i pozostawili w więzieniu w *Luskanie*. Śmierć **Senjaka** i **Dorotei** oznaczała, że pozostało mu jeszcze dwoje zdrajców, w tym **Simmeon**. Półork nie chciał wyjaśnić źródła swoich nadnaturalnych mocy, lecz przyjął propozycję wspólnej podróży. Uznał, że drużyna może pomóc mu dokonać zemsty, a jego umiejętności okażą się przydatne Leechowi. Młody gnom zgodził się przyjąć go do kompanii, uznając, że zdrada nie powinna pozostać bez kary.
@@ -288,7 +289,7 @@ Półork · Czarny strażnik · Neutralny Zły
 
 :material-account-group: **Odłączeni NPC:** *Dorn* (Pomocna Dłoń)
 
-<div class="divider">Kopalnia Nashkel&nbsp;<span class="cb">29</span></div>
+## Kopalnia Nashkel&nbsp;<span class="cb">29</span> { .divider }
 
 [![Kopalnia Nashkel](../maps/BG5400.webp){ .center-img width="40%" }](../maps/BG5400.webp)
 
@@ -314,7 +315,7 @@ Imoen patrzy na mnie z wyrzutem abyśmy jednak wrócili z futrem do Nashkel.
 
 Bestiariusz: krasnolud najemnik (mlot i proca), pies bojowy, ghoul, wilk, kobold, bełkotek, xvart, zimowy wilk, bandyta łucznik
 
-<div class="divider">Nashkel&nbsp;<span class="cb">30</span></div>
+## Nashkel&nbsp;<span class="cb">30</span> { .divider }
 
 [![Nashkel](../maps/BG4800.webp){ .center-img width="40%" }](../maps/BG4800.webp)
 
@@ -330,7 +331,7 @@ Już miałem wydać rozkaz powrotu do kopalń, gdy Imoen znowu spojrzała na mne
 
 Sandrah zachwyciła się różowym futrem Imoen. Strój był nie tylko miękki i elegancki, lecz także nasycony zaklęciami chroniącymi przed zimnem i upałem. Kapłanka uznała, że kosztowny prezent najlepiej świadczy o uczuciach Henninga. Imoen zaczęła jednak wątpić, czy związek ze sklepikarzem pasuje do „Imoen Wspaniałej”, marzącej dotąd raczej o rycerzu lub paladynie. Sandrah przypomniała jej, że Henning nie oczekuje porzucenia przygód ani stania za ladą. Przeciwnie, podziwia jej niezależność i bohaterstwo. Uspokojona dziewczyna szybko dostrzegła korzyści takiego układu. Zaczęła nawet planować reklamowanie sklepu hasłem: „Kupuj tam, gdzie kupują bohaterowie”, z uzbrojeniem osobiście certyfikowanym przez Imoen Wspaniałą i jej towarzyszy.
 
-<div class="divider">Kopalnia Nashkel&nbsp;<span class="cb">31</span></div>
+## Kopalnia Nashkel&nbsp;<span class="cb">31</span> { .divider }
 
 [![Kopalnia Nashkel](../maps/BG5400.webp){ .center-img width="40%" }](../maps/BG5400.webp)
 
@@ -338,6 +339,89 @@ Płacząca kobieta (7) wspomina, że jej mąż kupił nietypowy miecz i chwilę 
 
 Koło wejścia do kopalni natykamy się na górników dzielących się informacją, że na dolnych poziomach ruda jest skażona i do niczego się nie nadaje a ilość górników się zmniejsza dramatycznie. Niedaleko Emerson’a (6) poprosił nas o sprawdzenie co dzieje się w kopalni, nie on pierwszy (Invetigating the Nashkel Mines 80).
 
-<div class="divider">Kopalnia Nashkel - poziom I&nbsp;<span class="cb">31</span><span class="cb">I</span></div>
+## Kopalnia Nashkel - poziom I&nbsp;<span class="cb">31.I</span> { .divider }
 
 [![Kopalnia Nashkel](../maps/BG5401.webp){ .center-img width="40%" }](../maps/BG5401.webp)
+
+Górnik Gord (1) mówił o jakiś małych demonach wychodzących ze ścian. I radził porozmawiać z Ruffin (2) który ledwo uszedł z życiem. Ruffie, czego można było się spodziewać, powtórzył co już wiedzieliśmy. W kopalni nie wydobywa się już rudy i dlatego pracuje bardzo mała obsada.
+
+Lesley (3), Dilak (5), Marvin (7), Bob (6) nie wnieśli niczego nowego, poza sugestią o duchach, smoku i potwierdzeniu, że górnicy giną. Za to Dink (4) poprosił o dostarczenie poziom niżej zgubionego przez Kylee’a sztyletu (Kylee's Dagger 81). Małe demony wzmiankowane przez górników to chyba koboldy. W wózkach znajdowała się skażona ruda.
+
+Amnijscy strażnicy potwierdzili obecność licznych koboldów w głębi kopalni, lecz nie wierzyli, by tak prymitywne stworzenia samodzielnie odpowiadały za cały kryzys. Nawet przemycona na powierzchnię ruda okazała się równie skażona jak pozostałe wydobycie. Jeden z żołnierzy widział także zaginionego górnika, który mimo śmierci nadal się poruszał. Napięci strażnicy byli już zmęczeni walką z niewidocznym przeciwnikiem, dlatego ostrzegli drużynę przed wykonywaniem podejrzanych ruchów.
+
+W mrocznych korytarzach Sandrah przyznała, że nie zamierza odejść ze świata niezauważona. Nie pragnęła jednak osobistej sławy. Uważała, że dobre czyny przynoszą trwałą zmianę dopiero wtedy, gdy stają się przykładem dla innych. Leech odpowiedział, że najważniejsze jest pozostawienie Torilu lepszym, niż się go zastało, niezależnie od rozgłosu. Kapłanka zgodziła się, po czym żartobliwie nazwała go przyszłym bohaterem. Najpierw należało jednak wykonać zadanie, a dopiero później zbierać laury.
+
+Schodzimy niżej (8)
+
+Bestiariusz: kobold
+
+## Kopalnia Nashkel - poziom II&nbsp;<span class="cb">31.II</span> { .divider }
+
+[![Kopalnia Nashkel](../maps/BG5402.webp){ .center-img width="40%" }](../maps/BG5402.webp)
+
+Górnik Beldin przybiegł (1) do nas goniony przez kilka koboldów. Pozbyliśmy się pasożytów. Reputacja: +1.
+Sandrah zasugerowała zabranie próbki skażonego żelaza do Nashkel. Być może miejscowi uczeni albo Taerom zdołają ustalić przyczynę jego rozpadu. Warto było również przeszukiwać ciała napotkanych stworzeń w poszukiwaniu substancji używanej do niszczenia rudy. W jednej z wydrążonych sal spotkaliśmy Kylee (2) i przekazaliśmy mu sztylet (Kylee's Dagger 81). Podzielił się swoimi informacjami o koboldach i ich coraz większej liczbie.
+Na tym poziomie dużo ciał zabitych górników a przy jednym z zabitych koboldów znaleźliśmy fiolkę z dziwnym płynem, czyżby on powodował przeobrażenie rudy?
+
+Górnicy potwierdzili, że niższe poziomy kopalni są znacznie niebezpieczniejsze. W tunelach widywano liczne koboldy, także uzbrojone w miecze, co podważało opowieści o przypadkowej pladze dzikich stworzeń. Mimo zagrożenia robotnicy kontynuowali pracę, pragnąc jedynie jak najszybciej opuścić tę śmiertelną pułapkę.
+
+Widizmy zejście niżej (3).
+
+Bestiariusz: kobold, kapitan koboldów, kobold szaman, olbrzymi pająk
+
+## Kopalnia Nashkel - poziom III&nbsp;<span class="cb">31.III</span> { .divider }
+
+[![Kopalnia Nashkel](../maps/BG5403.webp){ .center-img width="40%" }](../maps/BG5403.webp)
+
+Po zejściu niżej znajdujemy zwłoki (1) a przy nich pierścień z nefrytem i dedykacją dla Józefa. Niestety będziemy mieć smutną wiadomość dla jego żony (Joseph's Wife 72).
+
+W korytarzach postawione są pułapki na szczęcie Jen’lig umie je wykrywać i deaktywować.
+Silnie, ale nie za silnie uzbrojona banda Gorkena Bloodaxe (2) - mrocznych duergarów - zaatakowała nas znienacka – niezły sprzęt mieli!
+
+Koło mostku na lawą (3) jedną z grup koboldów prowadził Rovo, głośnie obwieszczając swój nowy miecz. Przy jego ciele znaleźliśmy katanę o nazwie Juu-San. Chyba wiemy do kogo należy (The Echoed Cry 79).
+
+Schodzimy niżej (4).
+
+Bestiariusz: kobold, kobold komando, duergar złodziej, duergar kapłan, duergar wojownik, ghul, wielki pająk
+
+## Kopalnia Nashkel - poziom IV&nbsp;<span class="cb">31.IV</span> { .divider }
+
+[![Kopalnia Nashkel](../maps/BG5404.webp){ .center-img width="40%" }](../maps/BG5404.webp)
+
+
+Coraz głębiej, przed nami długi tunel a na końcu olbrzymi pieczara z dziwną budowlą wewnątrz.
+Sprawdzamy co w środku (1).
+
+![Mulahaey](../images/mulahey_cave.webp){ .center-img width="60%" }
+
+
+Sprawcą całego problemu w kopalni był Mulahey. Tazok wysłał go tu, aby uniemożliwił zbiór rudy i dostarczył także substancję ją zatruwająca. Z listów wynika także, że zatrudnił bandytów, aby uniemożliwili transport rudy z kopalni. Kontaktem Mulaheya z Tazokiem jest niejaki Tranzig, który czeka w gospodzie Feldeposta w Beregoście (Confrontin Tranzig 82) (Investigating the Nashkel Mines).
+Ktoś o inicjale D. wydaje się odpowiedzialny za problem z Bragg’iem i jego nowym mieczem. Był tam też przetrzymywany elfi mag Xan, uwolniliśmy go i będzie nam towarzyszył. Branwen poczeka na nas w swiątyni w Nashkel (Przy Mulaheyu znaleziono dwa listy od Tazoka, potwierdzające, że skażenie rudy było celowym sabotażem. Koboldy miały zatruwać wydobycie dostarczonym minerałem, mordować górników i ukrywać obecność całej operacji. Wspierały ich najemne oddziały Czarnych Szponów oraz Chłodu, odpowiedzialne za niszczenie karawan z żelazem zmierzających z południa i wschodu. Kolejne wiadomości ujawniały rosnące niezadowolenie Tazoka. Koboldy działały zbyt jawnie, a sam Mulahey coraz gorzej radził sobie z zadaniem. W razie problemów miał kontaktować się z Tranzigiem, przebywającym w gospodzie Feldeposta w Beregostcie.).
+
+Dwa inne, wielce ciekawe listy znależli w komnacie Mulahey'a. Jeden z nich wspominał o osobie oznaczonej inicjałem „D.”, która ingerowała w plany spiskowców i przekazała dowódcy Nashkel niezwykły miecz. Osłabione siły amnijskie przestały schodzić do kopalni, lecz Mulahey miał przygotować się na kolejnych intruzów. Dokumenty jasno wskazywały, że kryzys żelaza stanowi część znacznie większego spisku kierowanego przez Tazoka. 
+
+Z ostatniego listu wynika, że tajemnicza organizacja Węży złożyła Mulaheyowi propozycję spotkania. Powinniśmy wyglądać w nocy w Beregost niejakiego Tarash’a Blackhelmeta (Odnaleziony list ujawniał, że tajemnicza organizacja od dłuższego czasu obserwowała działania Mulaheya i była pod wrażeniem ich skuteczności. Proponowała współpracę, która w przyszłości mogła przynieść korzyści obu stronom. W razie zainteresowania Mulahey miał skontaktować się nocą z Tarashem Blackhelmetem, czekającym przy kamiennym filarze w centrum Beregostu. Wiadomość kończyło religijne pozdrowienie oddające chwałę bogu oraz wszystkie klejnoty Wężowi).
+
+Jest pewne, że śmierć Mulaheya złagodzi obawy sterroryzowanych mieszkańców Nashkel, ale ja dalej jestem niespokojny. Choć pół-ork rzeczywiście mógł być przyczyną nieszczęść, które dotknęły kopalnię, niedobór żelaza jest zbyt powszechny, by to była tylko jego sprawka. Jego listy potwierdzają, chociaż dają niewiele wskazówek co do tego, gdzie ukrywają się jego wspólnicy, że mogą oni mieć powiązania z bandytami, którzy obecnie nękają Wybrzeże.
+
+Uwolniony z niewoli Xan przedstawił się jako Szary Płaszcz z Evereski, wysłany w celu zbadania tajemniczych wydarzeń w okolicy. Został jednak schwytany przez Mulaheya i przez wiele tygodni przetrzymywany pod ziemią. Elf dołączył do drużyny, choć z właściwym sobie pesymizmem uznał jej sprawę za niemal beznadziejną. Wspomniał również o swoim najcenniejszym przedmiocie, księżycowym ostrzu przechowywanym wśród skarbów i dokumentów Mulaheya.
+
+<div class="character-intro" markdown>
+<div class="character-portrait" markdown>
+![Xan](../images/xan_p.webp)
+</div>
+<div class="character-summary" markdown>
+# Xan
+<span class="character-subtitle">
+Elf · Zaklinacz · Praworządny Dobry
+</span>
+> Xan pochodzi z elfiej twierdzy Evereska i jest Szarym Płaszczem, strażnikiem wysłanym do zbadania kryzysu żelaza. Jego zadaniem jest ustalenie przyczyn niedoboru oraz ocena zagrożenia dla całego regionu. Choć obdarzony znaczną wiedzą i magicznym talentem, podchodzi do misji z właściwym sobie pesymizmem. Większość sytuacji ocenia z ponurym fatalizmem, jakby porażka była nie tyle możliwością, co nieuniknionym zakończeniem. Całe życie poświęcił doskonaleniu magii i stał się utalentowanym czarodziejem. Skupienie na nauce pozostawiło mu jednak niewiele czasu na przyjaźnie oraz inne zainteresowania. Jest osobą zdolną, lecz jego nieustanny pesymizm potrafi poważnie osłabić morale towarzyszy.
+</div>
+</div>
+
+:material-account-group: **Przyłączeni NPC:** *Xan*
+
+:material-account-group: **Odłączeni NPC:** *Branwen* (świątynia w Nashkel)
+
+
+Bestiariusz: kobold, kobold szaman, pająk miecznik, szary szlam (galaretowiec), ghul, kobold, szkielet

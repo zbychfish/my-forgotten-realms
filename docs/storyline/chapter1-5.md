@@ -1,6 +1,8 @@
+# Od świątyni do kurnika
+
 ![](../images/od_swiatyni_do_kurnika.webp){ .center-img width="40%" }
 
-<div class="divider">Świątynia Lathandera&nbsp;<span class="cb">6</span></div>
+## Świątynia Lathandera&nbsp;<span class="cb">6</span> { .divider }
 
 [![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }](../maps/BG3400.webp)
 
@@ -39,7 +41,7 @@ Nad horyzontem pojawiły się pierwsze promienie świtu, dlatego zmęczona kompa
 :material-paw: **Bestiariusz:** *czarny niedźwiedź, pies bojowy, hobgoblin, straszliwy wilk, dziki pies, worg, wampiryczny wilk, pająk miecznik, astralny pająk fazowy, zombie, pająk upiór*
 <br><br>
 
-<div class="divider">Beregost&nbsp;<span class="cb">7</span></div>
+## Beregost&nbsp;<span class="cb">7</span> { .divider }
 
 [![Beregost](../maps/BG3300.webp){ .center-img width="40%" }](../maps/BG3300.webp)
 
@@ -55,7 +57,7 @@ W podziemiach gildii przekazali **Liedel** wisior **Vapuli** i odebrali nagrodę
 
 Następnie umieścili spreparowaną wiadomość w beczce za *Płonącym Czarodziejem* <span class="mb">41</span>. Teraz wystarczyło zaczekać do nocy i sprawdzić, kto połknie przynętę ([Shadows and Echoes](../other/zadania.md#q46)).
 
-<div class="divider">Świątynia Lathandera&nbsp;<span class="cb">8</span></div>
+## Świątynia Lathandera&nbsp;<span class="cb">8</span> { .divider }
 
 [![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }](../maps/BG3400.webp)
 
@@ -71,7 +73,7 @@ Wizja szybko minęła, pozostawiając bohatera oszołomionego i niezbyt przekona
 
 Czekając na zmierzch i możliwość schwytania zdrajcy, kompania wyruszyła na *Nadrzeżny Trakt*, aby odnaleźć mordercę wspomnianego przez **Eloran**.
 
-<div class="divider">Nadbrzeżny Trakt&nbsp;<span class="cb">9</span></div>
+## Nadbrzeżny Trakt&nbsp;<span class="cb">9</span> { .divider }
 
 [![Nadbrzeżny Trakt](../maps/BG2800.webp){ .center-img width="40%" }](../maps/BG2800.webp)
 
@@ -88,7 +90,7 @@ Podczas dalszej drogi **Neera** wyznała, że odkąd dołączyła do drużyny, j
 
 :material-paw: **Bestiariusz:** *olbrzymi pająk*
 
-<div class="divider">Wysoki Żywopłot&nbsp;<span class="cb">10</span></div>
+## Wysoki Żywopłot&nbsp;<span class="cb">10</span> { .divider }
 
 [![Wysoki Żywopłot](../maps/BG3200.webp){ .center-img width="40%" }](../maps/BG3200.webp)
 
@@ -119,7 +121,7 @@ Zbliżała się północ. Nadszedł czas powrotu do *Beregostu* i schwytania zdr
 
 :material-paw: **Bestiariusz:** *gnoll, gnoll rozpruwacz, gnoll weteran, dzik, dziki pies, ghul, wielki pająk, szkielet, golem z ciała*
 
-<div class="divider">Beregost&nbsp;<span class="cb">11</span></div>
+## Beregost&nbsp;<span class="cb">11</span> { .divider }
 
 [![Beregost](../maps/BG3300.webp){ .center-img width="40%" }](../maps/BG3300.webp)
 
@@ -139,7 +141,7 @@ Następnie kompania udała się do *Czerwonego Bukietu* <span class="mb">11</spa
 
 Po zamknięciu najpilniejszych spraw w mieście drużyna wyruszyła do *Czerwonych Jarów*, aby rozprawić się z **Bassilusem**.
 
-<div class="divider">Czerwone Jary&nbsp;<span class="cb">12</span></div>
+## Czerwone Jary&nbsp;<span class="cb">12</span> { .divider }
 
 [![Czerwone Jary](../maps/BG3700.webp){ .center-img width="40%" }](../maps/BG3700.webp)
 
@@ -165,7 +167,7 @@ Z gadającym kurczakiem w plecaku oraz pierwszą magiczną sferą w ekwipunku bo
 
 :material-paw: **Bestiariusz:** *szkielet, wilk, hobgoblin, elita hobgoblinów, ghul, ghast, zombie, ettin, ochrowy galaretowiec*
 
-<div class="divider">Na szlaku</span></div>
+## Na szlaku { .divider }
 
 W drodze do *Wysokiego Żywopłotu* spotykamy na szlaku martwego jelenia, który okazał się być nieumarłym a po chwili dołączyły do niego inne zombie. Nigdy nie słyszano aby jelenie były podatne.
 

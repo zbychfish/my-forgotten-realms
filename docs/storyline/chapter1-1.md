@@ -1,4 +1,6 @@
-<div class="divider">Lwi Trakt&nbsp;<span class="cb">2</span></div>
+# To nie mogło się stać
+
+## Lwi Trakt&nbsp;<span class="cb">2</span> { .divider }
 
 ![Candlekeep](../images/daemonknight.webp){ .center-img width="100%" }
 
@@ -104,7 +106,7 @@ Nie zwlekając dłużej, drużyna ruszyła zgodnie z drogowskazami na północ, 
 
 :material-paw: **Bestiariusz:** *Olbrzymi Wąż, Wilk, Czarny Niedźwiedź*
 
-<div class="divider">Nadbrzeżny Trakt&nbsp;<span class="cb">3</span></div>
+## Nadbrzeżny Trakt&nbsp;<span class="cb">3</span> { .divider }
 
 [![Nadbrzeżny Trakt](../maps/BG2800.webp){ .center-img width="40%" }](../maps/BG2800.webp)
 

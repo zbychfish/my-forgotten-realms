@@ -1,6 +1,8 @@
+# Oko Gorhony
+
 ![Oko Gorgony](../images/oko_gorgony_logo.webp){ .center-img width="40%" }
 
-<div class="divider">Beregost&nbsp;<span class="cb">5</span></div>
+## Beregost&nbsp;<span class="cb">5</span> { .divider }
 
 [![Beregost](../maps/BG3300.webp){ .center-img width="40%" }](../maps/BG3300.webp)
 

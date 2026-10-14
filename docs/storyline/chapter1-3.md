@@ -1,6 +1,8 @@
+# Od karczmy do karczmy
+
 ![Beregost](../images/beregost.webp){ .center-img width="100%" }
 
-<div class="divider">Beregost&nbsp;<span class="cb">5</span></div>
+## Beregost&nbsp;<span class="cb">5</span> { .divider }
 
 [![Beregost](../maps/BG3300.webp){ .center-img width="40%" }](../maps/BG3300.webp)
 

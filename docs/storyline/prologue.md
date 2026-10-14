@@ -1,3 +1,5 @@
+# Co za dzień!
+
 *Usytuowana na klifach wznoszących się z Wybrzeża Mieczy, cytadela Candlekeep mieści najwspanialszą i najbardziej wszechstronną kolekcję pism na obliczu Faerûnu. Jest to imponująca forteca, utrzymywana w ścisłej izolacji od intryg, które od czasu do czasu nękają resztę Zapomnianych Krain. Jest odosobniona, ściśle uregulowana i jest domem Leecha.
 Pod opieką mędrca Goriona, wewnątrz uświęconych sal wiedzy nasz bohater spędził większość swoich dwudziestu lat życia. Gorion jak przybrany ojciec, wychował naszego bohatera na tysiącu opowieści o bohaterach i potworach, kochankach i niewiernych, bitwach i tragediach. Jednak jedna historia zawsze pozostawała nieopowiedziana: historia prawdziwego dziedzictwa Leecha. Był sierotą, ale jego przeszłość jest w dużej mierze nieznana. Ostatnio Gorion stawał się coraz bardziej zdystansowany, jakby jakaś poważna sprawa ciążyła mu na sercu. Jedyną pociechą jest wiedza, że jest mądrym człowiekiem i podzieli się troskami, gdy nadejdzie czas. Niemniej jednak, jego milczenie jest niepokojące i nie można się oprzeć wrażeniu, że dzieje się coś strasznie złego...*
 ---
@@ -6,7 +8,7 @@ Pod opieką mędrca Goriona, wewnątrz uświęconych sal wiedzy nasz bohater sp�
 
 [![Candlekeep](../maps/BG2600.webp){ .center-img width="40%" }](../maps/BG2600.webp)
 
-<div class="divider">Candlekeep&nbsp;<span class="cb">1</span></div>
+## Candlekeep&nbsp;<span class="cb">1</span> { .divider }
 
 Dzisiaj rano **Gorion** wydaje się bardziej wzburzony niż kiedykolwiek, a teraz w nietypowy dla siebie sposób przerwał rutynę **Leecha** w środku dnia przekazując mu pośpieszne instrukcje, aby wyposażył się do podróży i wręczył mu trochę złota bez żadnej wskazówki i powodu tej nagłej wyprawy. Nasz bohater jest właśnie przy Gospodzie w *Candlekeep* i tak zaczyna się ta opowieść <span class="mb">1</span>.
 

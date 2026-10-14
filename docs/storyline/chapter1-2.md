@@ -1,6 +1,8 @@
+# Ile trzeba aby pomocną dłoń otrzymać?
+
 ![Pod pomocną dłonią](../images/friendlyarm.webp){ .center-img width="100%" }
 
-<div class="divider">Pomocna Dłoń&nbsp;<span class="cb">4</span></div>
+## Pomocna Dłoń&nbsp;<span class="cb">4</span> { .divider }
 
 [![Pomocna Dłoń](../maps/BG2300.webp){ .center-img width="40%" }](../maps/BG2300.webp)
 

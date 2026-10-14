@@ -14,4 +14,5 @@
 | Ustronne Jezioro [16] | BG4200 | [![Przełęcz Nashkel](../maps/BG4200.webp){ width="100" }](../maps/BG4200.webp) |
 | Nashkel [20,27] | BG4800 | [![Nashkel](../maps/BG4800.webp){ width="100" }](../maps/BG4800.webp) |
 | Jarmark w Nashkel [28] | BG4900 | [![Jarmark w Nashkel](../maps/BG4900.webp){ width="100" }](../maps/BG4900.webp) |
+| Kopalnia Nashkel [31] | BG5400 | [![Kopalnia Nashkel](../maps/BG5400.webp){ width="100" }](../maps/BG5400.webp) |
 

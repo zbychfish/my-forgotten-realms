@@ -3,15 +3,29 @@ site_description: The Ultimate EET
 
 theme:
   name: material
+  language: pl
   palette:
     scheme: slate
     primary: deep purple
     accent: amber
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
 
 plugins:
   - search
 
+hooks:
+  - hooks.py
+
 markdown_extensions:
+  - toc:
+      toc_depth: 2-6
   - admonition
   - pymdownx.details
   - pymdownx.superfences
@@ -28,6 +42,7 @@ extra_javascript:
   - js/dataTables-init.js
 
 extra_css:
+  - https://fonts.googleapis.com/css2?family=Almendra:wght@400;700&display=swap
   - https://cdn.datatables.net/2.3.4/css/dataTables.dataTables.min.css
   - css/extra.css
   - css/characters.css
@@ -48,6 +63,9 @@ nav:
 
     - Rozdział 2:
       - Co z tym żelazem?: storyline/chapter2-1.md
+
+    - Rozdział 3:
+      - Szukając ukrytej kopalni?: storyline/chapter3-1.md
 
   - Informacje:
       - Nasz bohater: other/leech.md

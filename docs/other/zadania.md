@@ -80,12 +80,27 @@
 |Imoen in Love|[Zobacz szczegóły](#q-77)|
 |Babysitting in Nashkel|[Zobacz szczegóły](#q-78)|
 |The Echoed Cry|[Zobacz szczegóły](#q-79)|
-|Invetigating the Nashkel Mines|[Zobacz szczegóły](#q-80)|
+|Investigating the Nashkel Mines|[Zobacz szczegóły](#q-80)|
+|Kylee's Dagger|[Zobacz szczegóły](#q-81)|
+|Confronting Tranzig|[Zobacz szczegóły](#q-82)|
 
 
-??? warning "Invetigating the Nashkel Mines"
+??? warning "Confronting Tranzig"
+    - **Zleceniodawca:** Po przeczytaniu listów do Mulahey'a
+    - Musimy spotkać się z Tranzigiem w Beregoście, pośrednikiem z Tazokiem.
+    <div id="q-82"></div>
+
+??? success "Kylee's Dagger"
+    - **Zleceniodawca:** Dink na pierwszym poziomie kopalni Nashkel
+    - Prosi od sotarcznie sztyletu Kylee'owi poziom niżej.
+    - Znależliśmy Kylee'a i podziekował za usługi doręczycielskie.
+    <div id="q-81"></div>
+
+??? success "Investigating the Nashkel Mines"
     - **Zleceniodawca:** Emerson przy wejściu do kopalni
     - Mamy dowiedzieć sie co sie dzieje w kopalni.
+    - Dotarliśmy do Mulaheya i wybiliśmy koboldy i wszystkie inne bestoe czychające na górników.
+    - Ruda nie będzie już zatruwana
     <div id="q-80"></div>
 
 ??? warning "The Echoed Cry"
@@ -135,6 +150,7 @@
 ??? warning "Joseph's Wife"
     - **Zleceniodawca:** Żona górnika w domu na zachodzie Nashkel
     - Prosi o wieści o mężu, któy jest w kopalni, nosi nefrytowy pierścień.
+    - Ciało i pierścień Josepha znaleźliśmy przy wejściu na trzeci poziom kopalni Nashkel.
     <div id="q-72"></div>
 
 ??? success "Nashkel Monster"
