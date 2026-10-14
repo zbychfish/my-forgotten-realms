@@ -175,6 +175,30 @@ div.dt-container .dt-paging .dt-paging-button.current {
     margin: 2rem 0;
 }
 
+/* ===== Ramka snu / wizji ===== */
+.dream-box {
+    margin: 2rem auto;
+    max-width: 65%;
+    border: 1px solid var(--md-default-fg-color--lighter);
+    border-radius: 0.4rem;
+    overflow: hidden;
+    background-color: var(--md-code-bg-color);
+}
+
+.dream-box img {
+    display: block;
+    width: 100%;
+    margin: 0;
+}
+
+.dream-text {
+    margin: 0;
+    padding: 1rem 1.2rem;
+    font-style: italic;
+    color: var(--md-default-fg-color--light);
+    line-height: 1.7;
+}
+
 /* ===== Prawe menu (spis treści) ===== */
 
 /* Tytuł spisu - Almendra, jak nazwa strony */

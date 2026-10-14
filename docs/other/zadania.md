@@ -83,7 +83,13 @@
 |Investigating the Nashkel Mines|[Zobacz szczegóły](#q-80)|
 |Kylee's Dagger|[Zobacz szczegóły](#q-81)|
 |Confronting Tranzig|[Zobacz szczegóły](#q-82)|
+|The Serpents of Abrathor|[Zobacz szczegóły](#q-83)|
 
+
+??? warning "The Serpents of Abrathor"
+    - **Zleceniodawca:** Po przeczytaniu listów w komnacie Mulahey'a
+    - Mamy przyjrzeć się tajemniczej organizacji ,która chciała współpracować z naszymi wrogami. Powinniśmy sie natknąć na ich ślad w Beregost.
+    <div id="q-83"></div>
 
 ??? warning "Confronting Tranzig"
     - **Zleceniodawca:** Po przeczytaniu listów do Mulahey'a
