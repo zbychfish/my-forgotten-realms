@@ -254,9 +254,18 @@
 |Mulahey|BG5405|:material-close-circle:|🪦 - żelaza złóż trucicel|
 |Xan|BG5405|:material-check-circle: postać przyłączalna|niby taki niesamowity a uwieził go byle kto|
 |Horvok|BG2302|:material-close-circle:|🪦 - to cię czeka gdy cię szuka githyanki nie w celach prokreacyjnych|
+|Lamahla|BG5000|:material-close-circle:|🪦 - przewodziłą komandem amazonek|
+|Zelia|BG5000|:material-close-circle:|🪦 - amazonka|
+|Telka|BG5000|:material-close-circle:|🪦 - amazonka|
+|Elka|BG5000|:material-close-circle:|🪦 - amazonka|
+|Natalka|BG5000|:material-close-circle:|🪦 - amazonka|
+|Maneira|BG5000|:material-close-circle:|🪦 - amazonka|
+|Hentold|BG5000|:material-check-circle:|ze zwróconym sztyletem|
+|Narcillius Harwilliger Neen|BG5000|:material-close-circle:|🪦 - zły eksperymentator|
 
 
 
+Dolina Grobowców - BG5000
 Kopalnia Nashkel - siedziba Mulaheya - BG5405
 Kopalnia Nashkel - poziom III - BG5403
 Kopalnia Nashkel - poziom II - BG5402

@@ -4,7 +4,7 @@
 
 ## Pomocna Dłoń&nbsp;<span class="cb">4</span> { .divider }
 
-[![Pomocna Dłoń](../maps/BG2300.webp){ .center-img width="40%" }](../maps/BG2300.webp)
+![Pomocna Dłoń](../maps/BG2300.webp){ .center-img width="40%" }
 
 Zmęczeni podróżnicy dotarli w końcu do *Pomocnej Dłoni*. Gospoda okazała się w rzeczywistości warownią otoczoną wysokim murem. Wewnątrz znajdowały się zabudowania gospodarcze, świątynia oraz przysadzista wieża, w której wędrowcy mogli znaleźć bezpieczny nocleg i odpocząć od niebezpieczeństw szlaku. Przy bramie strażnicy <span class="mb">1</span> poinformowali nowo przybyłych, że za murami obowiązują dwie proste zasady: należy zachowywać się uprzejmie i nie wszczynać żadnych bójek.
 

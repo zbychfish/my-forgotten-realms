@@ -84,7 +84,13 @@
 |Kylee's Dagger|[Zobacz szczegóły](#q-81)|
 |Confronting Tranzig|[Zobacz szczegóły](#q-82)|
 |The Serpents of Abrathor|[Zobacz szczegóły](#q-83)|
+|Vial of Mysterious Liquid|[Zobacz szczegóły](#q-84)|
 
+
+??? warning "Vial of Mysterious Liquid"
+    - **Zleceniodawca:** Burmistrz Nashkel
+    - SUgeruje aby fiolkę dziwnej substancji znalezioną w kopalni przepadał kowal z Beregost.
+    <div id="q-84"></div>
 
 ??? warning "The Serpents of Abrathor"
     - **Zleceniodawca:** Po przeczytaniu listów w komnacie Mulahey'a
@@ -106,12 +112,15 @@
     - **Zleceniodawca:** Emerson przy wejściu do kopalni
     - Mamy dowiedzieć sie co sie dzieje w kopalni.
     - Dotarliśmy do Mulaheya i wybiliśmy koboldy i wszystkie inne bestoe czychające na górników.
-    - Ruda nie będzie już zatruwana
+    - Ruda nie będzie już zatruwana.
+    - Emerson zarządca kopalni podziekował nam za pomoc. 
     <div id="q-80"></div>
 
-??? warning "The Echoed Cry"
+??? success "The Echoed Cry"
     - **Zleceniodawca:** Płacząca kobieta przy wejściu do kopalni Nashkel
     - Jej mąż kupił miecz aby rozprawić się ze złem w kopalni i nie wrócił.
+    - Miecz męża znależliśmy przy koboldzie na trzecim poziomie kopalni.
+    - Płacząca kobieta okazała się być wdową o czym ją poinformowaliśmy.
     <div id="q-79"></div>
 
 ??? success "Babysitting in Nashkel"

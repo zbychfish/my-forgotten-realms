@@ -8,7 +8,7 @@
 
 ## Nashkel&nbsp;<span class="cb">20</span> { .divider }
 
-[![Nashkel](../maps/BG4800.webp){ .center-img width="40%" }](../maps/BG4800.webp)
+![Nashkel](../maps/BG4800.webp){ .center-img width="40%" }
 
 Dotarcie do *Nashkel* oznaczało wypełnienie ostatniej prośby **Goriona** i celu wyznaczonego przez **Jaheirę** oraz **Khalida** ([Jaheira and Khalid](../other/zadania.md#q11)).
 
@@ -101,7 +101,7 @@ Po zebraniu nowych tropów kompania postanowiła wrócić do *Beregostu* i *Pomo
 
 ## Przełęcz Nashkel&nbsp;<span class="cb">21</span> { .divider }
 
-[![Przełęcz Nashkel](../maps/BG4300.webp){ .center-img width="40%" }](../maps/BG4300.webp)
+![Przełęcz Nashkel](../maps/BG4300.webp){ .center-img width="40%" }
 
 
 W jaskini <span class="mb">5</span> drużyna odnalazła **Boohady’ego Creama**, nazywanego przez miejscowe dzieci *Topniejącym Człowiekiem*. Nieszczęśnik rzeczywiście powoli rozpływał się na oczach przybyszów. Klątwę rzuciła na niego *Madame Potpourri*, przekonana, że z niej szydził. Boohady nie znał sposobu na cofnięcie przemiany ani miejsca pobytu czarownicy. Wiedział jedynie, że kobietę przyciągają jaskrawe kolory, słodycze i hazard. Wszystkie trzy wskazówki prowadziły ku jarmarkowi w Nashkel ([The Melting Man](../other/zadania.md#q62)).
@@ -112,7 +112,7 @@ Drużyna ruszyła następnie do *Świątyni Lathandera*, aby zdać raport z zako
 
 ## Świątynia Lathandera&nbsp;<span class="cb">22</span> { .divider }
 
-[![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }](../maps/BG3400.webp)
+![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }
 
 **Eloran** <span class="mb">2</span> dowiedziała się, że zmarły sam opuścił grób, ponieważ odprawiono nad nim obrządek *Helma*, zamiast ceremonii należnej wyznawcy *Ibrandula*. Kapłanka zapytała Leecha, jak zamierza postępować wobec ludzi wyznających zupełnie odmienne wartości. Młody gnom odparł, że nie zdoła przekonać każdego słowami, ale może własnym przykładem pokazać istnienie innych dróg. **Eloran** uznała, że taka metoda czasem przynosi efekty ([An Errant Funeral](../other/zadania.md#q60)).
 
@@ -120,7 +120,7 @@ Nowe zlecenie było mniej wzniosłe. W domu niedaleko *Płonącego Czarodzieja* 
 
 ## Beregost&nbsp;<span class="cb">23</span> { .divider }
 
-[![Beregost](../maps/BG3300.webp){ .center-img width="40%" }](../maps/BG3300.webp)
+![Beregost](../maps/BG3300.webp){ .center-img width="40%" }
 
 W *Wesołym Żonglerze* <span class="mb">22</span> do drużyny ponownie dołączyła **Imoen**.
 
@@ -134,7 +134,7 @@ W siedzibie *Oka Gorgony* <span class="mb">29</span> drużyna zamknęła kontrak
 
 ## Świątynia Lathandera&nbsp;<span class="cb">24</span> { .divider }
 
-[![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }](../maps/BG3400.webp)
+![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }
 
 Po szybkim rozwiązaniu szczurzego problemu drużyna wróciła do **Eloran** <span class="mb">2</span>. Leech wyjaśnił, że oszczędził szczurołaka, ponieważ przeciwnik nie zasługiwał na śmierć wyłącznie z powodu swojej natury.
 
@@ -144,7 +144,7 @@ Kolejne zlecenie dotyczyło agenta *Zhentarimów* zmierzającego z *Pomocnej Dł
 
 ## Nadbrzeżny Trakt&nbsp;<span class="cb">25</span> { .divider }
 
-[![Nadbrzeżny Trakt](../maps/BG2800.webp){ .center-img width="40%" }](../maps/BG2800.webp)
+![Nadbrzeżny Trakt](../maps/BG2800.webp){ .center-img width="40%" }
 
 Agent nie poruszał się otwartym traktem, lecz ukradkiem przemykał w cieniu drzew (10). Zaatakował Sandrah z zaskoczenia, ale został szybko pokonany ([A Zhent Agent](../other/zadania.md#q74)).
 
@@ -154,7 +154,7 @@ Korzystając z bliskości *Pomocnej Dłoni*, drużyna udała się tam na odpoczy
 
 ## Pomocna Dłoń&nbsp;<span class="cb">26</span> { .divider }
 
-[![Pomocna Dłoń](../maps/BG2300.webp){ .center-img width="40%" }](../maps/BG2300.webp)
+![Pomocna Dłoń](../maps/BG2300.webp){ .center-img width="40%" }
 
 Podczas odpoczynku **Rasaad** opowiedział więcej o przeszłości. Jego matka zmarła przy porodzie, a ojciec samotnie wychowywał jego i brata **Gamaza**. Gdy rosnące długi przerosły możliwości rodziny, ojca skazano na walkę na arenie *Ifrytów*, gdzie zginął ku rozrywce tłumu. Osieroceni bracia przetrwali na ulicach *Calimportu*, żebrząc, usługując i czasem kradnąc. Kiedy **Gamaz** został przyłapany z ręką w sakiewce mnicha *Słonecznej Duszy*, duchowny zamiast wymierzyć karę zabrał obu chłopców do klasztoru. Tam otrzymali schronienie i rozpoczęli naukę sztuk walki oraz tajemnic *Selûne*. Po latach klasztor w *Athkatli* przestał odpowiadać na wiadomości. Przełożeni z *Calimportu* wysłali dziesięciu mnichów, w tym obu braci, aby zbadać sprawę. Na miejscu zastali opuszczoną siedzibę, a mieszkańcy bali się rozmawiać. Po długim śledztwie odkryli, że za zniknięciem wspólnoty mogli stać wyznawcy *Shar*. W zasłyszanych szeptach stale powracało jedno imię: **Alorgoth**. **Rasaad** nie uważał swoich poszukiwań za zemstę. Pragnął odpowiedzi i sprawiedliwości dla zaginionych członków zakonu. Do historii **Gamaza** zamierzał powrócić, gdy będzie gotów opowiedzieć więcej.
 
@@ -172,7 +172,7 @@ Po wygodnym noclegu drużyna postanowiła wrócić do Nashkel i przygotować si�
 
 ## Nashkel&nbsp;<span class="cb">27</span> { .divider }
 
-[![Nashkel](../maps/BG4800.webp){ .center-img width="40%" }](../maps/BG4800.webp)
+![Nashkel](../maps/BG4800.webp){ .center-img width="40%" }
 
 Przy gospodzie <span class="mb">4</span> Leecha niespodziewanie oskarżono o napaść na **Arnima** i zabicie jego rzekomo niegroźnego zwierzątka. Nowobogaccy von **Undenzieh** przyprowadzili żołnierza i zażądali aresztowania winowajcy. **Sandrah** wyjaśniła, że drużyna uratowała chłopca przed młodą wiwerną, która wykluła się z kupionego przez rodzinę jaja. Rodzice nie chcieli słuchać, dopóki kapłanka nie pokazała odciętej głowy stworzenia. Przyciśnięty dowodami **Arnim** przyznał, że skłamał ze strachu przed karą za utratę drogiego pupila. Strażnik odrzucił oskarżenia. Undenzieh'owie bardziej martwili się jednak stratą stworzenia wartego tysiąc sztuk złota niż ocaleniem syna ([Nashkel Monster](../other/zadania.md#q71)).
 
@@ -182,7 +182,7 @@ Mając **Imoen** ponownie w drużynie, kompania udała się na jarmark.
 
 ## Jarmark w Nashkel&nbsp;<span class="cb">28</span> { .divider }
 
-[![Jarmark w Nashkel](../maps/BG4900.webp){ .center-img width="40%" }](../maps/BG4900.webp)
+![Jarmark w Nashkel](../maps/BG4900.webp){ .center-img width="40%" }
 
 **Imoen** szybko ostrzegła **Sandrah**, że przystojny i dobrze wychowany **Henning** pozostaje tylko w jej orbicie zainteresowań. Kapłanka zapewniła, że nie zamierza rywalizować z „*Imoen Wspaniałą*”, zwłaszcza że kupiec od początku zwracał uwagę właśnie na nią. Zwykle pewna siebie dziewczyna natychmiast się speszyła i zaczęła mieć nadzieję na kolejną wizytę w sklepie.
 

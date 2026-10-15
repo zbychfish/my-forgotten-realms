@@ -4,7 +4,7 @@
 
 ## Beregost&nbsp;<span class="cb">5</span> { .divider }
 
-[![Beregost](../maps/BG3300.webp){ .center-img width="40%" }](../maps/BG3300.webp)
+![Beregost](../maps/BG3300.webp){ .center-img width="40%" }
 
 Ukryte przejście <span class="mb">29</span> prowadziło do rozległych podziemi, które niegdyś mogły służyć jako miejskie magazyny. W środku kręciło się mnóstwo ludzi, ale wystarczyło kilka spojrzeń, aby zrozumieć, że nieproszona drużyna nie wzbudza ich zachwytu. Mimo nieufności wszyscy wskazywali drogę w głąb kompleksu, jak gdyby ktoś ważny już na nich czekał.
 

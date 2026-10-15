@@ -6,7 +6,7 @@ Pod opieką mędrca Goriona, wewnątrz uświęconych sal wiedzy nasz bohater sp�
 
 ![Candlekeep](../images/candlekeep.webp){ .center-img width="100%" }
 
-[![Candlekeep](../maps/BG2600.webp){ .center-img width="40%" }](../maps/BG2600.webp)
+![Candlekeep](../maps/BG2600.webp){ .center-img width="40%" }
 
 ## Candlekeep&nbsp;<span class="cb">1</span> { .divider }
 

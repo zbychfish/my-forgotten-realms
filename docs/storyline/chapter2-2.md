@@ -29,7 +29,7 @@ Półork · Czarny strażnik · Neutralny Zły
 
 ## Kopalnia Nashkel&nbsp;<span class="cb">29</span> { .divider }
 
-[![Kopalnia Nashkel](../maps/BG5400.webp){ .center-img width="40%" }](../maps/BG5400.webp)
+![Kopalnia Nashkel](../maps/BG5400.webp){ .center-img width="40%" }
 
 Przed zejściem pod ziemię **Sandrah** wypytała **Branwen** o **Tranziga**. Wojowniczka wyjawiła, że mag należał do organizacji odpowiedzialnej zarówno za napady bandytów, jak i problemy kopalni. Podziemną operacją dowodził półork wspierany przez armię koboldów, które uważały go niemal za boga.
 
@@ -53,7 +53,7 @@ Spojrzenie **Imoen** nie pozostawiało wątpliwości. Z futrem zimowego wilka na
 
 ## Nashkel&nbsp;<span class="cb">30</span> { .divider }
 
-[![Nashkel](../maps/BG4800.webp){ .center-img width="40%" }](../maps/BG4800.webp)
+![Nashkel](../maps/BG4800.webp){ .center-img width="40%" }
 
 Po powrocie do miasta **Imoen** przypomniała o kończących się zapasach i pobiegła do sklepu **Henninga** <span class="mb">25</span>, zanim ktokolwiek zdążył wręczyć jej listę i zachowując się jak kotka w rui. Kupiec z radością przyjął futro, wypłacił pięćset sztuk złota i pochwalił odwagę dziewczyny. Przyznał, że martwi się o niebezpieczeństwa czyhające na nią podczas wypraw, a każde otwarcie drzwi sklepu budzi w nim nadzieję na jej powrót. Zadowolona **Imoen** wygrzebała z plecaka suszone różowe jagody i zaprosiła go na wspólny poczęstunek w słońcu ([Imoen in Love](../other/zadania.md#q77)).
 
@@ -71,7 +71,7 @@ Ponownie kierują się do kopalni tym razem z założeniem zejścia na dół.
 
 ## Kopalnia Nashkel&nbsp;<span class="cb">31</span> { .divider }
 
-[![Kopalnia Nashkel](../maps/BG5400.webp){ .center-img width="40%" }](../maps/BG5400.webp)
+![Kopalnia Nashkel](../maps/BG5400.webp){ .center-img width="40%" }
 
 Płacząca kobieta <span class="mb">7</span> wspomniała o mężu, który kupił niezwykły miecz, a wkrótce potem zaginął. Podobną klingę zdobył **Brage** przed dokonaniem masakry, co trudno było uznać za przypadek ([The Echoed Cry](../other/zadania.md#q79)).
 
@@ -79,7 +79,7 @@ Przy wejściu do kopalni górnicy potwierdzili, że na dolnych poziomach ruda je
 
 ## Kopalnia Nashkel - poziom I&nbsp;<span class="cb">31.I</span> { .divider }
 
-[![Kopalnia Nashkel](../maps/BG5401.webp){ .center-img width="40%" }](../maps/BG5401.webp)
+![Kopalnia Nashkel](../maps/BG5401.webp){ .center-img width="40%" }
 
 Górnik **Gord** <span class="mb">1</span> opowiedział o niewielkich demonach wychodzących ze ścian i poradził porozmawiać z **Ruffiem** <span class="mb">2</span>, który ledwie uszedł z życiem. Jego relacja potwierdziła wcześniejsze informacje: stworzenia zaatakowały robotników, a ratujący go strażnicy zginęli.
 
@@ -95,7 +95,7 @@ Drużyna odnalazła zejście prowadzące niżej <span class="mb">8</span>.
 
 ## Kopalnia Nashkel - poziom II&nbsp;<span class="cb">31.II</span> { .divider }
 
-[![Kopalnia Nashkel](../maps/BG5402.webp){ .center-img width="40%" }](../maps/BG5402.webp)
+![Kopalnia Nashkel](../maps/BG5402.webp){ .center-img width="40%" }
 
 Górnik **Beldin** <span class="mb">1</span> przybiegł w stronę drużyny, ścigany przez koboldy. Stworzenia zostały pokonane, a robotnik ocalał. :material-trending-up: Reputacja +1
 
@@ -111,7 +111,7 @@ Drużyna odnalazła kolejne zejście <span class="mb">3</span>.
 
 ## Kopalnia Nashkel - poziom III&nbsp;<span class="cb">31.III</span> { .divider }
 
-[![Kopalnia Nashkel](../maps/BG5403.webp){ .center-img width="40%" }](../maps/BG5403.webp)
+![Kopalnia Nashkel](../maps/BG5403.webp){ .center-img width="40%" }
 
 Przy zwłokach jednego z górników <span class="mb">1</span> znaleziono pierścień z nefrytem i dedykacją dla **Josepha**. Jego żonie należało przekazać tragiczną wiadomość ([Joseph's Wife](../other/zadania.md#q72)).
 
@@ -127,7 +127,7 @@ Drużyna zeszła jeszcze głębiej <span class="mb">4</span>.
 
 ## Kopalnia Nashkel - poziom IV&nbsp;<span class="cb">31.IV</span> { .divider }
 
-[![Kopalnia Nashkel](../maps/BG5404.webp){ .center-img width="40%" }](../maps/BG5404.webp)
+![Kopalnia Nashkel](../maps/BG5404.webp){ .center-img width="40%" }
 
 Długi tunel doprowadził drużynę do ogromnej pieczary, pośrodku której stała dziwna budowla. Wszystko wskazywało na to, że właśnie tam znajduje się centrum podziemnej operacji <span class="mb">1</span>.
 

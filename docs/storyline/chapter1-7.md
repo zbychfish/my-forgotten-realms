@@ -4,7 +4,7 @@
 
 ## Ustronne Jezioro&nbsp;<span class="cb">16</span> { .divider }
 
-[![Ustronne Jezioro](../maps/BG4200.webp){ .center-img width="40%" }](../maps/BG4200.webp)
+![Ustronne Jezioro](../maps/BG4200.webp){ .center-img width="40%" }
 
 
 Nad *Ustronnym Jeziorem* drużyna nie zaznała długo wyczekiwanego spokoju. Niemal od razu drogę zastąpiła jej banda dowodzona przez **Teyngana** <span class="mb">1</span>. Towarzyszyli mu **Jemby** oraz **Zekar**, wspólnie przekonani, że wędrowcy powinni dobrowolnie rozstać się z kosztownościami. Negocjacje nie trwały długo. Cała trójka szybko utraciła zainteresowanie zarówno cudzym majątkiem, jak i dobrami doczesnymi w ogóle.
@@ -27,7 +27,7 @@ Drużyna miała do zamknięcia kilka spraw, dlatego bez dalszego ociągania rusz
 
 ## Beregost&nbsp;<span class="cb">17</span> { .divider }
 
-[![Beregost](../maps/BG3300.webp){ .center-img width="40%" }](../maps/BG3300.webp)
+![Beregost](../maps/BG3300.webp){ .center-img width="40%" }
 
 Po powrocie do miasta pierwsze kroki skierowali do *Wesołego Żonglera* <span class="mb">22</span>, gdzie odnaleźli **Bjornina**. Wieść o śmierci półogrów dotarła do niego wcześniej niż drużyna, lecz wojownik i tak nie szczędził podziękowań. Okolica stała się bezpieczniejsza, a jego klęska została pomszczona ([Half-Ogres near Beregost](../other/zadania.md#q30)). :material-trending-up: **Reputacja +1**
 
@@ -57,7 +57,7 @@ Po załatwieniu spraw w mieście drużyna skierowała się do *Świątyni Lathan
 
 ## Świątynia Lathandera&nbsp;<span class="cb">18</span> { .divider }
 
-[![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }](../maps/BG3400.webp)
+![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }
 
 Po powrocie do *Świątyni Pieśni Poranka* <span class="mb">2</span> kompania przekazała **Keldathowi Ormlyrowi** święty symbol znaleziony przy zwłokach **Bassilusa**. Kapłan nie krył uznania. Pokonanie tak potężnego sługi **Cyrika** musiało być trudnym zadaniem, a mieszkańcy okolicy długo nie zapomną ludzi, którzy położyli kres jego zbrodniom. **Keldath** wypłacił obiecaną nagrodę, a symbol szalonego mordercy trafił w ręce świątyni. Tym samym jeden z najgroźniejszych problemów nękających okolice *Beregostu* został ostatecznie rozwiązany ([Bassilus Murderer](../other/zadania.md#q24)).
 
@@ -71,7 +71,7 @@ Przed wyruszeniem na południe pozostało jeszcze zabrać z *Pomocnej Dłoni* **
 
 ## Pomocna Dłoń&nbsp;<span class="cb">19</span> { .divider }
 
-[![Pomocna Dłoń](../maps/BG2300.webp){ .center-img width="40%%" }](../maps/BG2300.webp)
+![Pomocna Dłoń](../maps/BG2300.webp){ .center-img width="40%%" }
 
 Po dotarciu do zajazdu <span class="mb">3</span> drużyna udała się na najwyższe piętro. Tam odnalazła **Cartha**, na którego **Liedel** wystawiła kontrakt. Dłużnik błagał o litość, tłumacząc, że naprawdę zamierzał spłacić pożyczone trzysta sztuk złota, lecz tuż przed wyjazdem skusił go zapach maślanego jagnięcia i czosnkowego purée. Opamiętał się dopiero wtedy, gdy na stole pozostało dwanaście pustych talerzy, a w sakiewce ani jedna moneta. Zachwycony jego apetytem kucharz przekonał **Bentleya**, aby pozwolił nieszczęśnikowi pozostać w gospodzie do czasu poprawy sytuacji. Leech rozważył spłatę długu, ale uznał trzysta sztuk złota za cenę stanowczo zbyt wysoką. Przeprosił więc **Cartha**, zaznaczył, że nie ma w tym nic osobistego, i wykonał kontrakt jednym szybkim ruchem. Na *Wybrzeżu Mieczy* można było najwyraźniej stracić życie nie tylko przez magię, bandytów i potwory, lecz również przez nadmierne zamiłowanie do jagnięciny ([Liedel's Bounty: Carth](../other/zadania.md#q40)).:material-trending-down: **Reputacja -1**
 

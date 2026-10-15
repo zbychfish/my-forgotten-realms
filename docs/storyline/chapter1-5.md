@@ -4,7 +4,7 @@
 
 ## Świątynia Lathandera&nbsp;<span class="cb">6</span> { .divider }
 
-[![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }](../maps/BG3400.webp)
+![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }
 
 Drużyna skierowała się prosto do *Świątyni Pieśni Poranka*. W wirydarzu <span class="mb">1</span> spotkała **Rashel**, olśniewającą kapłankę **Lathandera** odzianą w czerwoną suknię. Leech szybko przekonał się jednak, że jej serce należy całkowicie do boga i nawet najbardziej niewinny flirt nie ma większych szans z religijnym oddaniem.
 
@@ -43,7 +43,7 @@ Nad horyzontem pojawiły się pierwsze promienie świtu, dlatego zmęczona kompa
 
 ## Beregost&nbsp;<span class="cb">7</span> { .divider }
 
-[![Beregost](../maps/BG3300.webp){ .center-img width="40%" }](../maps/BG3300.webp)
+![Beregost](../maps/BG3300.webp){ .center-img width="40%" }
 
 W domu wskazanym przez **Eloran** <span class="mb">40</span> drużyna zastała **Malicię** i jej partnera, którzy niedawno przeprowadzili się z *Daggerford*. Poprzedni właściciel budynku zmarł, a jego żona sprzedała posiadłość i zatrzymała się w *Czerwonym Bukiecie*, przygotowując się do wyjazdu do *Wrót Baldura*. Na piętrze pozostawał jednak duch, powtarzający wciąż coś o swoich monetach.
 
@@ -59,7 +59,7 @@ Następnie umieścili spreparowaną wiadomość w beczce za *Płonącym Czarodzi
 
 ## Świątynia Lathandera&nbsp;<span class="cb">8</span> { .divider }
 
-[![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }](../maps/BG3400.webp)
+![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }
 
 Drużyna wróciła do *Świątyni Pieśni Poranka* <span class="mb">2</span>, aby zdać **Eloran** raport z uwolnienia ducha. Kapłanka wynagrodziła kompanię złotem i miksturami, po czym przedstawiła kolejne zadanie ([AN ORDINARY HAUNTING](../other/zadania.md#q47)).
 
@@ -75,7 +75,7 @@ Czekając na zmierzch i możliwość schwytania zdrajcy, kompania wyruszyła na 
 
 ## Nadbrzeżny Trakt&nbsp;<span class="cb">9</span> { .divider }
 
-[![Nadbrzeżny Trakt](../maps/BG2800.webp){ .center-img width="40%" }](../maps/BG2800.webp)
+![Nadbrzeżny Trakt](../maps/BG2800.webp){ .center-img width="40%" }
 
 Za dnia spotkali małego **Jase’a** <span class="mb">7</span>, wystraszonego świadka napadu na karawanę. Nie udało się go uspokoić i chłopiec uciekł, zanim zdołali uzyskać więcej informacji.
 
@@ -92,7 +92,7 @@ Podczas dalszej drogi **Neera** wyznała, że odkąd dołączyła do drużyny, j
 
 ## Wysoki Żywopłot&nbsp;<span class="cb">10</span> { .divider }
 
-[![Wysoki Żywopłot](../maps/BG3200.webp){ .center-img width="40%" }](../maps/BG3200.webp)
+![Wysoki Żywopłot](../maps/BG3200.webp){ .center-img width="40%" }
 
 
 Podczas marszu **Jen’lig** poprosiła o zwykły srebrny naszyjnik znajdujący się w torbie podróżnej. Astralna wojowniczka przekształciła go następnie w magiczną ochronę przeciwko łupieżcom umysłu. W przypadku *githyanki* nawet niewinna biżuteria mogła więc stać się narzędziem do walki ze śmiertelnym wrogiem jej ludu.
@@ -123,7 +123,7 @@ Zbliżała się północ. Nadszedł czas powrotu do *Beregostu* i schwytania zdr
 
 ## Beregost&nbsp;<span class="cb">11</span> { .divider }
 
-[![Beregost](../maps/BG3300.webp){ .center-img width="40%" }](../maps/BG3300.webp)
+![Beregost](../maps/BG3300.webp){ .center-img width="40%" }
 
 Spreparowana wiadomość zniknęła z beczki za *Płonącym Czarodziejem* <span class="mb">41</span>. Drużyna udała się więc do południowej fontanny, gdzie wyznaczono miejsce spotkania <span class="mb">19</span>. W cieniu niedaleko **Magnusa** czekała **Valera**.
 
@@ -143,7 +143,7 @@ Po zamknięciu najpilniejszych spraw w mieście drużyna wyruszyła do *Czerwony
 
 ## Czerwone Jary&nbsp;<span class="cb">12</span> { .divider }
 
-[![Czerwone Jary](../maps/BG3700.webp){ .center-img width="40%" }](../maps/BG3700.webp)
+![Czerwone Jary](../maps/BG3700.webp){ .center-img width="40%" }
 
 Na szlaku spotkali posłańca **Rogera** <span class="mb">1</span>, który nie miał czasu na dłuższą rozmowę. Niezależnie od deszczu, goblinów i innych zagrożeń musiał dostarczyć ważną wiadomość. *Amn* coraz ostrzej reagował na oskarżenia o przygotowywanie inwazji i domagał się od Wielkich Książąt *Wrót Baldura* oficjalnego zadośćuczynienia. Napięcie pomiędzy północą a południem rosło równie szybko jak kryzys żelaza. Nieopodal **Kissiq** <span class="mb">2</span> opowiadał o gadającym kurczaku widzianym w północnej części doliny. Brzmiało to jak kolejna bzdura zasłyszana po kilku kuflach, lecz tym razem historia okazała się prawdziwa.
 

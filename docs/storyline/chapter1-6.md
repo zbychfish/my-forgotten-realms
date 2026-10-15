@@ -4,7 +4,7 @@
 
 ## Wysoki Żywopłot&nbsp;<span class="cb">13</span> { .divider }
 
-[![Wysoki Żywopłot](../maps/BG3200.webp){ .center-img width="40%" }](../maps/BG3200.webp)
+![Wysoki Żywopłot](../maps/BG3200.webp){ .center-img width="40%" }
 
 Po dotarciu do *Wysokiego Żywopłotu* <span class="mb">2</span> drużyna przedstawiła **Thalantyrowi** gadającego kurczaka. Mag natychmiast rozpoznał w nim **Melicampa**, choć stanowczo zaprzeczył, jakoby niefortunny czarodziej nadal był jego uczniem. Okazało się, że młodzieniec nie tyle studiował magię, ile podkradał mistrzowi wiedzę, składniki i magiczne przedmioty, po czym majstrował przy zaklęciach zdecydowanie przekraczających jego umiejętności. Źródłem przemiany były skradzione, przeklęte karwasze. **Melicamp** próbował przyspieszyć ich działanie własnymi modyfikacjami i skończył jako drób. **Thalantyr** nie mógł po prostu odwrócić zaklęcia, ponieważ klątwa miała zbyt niestabilną naturę. Do rytuału potrzebował czaszki nieumarłego stworzenia, która miała dostarczyć niezbędnego pierwiastka śmierci. Uprzedził przy tym uczciwie, że eksperyment może uratować ucznia albo zabić wszystkich uczestników. Magia najwyraźniej nie uznawała ani gwarancji, ani zwrotów. 
 
@@ -45,7 +45,7 @@ Nadszedł czas, aby opuścić *Wysoki Żywopłot* i ruszyć na południe od *Ber
 
 ## Dzicze Beregostu&nbsp;<span class="cb">14</span> { .divider }
 
-[![Dzicze Beregostu](../maps/BG3800.webp){ .center-img width="40%" }](../maps/BG3800.webp)
+![Dzicze Beregostu](../maps/BG3800.webp){ .center-img width="40%" }
 
 Drużyna rszyła na południe, lecz spokojny marsz nie trwał długo. Na szlaku drogę zastąpiły dwa ogrillony <span class="mb">1</span>. Przy ich ciałach znaleziono list od **Roe**, męża **Mirianne**. Z treści wynikało, że mężczyzna szczęśliwie dotarł do *Amnu*, czego nie można było powiedzieć o posłańcu niosącym wiadomość. List należało zwrócić zatroskanej żonie podczas kolejnej wizyty w *Beregostcie* ([Mirriane's Husband](../other/zadania.md#q32)).
 
@@ -83,7 +83,7 @@ Rankiem drużyna ruszyła dalej i wkrótce dotarła do *Przełęczy Nashkel*.
 
 ## Przełęcz Nashkel&nbsp;<span class="cb">15</span> { .divider }
 
-[![Przełęcz Nashkel](../maps/BG4300.webp){ .center-img width="40%" }](../maps/BG4300.webp)
+![Przełęcz Nashkel](../maps/BG4300.webp){ .center-img width="40%" }
 
 Na polanie <span class="mb">1</span> drużyna odnalazła rozkładające się ciała podróżnych. Wśród ich rzeczy znajdował się naszyjnik z wygrawerowanym nazwiskiem **Colquette**. Najwyraźniej los zaginionej pary, o którą martwił się ojciec i mąż w *Beregostcie*, nie pozostawiał już wiele miejsca na nadzieję. Rodzinną pamiątkę należało zwrócić w zatroskane ręce ([Colquette Family](../other/zadania.md#q34)).
 

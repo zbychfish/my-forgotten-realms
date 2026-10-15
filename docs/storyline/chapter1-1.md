@@ -22,7 +22,7 @@ Bezksiężycowa noc ocaliła go przed mordercami, lecz nie przyniosła ukojenia.
 
 ---
 
-[![Lwi Trakt](../maps/BG2700.webp){ .center-img width="40%" }](../maps/BG2700.webp)
+![Lwi Trakt](../maps/BG2700.webp){ .center-img width="40%" }
 
 **Leech** obudził się ze świadomością, że wydarzenia minionej nocy nie były jedynie okropną marą senną. Zasadzka, walka i śmierć **Goriona** wydarzyły się naprawdę. Wciąż miał przed oczami opiekuna powalonego mieczem czarnego rycerza. Nawet potężna magia starego maga nie zdołała powstrzymać napastników.
 
@@ -108,7 +108,7 @@ Nie zwlekając dłużej, drużyna ruszyła zgodnie z drogowskazami na północ, 
 
 ## Nadbrzeżny Trakt&nbsp;<span class="cb">3</span> { .divider }
 
-[![Nadbrzeżny Trakt](../maps/BG2800.webp){ .center-img width="40%" }](../maps/BG2800.webp)
+![Nadbrzeżny Trakt](../maps/BG2800.webp){ .center-img width="40%" }
 
 Podróżnicy dotarli na Nadbrzeżny Trakt. Niedługo później spotkali starego człowieka odzianego w czerwoną tunikę i spiczasty kapelusz <span class="mb">1</span>. Wygląd nieznajomego oraz jego sposób bycia wskazywały, że mają przed sobą maga. Starzec nawiązał krótką rozmowę z **Sandrah**. **Leech** odniósł wrażenie, że oboje już wcześniej się spotkali, choć żadne z nich nie powiedziało tego wprost. Nieznajomy życzył drużynie powodzenia w podróży, lecz wykazywał przy tym niepokojąco dobrą znajomość jej członków. Znał nawet imię **Imoen**. Pomimo tego młody gnom nie wyczuwał z jego strony zagrożenia. Przeczucie podpowiadało mu jednak, że nie było to ich ostatnie spotkanie.
 

@@ -4,7 +4,7 @@
 
 ## Beregost&nbsp;<span class="cb">5</span> { .divider }
 
-[![Beregost](../maps/BG3300.webp){ .center-img width="40%" }](../maps/BG3300.webp)
+![Beregost](../maps/BG3300.webp){ .center-img width="40%" }
 
 
 Po dotarciu do *Beregostu* **Imoen** natychmiast uznała, że najważniejszym punktem dalszej wyprawy powinny być porządne zakupy. Najpierw zaproponowała znalezienie pokoi w gospodzie *Feldeposta*, ponieważ od dawna marzyła o gorącej kąpieli. Chwilę później zaczęła wyliczać niezbędne zapasy: nową patelnię w miejsce tej zniszczonej przez Leecha, koce, mydło, oliwę do latarni, zapasowe śledzie do namiotów, nóż myśliwski oraz ubrania.
