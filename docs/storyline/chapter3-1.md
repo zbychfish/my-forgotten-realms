@@ -44,7 +44,7 @@ Płacząca kobieta (7) rozpoznała odnalezioną katanę jako broń swojego męż
 
 Wracamy do Nashkel.
 
-## Nashkel&nbsp;<span class="cb">20</span> { .divider }
+## Nashkel&nbsp;<span class="cb">34</span> { .divider }
 
 ![Nashkel](../maps/BG4800.webp){ .center-img width="40%" }
 
