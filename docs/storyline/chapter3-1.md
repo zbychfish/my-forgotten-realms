@@ -1,4 +1,4 @@
-# Dostać Tazoka
+# UNDER CONSTRUCTION
 
 ![](../images/chap3.webp){ .center-img width="90%" }
 
@@ -8,4 +8,9 @@
 
 [![Dolina grobowców](../maps/BG5000.webp){ .center-img width="40%" }](../maps/BG5000.webp)
 
+Wyjście okazuje się ukrytym korytarzem z przejściem do Doliny Grobów (1).
 
+Przy północnym wzgórzu spotykamy komando (2) amazonek złożone z Lamalhy, Zeeli, Telki, Elki, Natalka i Maneiry. Nie chciały przejść obok więc zostaną tu na zawsze. Przy sobie miały sporo sprzętu i wyciąg z Aka.
+
+
+Bestiariusz: olbrzymi wąż
