@@ -1,0 +1,248 @@
+/* GLightbox - przycisk zamknięcia zawsze widoczny (Material z-index fix) */
+.glightbox-clean .gclose {
+    position: fixed !important;
+    top: 15px !important;
+    right: 15px !important;
+    opacity: 0.85 !important;
+    z-index: 999999 !important;
+}
+
+/* ===== DataTables - dopasowanie do Material ===== */
+
+/* Cała kontrolka */
+div.dt-container {
+    font-size: 0.70rem;
+}
+
+/* Nagłówki */
+table.dataTable thead th {
+    font-size: 0.7rem;
+    font-weight: 700;
+}
+
+/* Dane */
+table.dataTable tbody td {
+    font-size: 0.7rem;
+}
+
+/* Pole wyszukiwania */
+div.dt-container .dt-search input {
+    background-color: #1e2233;
+    color: white;
+    border: 1px solid #444;
+    border-radius: 6px;
+}
+
+/* Lista "entries per page" */
+div.dt-container .dt-length select {
+    background-color: #1e2233;
+    color: white;
+    border: 1px solid #444;
+    border-radius: 6px;
+}
+
+/* Hover wiersza */
+table.dataTable tbody tr:hover {
+    background-color: rgba(123, 87, 255, 0.10);
+}
+
+/* Aktywna strona */
+div.dt-container .dt-paging .dt-paging-button.current {
+    background: #7c4dff !important;
+    color: white !important;
+    border: none !important;
+}
+
+.center-txt {
+    text-align: center;
+}
+
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mb {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.4em;
+    height: 1.4em;
+    font-size: 0.85em;
+    font-weight: bold;
+    color: var(--md-typeset-color);
+    background-color: var(--md-code-bg-color);
+    border: 1px solid var(--md-default-fg-color--light);
+    border-radius: 50%;
+}
+
+
+/* Prostokątny znacznik lokacji dla wartości 3-cyfrowych (np. 100+) */
+.cb {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2.2em;
+    height: 1.4em;
+    padding: 0 0.35em;
+    box-sizing: border-box;
+    font-size: 0.85em;
+    font-weight: bold;
+    color: var(--md-typeset-color);
+    background-color: var(--md-code-bg-color);
+    border: 1px solid var(--md-default-fg-color--light);
+    border-radius: 0.4em;
+}
+
+.divider {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.divider::before,
+.divider::after {
+    content: '';
+    flex: 1;
+    border-bottom: 1px solid var(--md-default-fg-color--lighter);
+}
+
+.divider:not(:empty)::before {
+    margin-right: 1rem;
+}
+
+.divider:not(:empty)::after {
+    margin-left: 1rem;
+}
+
+
+/* ===== Górny pasek - przezroczysty z kreską ===== */
+.md-header {
+    background-color: var(--md-default-bg-color);
+    box-shadow: none;
+    border-bottom: 1px solid var(--md-default-fg-color--lighter);
+}
+
+/* ===== Menu boczne - wyraźna hierarchia ===== */
+
+/* Czcionka fantasy (Almendra) tylko dla nazwy strony */
+.md-header__title,
+.md-nav--primary > .md-nav__title {
+    font-family: 'Almendra', serif;
+    font-size: 1rem;
+    letter-spacing: 0.05em;
+}
+
+/* Poziom 1: Home / Podróż / Informacje */
+.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
+    margin-top: 1.2rem;
+    padding-bottom: 0.3rem;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--md-accent-fg-color);
+    border-bottom: 1px solid var(--md-default-fg-color--lighter);
+}
+
+/* Elementy wewnątrz sekcji: linia prowadząca po lewej */
+.md-nav--primary > .md-nav__list > .md-nav__item--section > .md-nav > .md-nav__list {
+    margin-left: 0.2rem;
+    padding-left: 0.6rem;
+    border-left: 2px solid var(--md-default-fg-color--lighter);
+}
+
+/* Poziom 2: Rozdział 1 / Rozdział 2 */
+.md-nav--primary .md-nav__item--section .md-nav__item--nested > .md-nav__link {
+    font-weight: 600;
+    color: var(--md-default-fg-color);
+}
+
+/* Poziom 3: strony w rozdziałach - kolejna linia prowadząca */
+.md-nav--primary .md-nav__item--section .md-nav__item--nested > .md-nav > .md-nav__list {
+    margin-left: 0.2rem;
+    padding-left: 0.6rem;
+    border-left: 1px solid var(--md-default-fg-color--lightest);
+}
+
+/* Tytuł rozdziału (H1 bezpośrednio w treści, bez kart postaci) - Almendra */
+.md-typeset > h1 {
+    font-family: 'Almendra', serif;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+}
+
+/* Divider jako H2 (## Tytuł { .divider }) - reset stylu nagłówka Material, wygląd jak dawny <div> */
+.md-typeset h2.divider {
+    font-size: 1em;
+    font-weight: 400;
+    line-height: inherit;
+    letter-spacing: normal;
+    color: var(--md-typeset-color);
+    margin: 2rem 0;
+}
+
+/* ===== Ramka snu / wizji ===== */
+.dream-box {
+    margin: 2rem auto;
+    max-width: 65%;
+    border: 1px solid var(--md-default-fg-color--lighter);
+    border-radius: 0.4rem;
+    overflow: hidden;
+    background-color: var(--md-code-bg-color);
+}
+
+.dream-box img {
+    display: block;
+    width: 100%;
+    margin: 0;
+}
+
+.dream-text {
+    margin: 0;
+    padding: 1rem 1.2rem;
+    font-style: italic;
+    color: var(--md-default-fg-color--light);
+    line-height: 1.7;
+}
+
+/* ===== Prawe menu (spis treści) ===== */
+
+/* Tytuł spisu - Almendra, jak nazwa strony */
+.md-nav--secondary > .md-nav__title {
+    font-family: 'Almendra', serif;
+    font-size: 1rem;
+    letter-spacing: 0.05em;
+}
+
+/* Linia prowadząca po lewej */
+.md-nav--secondary > .md-nav__list {
+    padding-left: 0.6rem;
+    border-left: 1px solid var(--md-default-fg-color--lightest);
+}
+
+/* Aktywny wpis: kolor akcentowy + pionowa kreska przy linii prowadzącej */
+.md-nav--secondary .md-nav__link {
+    position: relative;
+}
+
+.md-nav--secondary .md-nav__link--active {
+    color: var(--md-accent-fg-color);
+    font-weight: 600;
+}
+
+.md-nav--secondary .md-nav__link--active::before {
+    content: '';
+    position: absolute;
+    left: calc(-0.6rem - 1px);
+    top: 0;
+    bottom: 0;
+    border-left: 2px solid var(--md-accent-fg-color);
+}
+
+/* Kolor linków = kolor akcentowy (amber), jak HOME w menu. Nadpisuje fiolet z palety deep-purple */
+[data-md-color-scheme=slate][data-md-color-primary=deep-purple] {
+    --md-typeset-a-color: var(--md-accent-fg-color);
+}
