@@ -85,7 +85,12 @@
 |Confronting Tranzig|[Zobacz szczegóły](#q-82)|
 |The Serpents of Abrathor|[Zobacz szczegóły](#q-83)|
 |Vial of Mysterious Liquid|[Zobacz szczegóły](#q-84)|
+|A Warm Place for Noober|[Zobacz szczegóły](#q-85)|
 
+??? warning "A Warm Place for Noober"
+    - **Zleceniodawca:** Noober w Nashkel
+    - Gaduła Noober stracił głos z powodu przeziębienia. Trzeba mu znaleźć ciepły kąt.
+    <div id="q-85"></div>
 
 ??? warning "Vial of Mysterious Liquid"
     - **Zleceniodawca:** Burmistrz Nashkel

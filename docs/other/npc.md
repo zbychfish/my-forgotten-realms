@@ -262,6 +262,7 @@
 |Maneira|BG5000|:material-close-circle:|🪦 - amazonka|
 |Hentold|BG5000|:material-check-circle:|ze zwróconym sztyletem|
 |Narcillius Harwilliger Neen|BG5000|:material-close-circle:|🪦 - zły eksperymentator|
+|Nimbul|BG4800|:material-close-circle:|🪦 - słaby kontraktor|
 
 
 

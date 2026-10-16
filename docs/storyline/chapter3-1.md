@@ -51,3 +51,9 @@ Wracamy do Nashkel.
 Przekazaliśmy Oublekowi (7) list znaleziony u Mulaheya o spisku przeciwko Brage’owi, ale nie przekonaliśmy go bo mimo wszystko dokonał przestępstwa.
 
 Zostałem hojnie nagrodzony za mój wysiłek: 900 sztuk złota od Berruna Ghastkilla (6) i podziękowania od całego miasta. Żelazo będzie teraz powoli wracać na wybrzeże, chociaż jego transport jest nadal zdradzieckim przedsięwzięciem. Trzeba będzie zająć się bandytami na drogach. Zasugerował także rozmowę z Taerom’em Fuirum’em w Beregoście o fiolce z płynem zakażającym złoża (Vial of Mysterious Liquid 84) Reputacja +1.
+
+Henning zachwycił się Imoen w różowym futrze, które jego zdaniem podkreślało jej naturalny urok. Dziewczyna przyznała, że prezent musiał kosztować fortunę, lecz zapewniła, że był wart każdej monety. Następnie przedstawiła kupcowi pomysły na rozwój sklepu, opracowane wspólnie z Sandrah. Henning zauważył, że znacznie łatwiej byłoby je realizować, gdyby Imoen została przy nim w Nashkel. Dziewczyna przypomniała jednak, że nie zamierza porzucać życia poszukiwaczki przygód i zostać sprzedawczynią. Kupiec zapewnił, że nie chce zamykać jej za ladą, lecz po prostu marzy o ich wspólnym domu. Imoen przypadkiem zdradziła, że sklep zaczyna uważać za ich własne gniazdko. Szybko jednak przypomniała sobie o zobowiązaniach wobec Leecha i drużyny. Henning nie próbował jej zatrzymywać. Poprosił jedynie, aby częściej wracała do Nashkel. Leech przyznał, że obecne zadanie nie pozwala im osiąść w jednym miejscu, lecz obiecał odwiedzać miasto zawsze, gdy ich droga poprowadzi w pobliżu.
+
+Przed gospodą (27) kolejny najemnik – Nimbul – próbuje skutecznie skracić swój żywot. Przy ciele dowód, że Tazok stoi przynajmniej za częścią tych zleceń.
+
+Znowu spotykamy Noobera (28) ale gaduła zamilkł ponieważ złapał przeziębienie, trzeba mu znaleźć ciepły kąt (A Warm Place for Noober 85).
