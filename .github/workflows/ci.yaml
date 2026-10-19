@@ -21,6 +21,4 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - run: |
-          mkdocs gh-deploy --force
-          python -m pip show mkdocs mkdocs-material mkdocs-glightbox selectolax
+      - run: mkdocs gh-deploy --force
