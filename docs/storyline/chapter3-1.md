@@ -260,6 +260,9 @@ Bestiariusz: niedźwiedź jaskiniowy, niedżwiedź brązowy, zdziczały  pies, f
 
 ![Nashkel](../maps/BG4800.webp){ .center-img width="40%" }
 
+[![Nashkel](../maps/BG4800.webp){ .center-img width="40%" }](../maps/BG4800.webp)
+
+
 W świątyni (19) Nalin próbował przekonać Brage’a, że dokonane zbrodnie nie były wyłącznie wynikiem jego własnej woli. Kapitan pozostawał jednak przytłoczony śmiercią rodziny i pragnął oddać się w ręce straży, aby ponieść karę. Kapłan ostrzegł, że przekazanie go garnizonowi doprowadzi jedynie do kolejnej niepotrzebnej śmierci. Zamiast tego zaoferował mu schronienie oraz możliwość odpokutowania win w świątyni Helma. Za sprowadzenie zagubionego dowódcy wypłacił drużynie nagrodę większą od tej wyznaczonej przez Oubleka (The Tale of Captain Brage 63).
 
 Nalin poprosił następnie o poinformowanie Oubleka, że Brage dobrowolnie powrócił i trafił pod opiekę kapłanów. Wszystko wskazywało na udział złowrogiej magii, dlatego nie należało kończyć sprawy egzekucją, zanim nie zostanie poznana prawda (Captain Brage's Guilt 66).
