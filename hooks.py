@@ -25,4 +25,8 @@ def on_page_content(html, page, config, files):
     if _count(page.toc) < 2:
         page.toc.items.clear()
 
+    # Tabela ksiąg: dodaj id="books-table" do pierwszej tabeli na stronie books
+    if page.file.src_path in ("other/books.md", "other\\books.md") or page.file.src_path.endswith("books.md"):
+        html = html.replace("<table>", '<table id="books-table">', 1)
+
     return html

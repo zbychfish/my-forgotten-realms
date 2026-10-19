@@ -263,9 +263,53 @@
 |Hentold|BG5000|:material-check-circle:|ze zwróconym sztyletem|
 |Narcillius Harwilliger Neen|BG5000|:material-close-circle:|🪦 - zły eksperymentator|
 |Nimbul|BG4800|:material-close-circle:|🪦 - słaby kontraktor|
+|Chloe|BG3300|:material-check-circle:|posłanka od oficer Vai|
+|oficer Vai|BG3304|:material-check-circle:|zbiera skalpy, pardon w tej wersji naszyjniki zebrane zabitym bandytom|
+|Spec|BG3304|:material-check-circle:|po pijaku dochodzi prawdy|
+|piekarz Ken|BG3304|:material-check-circle:|po pijaku dochodzi fałszu|
+|Landrel|BG3300|:material-check-circle:|majordomus Elminstera|
+|Rithelm|BG3401|:material-close-circle:|🪦 - herszt nie zbyt długo dającej się we znaki bandy|
+|Elys Horne|BG3401|:material-close-circle:|🪦 - członkini bandy Rithelma|
+|Wynna|BG3401|:material-close-circle:|🪦 - członkini bandy Rithelma|
+|Nichye|BG3401|:material-close-circle:|🪦 - członkini bandy Rithelma|
+|Andoc|BG3401|:material-close-circle:|🪦 - członek bandy Rithelma|
+|Kherk Snotpaw|BG3401|:material-close-circle:|🪦 - członek bandy Rithelma|
+|Elenair|BG3300|:material-check-circle:|jedyna ocalała z karawany|
+|ghul Korax|BG3500|:material-check-circle:|🪦 - "przyjazny" ghul, poległ w walce z bazyliszkami|
+|Mutamin|BG3500|:material-close-circle:|🪦 - ten co na smyczy bazyliszki wodził|
+|Kirian|BG3500|:material-close-circle:|🪦 - chwalipięta z Waterdeep. teraz już martwy|
+|Peter|BG3500|:material-close-circle:|🪦 - chwalipięta z Waterdeep. teraz już martwy|
+|Baerin|BG3500|:material-close-circle:|🪦 - chwalipięta z Waterdeep, teraz już martwy|
+|Lindin|BG3500|:material-close-circle:|🪦 - chwalipięta z Waterdeep, teraz już martwy|
+|Inoshishi of Dojyui|BG2300|:material-check-circle:|szuka zaginionej katany|
+|Pilar|BG2300|:material-check-circle:|co bez piwa nie pogada|
+|Gael|BG3500|:material-close-circle:|🪦 - handlarz niewolnikami|
+|Scodd|BG3500|:material-close-circle:|🪦 - handlarz niewolnikami|
+|Mazuri|BG3500|:material-close-circle:|🪦 - handlarz niewolnikami|
+|Siene|BG3000|:material-check-circle:|uwolniona elka|
+|Diala|BG3000|:material-check-circle:|uwolniona elka|
+|Minuwiel|BG3000|:material-check-circle:|uwolniona elka|
+|Tarash|BG3300|:material-close-circle:|🪦 - wysłannik Weży Abbathora do Mulaheya|
+|Bashrika Sparklehammer|BG2800|:material-check-circle:|🪦 - śledczy szukający śladów Węży Abbathora|
+|Mirjala|BG2800|:material-check-circle:|🪦 - śledcza ginie w zasadzce razem z Bashrikiem|
+|Draglon|BG2800|:material-close-circle:|egzekutor Węży Abbathora|
+|Necardian|BG2800|:material-close-circle:|🪦 - komando lider z kontraktem na głowę Leecha|
+|Phallen Nightsbane|BG2800|:material-close-circle:|🪦 - członek komanda Necardiana|
+|Malious|BG2800|:material-close-circle:|🪦 - członek komanda Necardiana|
+|Deke|BG2800|:material-close-circle:|🪦 - bandyta co zaatakował drużynę bez przygotowania ale zdradził nam położenie obozu Tazoka|
+|Malious|BG2800|:material-close-circle:|🪦 - członek komanda Necardiana|
+|Vaxffee Chciwy|BG2800|:material-close-circle:|🪦 - złodziej amuletu Inoshishiego|
+|Perthag|BG3700|:material-close-circle:|🪦 - przywódca grupy hobgoblinów z Czerwonych Wód|
+|Ba'ruk|BG4100|:material-close-circle:|🪦 - co koboldów na śmierć przywiódł|
+|Charleston Nib|BG4100|:material-check-circle:|archeolog|
+|Galor|BG4100|:material-check-circle:|zdradziecka szuja co chce tylko grobowce obrabować|
+|Shandraha|BG4100|:material-check-circle:|nieszkodliwa borsukołaczka|
+|Laryssa|BG4100|:material-check-circle:|kuzynka Brage'a|
+|Brage|BG4100|:material-check-circle:|co przeklęty miecz w swe ręce wziął|
 
-
-
+Starożytne Ruiny - BG4100
+Las Pająków - BG3000
+Równina Ostrych Kłów - BG3500
 Dolina Grobowców - BG5000
 Kopalnia Nashkel - siedziba Mulaheya - BG5405
 Kopalnia Nashkel - poziom III - BG5403
@@ -323,6 +367,7 @@ Candlekeep barak wojskowy - BG2628
 Candlekeep koszary - BG2618
 Candlekeep karczma - BG2616
 Candlekeep - BG2600
+
 
 
 

@@ -83,23 +83,70 @@
 |Investigating the Nashkel Mines|[Zobacz szczegóły](#q-80)|
 |Kylee's Dagger|[Zobacz szczegóły](#q-81)|
 |Confronting Tranzig|[Zobacz szczegóły](#q-82)|
-|The Serpents of Abrathor|[Zobacz szczegóły](#q-83)|
+|The Serpents of Abbathor|[Zobacz szczegóły](#q-83)|
 |Vial of Mysterious Liquid|[Zobacz szczegóły](#q-84)|
 |A Warm Place for Noober|[Zobacz szczegóły](#q-85)|
+|Vai's Bounty Upon Bandits|[Zobacz szczegóły](#q-86)|
+|Black Hearts - The Huntress|[Zobacz szczegóły](#q-87)|
+|Elminster's Daughter|[Zobacz szczegóły](#q-88)|
+|Restoring Saiai no Hito|[Zobacz szczegóły](#q-89)|
+|Warded Dungeon Under Firewine Bridge|[Zobacz szczegóły](#q-90)|
+|The Kidnapping of Henning|[Zobacz szczegóły](#q-91)|
 
-??? warning "A Warm Place for Noober"
+??? warning "The Kidnapping of Henning"
+    - **Zleceniodawca:** Po rozmowie Berrunem Ghastkillem n atemat porwania Henninga.
+    - Musimy podążyć śladami orków.
+    <div id="q-90"></div>
+
+??? warning "Warded Dungeon Under Firewine Bridge"
+    - **Zleceniodawca:** Charleston Nib w starożytnych ruinach.
+    - Dał nam zwój otwierający przejście do kolejnych ruin, które chce zbadac o ile wyczyścimy je ze zła wszlekiego.
+    - Ruiny znajdują się przy moście Firewine.
+    <div id="q-90"></div>
+
+??? warning "Restoring Saiai no Hito"
+    - **Zleceniodawca:** Ishoshishi w Pomocnj Dłoni.
+    - Poszukuje katany i chce abyśmy mu pomogli.
+    - Mogłby ją zlokalizować ale ukradziono mu amulet, ktory trzeba odnaleźć.
+    - Odnaleźliśmy amulet i trzeba nam wrocić do właściciela.
+    <div id="q-89"></div>
+
+??? success "Elminster's Daughter"
+    - **Zleceniodawca:** Landrel na ulicach Beregost
+    - Elminster pilnie chce nas widzieć w Pomocnej Dłoni.
+    - Co czynimy niezwłocznie
+    <div id="q-88"></div>
+
+??? warning "Black Hearts - The Huntress"
+    - **Zleceniodawca:** Illasera Szybka w karczmie u Feldeposta
+    - Mamy zająć się ferajną niejakiego Rithelma.
+    - Odnajdujemy bandę w westybulu przy światyni Lathandera i się z nią rozprawiamy.
+    - Otrzymujemy kolejne zadanie tym razem chodzi o bandę hobgoblinów.
+    <div id="q-87"></div>
+
+??? warning "Vai's Bounty Upon Bandits"
+    - **Zleceniodawca:** Chloe przy kużni w Beregoście
+    - Chce sie z nami pilnie widzieć w Wesołym Żonglerze.
+    <div id="q-86"></div>
+
+??? success "A Warm Place for Noober"
     - **Zleceniodawca:** Noober w Nashkel
     - Gaduła Noober stracił głos z powodu przeziębienia. Trzeba mu znaleźć ciepły kąt.
+    - Wdowa po Josephie przyjeła go na czas kuracji.
+    - Gdy ich znowu odwiedziliśmy, Noober był zdrowy i na stałe zamieszkam w tym domu.
     <div id="q-85"></div>
 
 ??? warning "Vial of Mysterious Liquid"
     - **Zleceniodawca:** Burmistrz Nashkel
     - SUgeruje aby fiolkę dziwnej substancji znalezioną w kopalni przepadał kowal z Beregost.
+    - Taerom w kużni w Beregost zabrał fiolkę i ma przekazać ją komuś do analizy.
     <div id="q-84"></div>
 
-??? warning "The Serpents of Abrathor"
+??? warning "The Serpents of Abbathor"
     - **Zleceniodawca:** Po przeczytaniu listów w komnacie Mulahey'a
     - Mamy przyjrzeć się tajemniczej organizacji ,która chciała współpracować z naszymi wrogami. Powinniśmy sie natknąć na ich ślad w Beregost.
+    - Spotkaliśmy się z Tarashem w Beregoście i przy nim zmależliśmy informacje o planowanym ataku.
+    - Nie udało nam się powstrzymać zasadzki na dwóch śledczych ale kolejny trop prowadzi do Podpiwnicza we Wrotach Baldura. Musimy szukać tam niejakiego Draglona.
     <div id="q-83"></div>
 
 ??? warning "Confronting Tranzig"
@@ -134,12 +181,14 @@
     - Przeżyliśmy koszmar.
     <div id="q-78"></div>
 
-??? warning "Imoen in Love"
+??? success "Imoen in Love"
     - **Zleceniodawca:** Po spotkani Henninga w sklepie Nashkel
     - Imoen chce bliżej poznać Henninga. Szuka pretekstu do powrotu do Nashkel.
     - I znalazła gdy ubiliśmy zimowego wilka.
     - Z futra Henning zrobił dla niej wspaniałej futro, chroniące ją przez czarami i mieczem.
     - Imoen jest zakochana.
+    - Dowiadujemy się o ataku na Nashkel. Treba sprawdzić co z Henningiem.
+    - Po dowiedzeniu się, że Henning został uprowadzony, quest znika z listy.
     <div id="q-77"></div>
 
 ??? success "Carnival and the Missing Brother"
@@ -167,10 +216,11 @@
     - Eloran jest zadowolona z wykonanego szybko zadania.
     <div id="q-73"></div>
 
-??? warning "Joseph's Wife"
+??? success "Joseph's Wife"
     - **Zleceniodawca:** Żona górnika w domu na zachodzie Nashkel
     - Prosi o wieści o mężu, któy jest w kopalni, nosi nefrytowy pierścień.
     - Ciało i pierścień Josepha znaleźliśmy przy wejściu na trzeci poziom kopalni Nashkel.
+    - Oddaliśmy pierścień, młodej wdowie.
     <div id="q-72"></div>
 
 ??? success "Nashkel Monster"
@@ -206,6 +256,9 @@
     - **Zleceniodawca:** Jeden z amnijskich żołnierzy w garnizonie w Nashkel
     - Dobrze by było zrozumieć co kryje się dokłądnie za zniknięciem kapitana i śmiercią jego rodziny.
     - Hick wspomniał coś o jakimś mieczu.
+    - Brage jest w kaplicy a Nalin prosi o przeprowadzenie śledztwa mającego wykryć czy za szaleństwem kapitana nie kryje sie jakaś intryga.
+    - Oublek nie jest zadowolony ze kapłani chronią Brage'a i liczy na właściwe potraktowanie mordercy.
+    - Nalin potwierdził, że miecz, który dostał Brage'a jest przeklęty i porposił o kontynuacje śledztwa.
     <div id="q-66"></div>
 
 ??? success "Prism the Sculptor"
@@ -221,18 +274,23 @@
     - Należy oszukać bądz nie Oubleka.
     <div id="q-64"></div>
 
-??? warning "The Tale of Captain Brage"
+??? success "The Tale of Captain Brage"
     - **Zleceniodawca:** W trakcie rozmów z mieszkańcami Nashkel.
-    - Zniknął kapitan Stracy - Brage. W jego domu znaleziono zmasakrowaną rodzinę. Jets on podejrzewany o tą masakrę.
+    - Zniknął kapitan Stracy - Brage. W jego domu znaleziono zmasakrowaną rodzinę. Jest on podejrzewany o tą masakrę.
+    - Dotarliśmy do niego przy szczątkach karawany koło wykopalisk w rejonie Starozytnych Ruin.
+    - Chwilowo odzyskał poczytalność i razem z nami wrócił do świątyni Helma w Nashkel.
+    - Nalin, kapłan podziekował za pomoc i sprowadzenie go pod jego opiekę.
+    - Jego szaleństwo związane było z przeklętym mieczem.
     <div id="q-63"></div>
 
-??? warning "The Melting Man"
+??? success "The Melting Man"
     - **Zleceniodawca:** Brat w Nashkel.
     - Podobno w jaskini na Przełęczy Nashkel ukrywa się "topniejący" człowiek.
     - W jaskini na południu Przełęczy Nashkel spotykamy pokaranego klątwą Boohady Creama i postanawiamy mu pomóc.
     - Musimy znaleźć więdźmę, która rzuciła na niego czar.
     - Klątwodawcą okazała się madame Potpouri, która znależliśmy w jednym z namiotów na jarmarku w Nashkel.
     - Kupiliśmy od niej antidotum.
+    - Boohady Cream nie skorzystał z antidotum ale podziekował nam za pomoc.
     <div id="q-62"></div>
 
 ??? warning "Ice and Ore"
@@ -240,7 +298,7 @@
     - Kull poszukuje kuli magicznego lodu.
     <div id="q-61"></div>
 
-??? sucess "An Errant Funeral"
+??? success "An Errant Funeral"
     - **Zleceniodawca:** Eloran w Świątyni Lathandera.
     - W Nashkel zniknęły zwłoki, podobno samodzielnie. Trzeba wyjaśnić sprawę.
     - Okazało sie że pochowany pragnął pochówku zgodnego ze swoją wiarą i wstał ze zmarłych aby to uzyskać.
@@ -248,9 +306,10 @@
     - Eloran była zadowolona z wykonania zadania.
     <div id="q-60"></div>
 
-??? warning "A New Best Friend for Ugh"
+??? success "A New Best Friend for Ugh"
     - **Zleceniodawca:** Po zwróceniu królika Kessie w Dziczy Beregostu.
     - Ojciec Kessy sprzedaje króliki na jarmarku w Nashkel. Może zakupimy jednego dla Ugh'a.
+    - Przekazujemy królika Ugh'owi.
     <div id="q-59"></div>
 
 ??? success "The Quest for Jumper"
@@ -294,6 +353,7 @@
     - **Zleceniodawca:** Aiwell na schodach siedziby maga w Wysokim Żywopłocie.
     - Mąż Aiwell zamienia się w wilkołaka, czy możemy temu zapobiec?
     - Porozmawiajmy z Thalantyrem.
+    - Musimy mieć jeden z trzech składników ale tylko beladonna daje prawdziwą szansę na pomoc.
     <div id="q-52"></div>
 
 ??? success "Hunting the Huntsman"
@@ -311,6 +371,8 @@
 ??? warning "Basilisk Pets"
     - **Zleceniodawca:** Po przywrócenia postaci cielesnej Corianny koło świątyni Lathandera.
     - Grożny mag kontrolujący bazyliszki zamienia ludzi w kamień. Udał się na wschód.
+    - Mag odpowiedzialny za skamienienie także Branwen to Mutamin, którego eliminujemy wna Równinie Ostrych Kłów.
+    - Powinniśmy się dowiedzieć kim jest R. z Wrót Baldura, zleceniodawca dziwnych składników.
     <div id="q-49"></div>
 
 ??? success "Drunk near Beregost Temple"
@@ -446,6 +508,7 @@
 ??? warning "A Demonic Scroll"
     - **Zleceniodawca:** Zwój przekazany przez Firebeada w jego domu.
     - Zwój emanuje złą energia i mamy go dostarczyć do ojca Sandrah.
+    - Zwój powinien nam odnależć złodzieja odłamka Mystry wykradzionemu Elminsterowi
     <div id="q-29"></div>
 
 ??? success "A Book for Firebead"
@@ -469,6 +532,7 @@
     - **Zleceniodawca:** Finch w Czerwonym bukiecie w Beregost.
     - Ma zdobyć kilka ksiąg, które będą stanowiły bazę nowe biblioteki jaką jej zakon planuje otworzyć. Wspólnie poszukamy tych tomiszczy.
     - Burmistrz Nashkel zaakceptowal plan budowy biblioteki w Nashkel, teraz jedynie musimy znależć księgi.
+    - Pierwszą księgę odnaleziono w skrzyni na jarmarku w Nashkel
     <div id="q-25"></div>
 
 ??? success "Bassilus Murderer"
@@ -509,10 +573,11 @@
     - Odkupujemy naszyjnik i podarowujemy go małej.
     <div id="q-20"></div>
 
-??? warning "Amber Flower"
+??? success "Amber Flower"
     - **Zleceniodawca:** Otter O' Forest przay północnych rogatkach Beregost.
     - Mamy znaleźć burstynowy kwiat rosnący tylko nocą w miejscu wielkiej straty.
     - Kwiat rósł przy drzewie w okolicy kopalni Nashkel. Udało się nam go zerwać.
+    - Oddajemy kwiat Otter'owi.
     <div id="q-19"></div>
 
 ??? success "Find the Petrified Priestess"
@@ -623,5 +688,6 @@
     - Po odebraniu zwoju został od niezwłocznie dostarczony
     <div id="q-1"></div>
   
+
 
 

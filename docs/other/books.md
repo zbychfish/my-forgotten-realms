@@ -1,4 +1,12 @@
+---
+hide:
+  - toc
+---
+
 # Księgozbiór
+
+<!--
+LISTA TYTUŁÓW (posortowana alfabetycznie, aktualizuj przy każdym nowym wpisie):
 Historia Cienistej Doliny - tom I
 Historia Cienistej Doliny - tom III
 Historia Cienistej Doliny - tom IV
@@ -20,15 +28,17 @@ Historia Ostatniego Marszu Gigantów
 Historia Północy - tom I
 Historia Północy - tom II
 Historia Północy - tom III
-Historia Północy - tom VI
+Historia Północy - tom IV
 Historia Północy - tom V
 Historia Północy - tom VI
 Historia Północy - tom VII
 Historia Tetyru
 Historia Wybrańców Mystry
-Historia Wybrzeża Smoka 
+Historia Wybrzeża Smoka
 Od Midnight do Mystry
 Ostateczne kompendium sławnych, choć mało znanych bohaterów
+RAZEM: 30
+-->
 
 |Nazwa|Treść|
 |----------------------------|--------------------------------------------------------------|
