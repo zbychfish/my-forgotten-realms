@@ -72,6 +72,66 @@ document$.subscribe(function () {
             table.style.width = "100%";
             dt.columns.adjust();
 
+            // GLightbox: dla tabel z .glb-lazy (np. bestie.md) globalny plugin
+            // nie indeksuje tych linków. Budujemy galerię ręcznie — tylko ze
+            // wierszy aktualnie widocznych na danej stronie paginacji.
+            if (typeof GLightbox !== "undefined") {
+                let lazyLinks = table.querySelectorAll("a.glb-lazy");
+                if (lazyLinks.length === 0) return;
+
+                let tableId = table.id || ("dt-" + Math.random().toString(36).slice(2));
+                if (!table.id) table.id = tableId;
+
+                // Nadaj każdemu linkowi atrybut wiążący go z tą tabelą
+                lazyLinks.forEach(function(a) {
+                    a.setAttribute("data-gltable", tableId);
+                });
+
+                function rebuildLightbox() {
+                    // Zbierz href-y widocznych wierszy jako elementy galerii
+                    let elements = [];
+                    dt.rows({page: "current"}).nodes().each(function(row) {
+                        row.querySelectorAll("a.glb-lazy").forEach(function(a) {
+                            elements.push({
+                                href: a.getAttribute("href"),
+                                type: "image"
+                            });
+                        });
+                    });
+
+                    if (table._glightbox) {
+                        table._glightbox.destroy();
+                    }
+
+                    if (elements.length === 0) return;
+
+                    table._glightbox = GLightbox({
+                        elements: elements,
+                        touchNavigation: true,
+                        loop: false,
+                        zoomable: true,
+                        draggable: false
+                    });
+
+                    // Kliknięcie otwiera odpowiedni indeks w bieżącej galerii
+                    let idx = 0;
+                    dt.rows({page: "current"}).nodes().each(function(row) {
+                        row.querySelectorAll("a.glb-lazy").forEach(function(a) {
+                            (function(i) {
+                                a.onclick = function(e) {
+                                    e.preventDefault();
+                                    table._glightbox.openAt(i);
+                                };
+                            })(idx);
+                            idx++;
+                        });
+                    });
+                }
+
+                dt.on("draw", rebuildLightbox);
+                rebuildLightbox();
+            }
+
             // Obsługa skoku do wiersza po kliknięciu linku z innej strony (np. #q3)
             if (window.location.hash) {
                 let targetId = window.location.hash.substring(1);
