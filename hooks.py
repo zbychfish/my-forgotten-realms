@@ -29,4 +29,23 @@ def on_page_content(html, page, config, files):
     if page.file.src_path in ("other/books.md", "other\\books.md") or page.file.src_path.endswith("books.md"):
         html = html.replace("<table>", '<table id="books-table">', 1)
 
+    # Bestie / Maps: globalny GLightbox pluginu widzi wszystkie .glightbox w DOM,
+    # łącznie z ukrytymi wierszami DataTables → kliknięcie otwiera zły obraz.
+    # Zamieniamy klasę na "glb-lazy" wewnątrz tabeli — plugin ich nie indeksuje,
+    # a nasz JS (dataTables-init.js) buduje galerię per-page po każdym draw.
+    if page.file.src_path.endswith("bestie.md") or page.file.src_path.endswith("maps.md"):
+        html = _retag_table_glightbox(html)
+
     return html
+
+
+# Zamienia class="glightbox" → class="glb-lazy" tylko wewnątrz pierwszej
+# tabeli na stronie (cały bestie.md to jedna tabela bestii).
+_TABLE_RE = re.compile(r"(<table\b.*?</table>)", re.DOTALL)
+_GLB_CLASS_RE = re.compile(r'\bglightbox\b')
+
+
+def _retag_table_glightbox(html: str) -> str:
+    def replace_in_table(m):
+        return _GLB_CLASS_RE.sub("glb-lazy", m.group(0))
+    return _TABLE_RE.sub(replace_in_table, html, count=1)
