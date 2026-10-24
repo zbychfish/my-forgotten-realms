@@ -92,11 +92,37 @@
 |Restoring Saiai no Hito|[Zobacz szczegóły](#q-89)|
 |Warded Dungeon Under Firewine Bridge|[Zobacz szczegóły](#q-90)|
 |The Kidnapping of Henning|[Zobacz szczegóły](#q-91)|
+|Dorn Il-Khan A Blackguard's Revennge|[Zobacz szczegóły](#q-92)|
+|Samuel and Lena|[Zobacz szczegóły](#q-93)|
+|Beneath the Plougshares|[Zobacz szczegóły](#q-94)|
+|Dreamheart|[Zobacz szczegóły](#q-95)|
+
+
+??? warning "Dreamheart"
+    - **Zleceniodawca:** Podczas jednego z noclegów.
+    - Sen wskazywał, że sprawy w ruinach nie zostały zakończone.
+    <div id="q-95"></div>
+
+??? warning "Beneath the Plougshares"
+    - **Zleceniodawca:** Rigaldo w Oku Gorgony  w Beregost.
+    - Mamy zdobyć dwa pierścienie jakie chce sprzedać Karp w Nashkel.
+    <div id="q-94"></div>
+
+??? success "Samuel and Lena"
+    - **Zleceniodawca:** Lena w Górach Bełkotków.
+    - Lena prosi nas o dostarczenie nieprzytomnego Samuela do Galleny w Pomocnej Dłoni.
+    - Oddaliśmy Samuela pod opiekę Galleny.
+    <div id="q-93"></div>
+
+??? warning "Dorn Il-Khan A Blackguard's Revennge"
+    - **Zleceniodawca:** Po zabiciu Kryll w Górach Bełkotków.
+    - Dorn chce dokończyć zemstę i dorwać Simeona.
+    <div id="q-92"></div>
 
 ??? warning "The Kidnapping of Henning"
     - **Zleceniodawca:** Po rozmowie Berrunem Ghastkillem n atemat porwania Henninga.
     - Musimy podążyć śladami orków.
-    <div id="q-90"></div>
+    <div id="q-91"></div>
 
 ??? warning "Warded Dungeon Under Firewine Bridge"
     - **Zleceniodawca:** Charleston Nib w starożytnych ruinach.
@@ -109,6 +135,8 @@
     - Poszukuje katany i chce abyśmy mu pomogli.
     - Mogłby ją zlokalizować ale ukradziono mu amulet, ktory trzeba odnaleźć.
     - Odnaleźliśmy amulet i trzeba nam wrocić do właściciela.
+    - Gallena z uzyciem amuletu w wizjach zobaczyła że katana jest złamana i dwie jej cześci znajdują się osobno.
+    - Obiecałem je odnaleźć.
     <div id="q-89"></div>
 
 ??? success "Elminster's Daughter"
@@ -136,10 +164,11 @@
     - Gdy ich znowu odwiedziliśmy, Noober był zdrowy i na stałe zamieszkam w tym domu.
     <div id="q-85"></div>
 
-??? warning "Vial of Mysterious Liquid"
+??? success "Vial of Mysterious Liquid"
     - **Zleceniodawca:** Burmistrz Nashkel
     - SUgeruje aby fiolkę dziwnej substancji znalezioną w kopalni przepadał kowal z Beregost.
     - Taerom w kużni w Beregost zabrał fiolkę i ma przekazać ją komuś do analizy.
+    - Gdy znowu go odwiedziliśmy poinformował nas, że udało się opracować proces odwracający działanie substancji i żelazo nie powinno już więcej być zagrożone.
     <div id="q-84"></div>
 
 ??? warning "The Serpents of Abbathor"
@@ -149,9 +178,10 @@
     - Nie udało nam się powstrzymać zasadzki na dwóch śledczych ale kolejny trop prowadzi do Podpiwnicza we Wrotach Baldura. Musimy szukać tam niejakiego Draglona.
     <div id="q-83"></div>
 
-??? warning "Confronting Tranzig"
+??? success "Confronting Tranzig"
     - **Zleceniodawca:** Po przeczytaniu listów do Mulahey'a
     - Musimy spotkać się z Tranzigiem w Beregoście, pośrednikiem z Tazokiem.
+    - Nie chciał współpracować ale wśród jego rzeczy znależliśmy list sugerujący jak odnaleźć obóz Tazoka.
     <div id="q-82"></div>
 
 ??? success "Kylee's Dagger"
@@ -409,9 +439,11 @@
     - Udało się przekonać Blackthorna do przyłączenia do gildii.
     <div id="q-44"></div>
 
-??? warning "Sorceress of Shadows"
+??? success "Sorceress of Shadows"
     - **Zleceniodawca:** Baldwin w Oku Gorgony.
     - Mamy odszukać odłamku magicznej laski. Na ją jakaś wiedźma gdzieś na Wzgórzach Bełkotków.
+    - I rzeczywiście musiliśmy ubić Deneb, która przywoływała węże i była w posiadaniu fragmentu artefaktu.
+    - Po powrocie do siedziby organizacji Baldwin był nam bardzo wdzięczny za dostarczenie magicznego przedmiotu.
     <div id="q-43"></div>
 
 ??? success "Liedel's Bounty: Aisha"

@@ -306,7 +306,29 @@
 |Shandraha|BG4100|:material-check-circle:|nieszkodliwa borsukołaczka|
 |Laryssa|BG4100|:material-check-circle:|kuzynka Brage'a|
 |Brage|BG4100|:material-check-circle:|co przeklęty miecz w swe ręce wziął|
+|Hugnot|BG5500|:material-check-circle:|co nie przepada za smrodem orków|
+|Kryll|BG5500|:material-close-circle:|🪦 - ta co zdradziła Dorna|
+|Rick|BG5500|:material-close-circle:|🪦 - przez Kryll w szkielet zmieniony|
+|Shane|BG5500|:material-close-circle:|🪦 - przez Kryll w szkielet zmieniony|
+|Daryl|BG5500|:material-close-circle:|🪦 - przez Kryll w szkielet zmieniony|
+|Glenn|BG5500|:material-close-circle:|🪦 - przez Kryll w szkielet zmieniony|
+|Lori|BG5500|:material-close-circle:|🪦 - przez Kryll w szkielet zmieniony|
+|Hagar|BG5500|:material-close-circle:|🪦 - przez Kryll w szkielet zmieniony|
+|Deneb|BG5500|:material-close-circle:|🪦 - tymczasowa posiadaczka fragmentu Kerykeionu|
+|Hafiz bin Watat|BG5500|:material-check-circle:|współśniący|
+|Gandolar Luckyfoot|BG4000|:material-check-circle:|sołtys wioski niziołków|
+|Telben Beeswaxer|BG4000|:material-check-circle:|sadów opiekun|
+|Molkar|BG4000|:material-close-circle:|🪦 - kolejny niezdarny łowca głów|
+|Drakar|BG4000|:material-close-circle:|🪦 - kolejny niezdarny łowca głów|
+|Morvin|BG4000|:material-close-circle:|🪦 - kolejny niezdarny łowca głów|
+|Halacan|BG4000|:material-close-circle:|🪦 - kolejny niezdarny łowca głów|
+|Tranzig|BG3352|:material-close-circle:|🪦 - już Tazokowi wysługiwać się nie będzie|
+|Nim’a Furlwinga|BG2900|:material-check-circle:|zły psów opiekun|
 
+
+Knieja Larsa - BG2900
+Gullykin - BG4000
+Góry Bełkotków - BG5500
 Starożytne Ruiny - BG4100
 Las Pająków - BG3000
 Równina Ostrych Kłów - BG3500

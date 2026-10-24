@@ -12,11 +12,14 @@
 | Dzicze Beregostu [14,44] | BG3800 | ![Dzicze Beregostu](../maps/BG3800.webp){ width="100" } |
 | Przełęcz Nashkel [15,21,45] | BG4300 | ![Przełęcz Nashkel](../maps/BG4300.webp){ width="100" } |
 | Ustronne Jezioro [16] | BG4200 | ![Przełęcz Nashkel](../maps/BG4200.webp){ width="100" } |
-| Nashkel [20,27,34] | BG4800 | ![Nashkel](../maps/BG4800.webp){ width="100" } |
+| Nashkel [20,27,34,48] | BG4800 | ![Nashkel](../maps/BG4800.webp){ width="100" } |
 | Jarmark w Nashkel [28] | BG4900 | ![Jarmark w Nashkel](../maps/BG4900.webp){ width="100" } |
 | Kopalnia Nashkel [31,33] | BG5400 | ![Kopalnia Nashkel](../maps/BG5400.webp){ width="100" } |
 | Dolina Grobowców [32] | BG5000 | ![Kopalnia Nashkel](../maps/BG5000.webp){ width="100" } |
 | Równina Ostrych Kłów [39] | BG3500 | ![Kopalnia Nashkel](../maps/BG3500.webp){ width="100" } |
 | Las Pająków [40] | BG3000 | ![Las Pająków](../maps/BG3000.webp){ width="100" } |
-| Starożytne Ruiny [47] | BG3000 | ![Starożytne Ruiny](../maps/BG4100.webp){ width="100" } |
+| Starożytne Ruiny [47] | BG4100 | ![Starożytne Ruiny](../maps/BG4100.webp){ width="100" } |
+| Góry Bełkotków [49] | BG5500 | ![Góry Bełkotków](../maps/BG5500.webp){ width="100" } |
+| Gullykin [50] | BG4000 | ![Gullykin](../maps/BG4000.webp){ width="100" } |
+| Knieja Larsa [53] | BG4000 | ![Gullykin](../maps/BG2900.webp){ width="100" } |
 
