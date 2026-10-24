@@ -1,6 +1,9 @@
 site_name: My Forgotten Realms
 site_description: The Ultimate EET
 
+validation:
+  anchors: ignore
+
 theme:
   name: material
   language: pl

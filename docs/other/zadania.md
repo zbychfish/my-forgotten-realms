@@ -97,8 +97,14 @@
 |Beneath the Plougshares|[Zobacz szczegóły](#q-94)|
 |Dreamheart|[Zobacz szczegóły](#q-95)|
 |Man and His Hatchet|[Zobacz szczegóły](#q-96)|
+|The Firewine Ruins|[Zobacz szczegóły](#q-97)|
 
- 
+
+??? warning "The Firewine Ruins"
+    - **Zleceniodawca:** Ted w Peldvale.
+    - Nieznajomy sugeruje udanie się do Firewine aby zdobyć wartościowe łupy.
+    <div id="q-97"></div>
+
 ??? success "Man and His Hatchet"
     - **Zleceniodawca:** Nieznajomy na szlaku.
     - Szuka obucha siekiery nalezącej kiedyś do jego ojca.
@@ -572,6 +578,7 @@
     - Ma zdobyć kilka ksiąg, które będą stanowiły bazę nowe biblioteki jaką jej zakon planuje otworzyć. Wspólnie poszukamy tych tomiszczy.
     - Burmistrz Nashkel zaakceptowal plan budowy biblioteki w Nashkel, teraz jedynie musimy znależć księgi.
     - Pierwszą księgę odnaleziono w skrzyni na jarmarku w Nashkel
+    - Druga w beczce na jednym z jezior w Pedvale.
     <div id="q-25"></div>
 
 ??? success "Bassilus Murderer"

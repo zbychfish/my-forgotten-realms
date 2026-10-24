@@ -336,9 +336,11 @@
 |Taugosz „Dziesięciomłot” Khosann|19000|:material-close-circle:|🪦 - przywódca Czarnych Szponów|
 |Garclax|19003|:material-close-circle:|🪦 - jeden z hersztów gnolli odpowiedzialnych za atak na Henninga|
 |Ardenor Crush|19000|:material-close-circle:|🪦 - hobgobliński mag. który nas zdemaskował w obozie bandytów|
+|Ted|BG2400|:material-check-circle:|przygód w Firewine reklamodawca|
+|Viconia|BG2400|:material-check-circle: postać przyłączalna|uratowana z rąk Płomiennje Pięści|
 
 
-
+Peldvale - BG2400
 Obóz bandytów - jaskinia - BG1903
 Obóz bandytów - namiot - BG1904
 Obóz bandytów - namiot - BG1905

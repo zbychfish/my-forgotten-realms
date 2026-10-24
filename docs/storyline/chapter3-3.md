@@ -207,9 +207,54 @@ Wycofujemy się do Peldvale aby wykurować się i zastanowić jak zaatakować ob
 
 Jasne jest, że musimy zaopatrzyć się w więcej czarów i mikstur aby otwarcie zaatakować obów. Henning jest póki co cały i Imoen z trudem ale zaakceptowała tymczasowe odsunięcie odsieczy.
 
-Napotykamy Teda (1), który powitał przybyszów i zapytał, co sprowadziło ich tak daleko od domu. Gdy Leech przedstawił drużynę jako poszukiwaczy przygód, rozmówca przypomniał sobie wuja, który również uważał się za wielkiego bohatera. Miał miecz, tarczę i grupę kompanów, lecz wyprawa przeciw potworowi zakończyła się dla niego wyjątkowo marnie. Bestia zastawiła pułapkę, a później odrywała śmiałkom ręce i nogi. Kiedy ojciec Teda odnalazł brata, pozostała po nim jedynie sterta gnijącego mięsa. Leech przyznał, że była to doprawdy krzepiąca opowieść, po czym zapytał o radę dla początkujących awanturników. Ted wskazał ruiny Mostu Firewine jako najlepsze miejsce dla tych, którzy pragnęli szybko się wzbogacić. Jeśli jednak drużyna szukała zajęcia bliżej domu, mogła zająć się bandytami nękającymi Wybrzeże Mieczy (The Firewine Ruins 97)
+Napotykamy Teda (1), który powitał przybyszów i zapytał, co sprowadziło ich tak daleko od domu. Gdy Leech przedstawił drużynę jako poszukiwaczy przygód, rozmówca przypomniał sobie wuja, który również uważał się za wielkiego bohatera. Miał miecz, tarczę i grupę kompanów, lecz wyprawa przeciw potworowi zakończyła się dla niego wyjątkowo marnie. Bestia zastawiła pułapkę, a później odrywała śmiałkom ręce i nogi. Kiedy ojciec Teda odnalazł brata, pozostała po nim jedynie sterta gnijącego mięsa. Leech przyznał, że była to doprawdy krzepiąca opowieść, po czym zapytał o radę dla początkujących awanturników. Ted wskazał ruiny Mostu Firewine jako najlepsze miejsce dla tych, którzy pragnęli szybko się wzbogacić. Jeśli jednak drużyna szukała zajęcia bliżej domu, mogła zająć się bandytami nękającymi Wybrzeże Mieczy (The Firewine Ruins 97).
 
-Bestiariusz: 
+Znienacka atakują na ogrzy magowie (2) i udaje się odeprzeć ich atak.
+
+Viconia wybiegła drużynie naprzeciw (3), błagając o pomoc. Sandrah natychmiast stanęła w jej obronie, uznając, że nikt nie powinien cierpieć wyłącznie z powodu swojego pochodzenia. Finch próbowała uspokoić uciekinierkę i poprosiła, by opowiedziała, kim była. Viconia zdołała jedynie się przedstawić i wyjaśnić, że pochodziła z daleka, nim ich rozmowę przerwał najemnik Płonącej Pięści. Mężczyzna zażądał wydania drowki, twierdząc, że była poszukiwana za zamordowanie wielu ludzi. Za wystarczający dowód jej winy uznawał jednak samo pochodzenie. Sandrah zapytała, czy naprawdę zamierzał zabić Viconię tylko dlatego, że była drowką, i co właściwie nazywał sprawiedliwością. Najemnik zasłonił się prawem i wyrokiem śmierci, lecz kapłanka nie ustąpiła. Zażądała dowodów popełnionych zbrodni, zamiast oskarżeń opartych wyłącznie na rasie ściganej. Gdy żołnierz ponownie nakazał drużynie zejść z drogi, Sandrah stanęła przed Viconią i oświadczyła, że będzie musiał najpierw przejść po ich trupach. Jej zdaniem to najemnik zachowywał się jak morderca, niezależnie od symboli, które nosił. Viconia zapewniła, że oskarżenia były kłamstwem i nikogo nie skrzywdziła. Najemnik Płonącej Pięści nie zamierzał jednak słuchać. Skazał całą drużynę na śmierć za ukrywanie rzekomej morderczyni i ruszył do ataku. Wędrowcy pozostali przy swoim wyborze, gotowi bronić Viconii przed egzekucją pozbawioną sądu i dowodów.
+
+Viconia podziękowała drużynie za ocalenie. Wiedziała, że z powodu jej drowiego pochodzenia mogli nie chcieć obdarzyć jej zaufaniem, lecz poprosiła o jedną szansę. Potrzebowała sprzymierzeńców bardziej niż kiedykolwiek i zaproponowała, że dołączy do ich wędrówki. Sandrah przypomniała Leechowi, że ratując komuś życie, brali również odpowiedzialność za danie tej osobie możliwości rozpoczęcia nowej drogi. Leech przyznał jej rację. Drużyna potrzebowała dodatkowej pomocy, dlatego przyjęła Viconię w swoje szeregi. Drowka obiecała, że ich nie zawiedzie. Neera będzie czekać w Pomocnej Dłoni. :material-trending-down: Reputacja -2
+
+<div class="character-intro" markdown>
+<div class="character-portrait" markdown>
+![](../images/viconia_p.webp)
+</div>
+<div class="character-summary" markdown>
+# Viconia
+<span class="character-subtitle">
+Szary Elf · Kapłanka · Neutralna zła
+</span>
+> Zapytana o swoją przeszłość Viconia z dumą wyjawiła, że była mroczną elfką pochodzącą z podziemnego miasta Menzoberranzan. Niewiele mówiła o powodach opuszczenia pozbawionej słońca ojczyzny, lecz podobne rozstania rzadko przebiegały łagodnie. Twierdziła, że nie oddawała już czci pajęczej bogini Lolth, choć dla drowa porzucenie jej kultu często oznaczało śmierć. Zamiast tego zwróciła się ku Shar, Pani Nocy. Trudno było jednak ocenić, czy odrzuciła tym samym bezwzględne obyczaje własnego ludu. Prawa i zwyczaje powierzchni wydawały jej się osobliwe, głównie z powodu braku doświadczenia. Nie rozumiała również nieufności, jaką budziło jej pochodzenie. Wielu mieszkańców powierzchni nie zamierzało dać jej szansy, a sama obecność Viconii w drużynie mogła wpłynąć na sposób, w jaki postrzegano jej towarzyszy. Jak każdy drow, Viconia posiadała naturalną odporność na magię.
+</div>
+</div>
+
+:material-account-group: Przyłączeni NPC: Viconia
+
+:material-account-group: Odłączeni NPC: Neera (Pomocna Dłoń)
+
+Koło jednego z jezior (4) spotykamy trzech poetów: Sama, Willego i Roba. Po wysłuchaniu ich poematów otrzymujemy harfę. Tak te wypociny wymagały od nas dużo poświęcenia i nagroda mile widziana.
+
+W beczce (5) znajduje się księga. To jedna z tych poszukiwanych przez Finch - Rozkosze puddingów. Mam nadzieję, że kiedyś Finch zaprosi mnie na poranny budyń we dwoje (Finch's Quest to Start a Library in Nashkel 25).
+
+Kolejne jezioro i kolejna beczka (6) a w niej skomplikowana aparatura. Pewnie wkrótce się przekonamy.
+
+Nieco dalej (7) natykamy się na uszkodzonego golema. I wygląda, że właśnie co znaleziony mechanizm to jego mózg. Sprawdzamy co się stanie i oczywiści ożył i nas zaatakował.
+
+![](../images/golem1.webp){ .center-img width="60%" }
+
+Trochę ochłoneliśmy po nieudanej walce w obozie bandytów i póki co zajmiemy sie problemem Elminstera oraz postaramy pozałatwiac sie parę innych spraw.
+
+Jen’lig wspomniała, że młode githyanki z Varsh uczono walki, posyłając je przeciw mrocznym elfom. Podczas tych krwawych ćwiczeń sama zabiła wielu drowów. Viconia odpowiedziała, że w młodości brała udział w wyprawach przeciw wylęgarniom githyanki w Podmroku i również zgładziła wielu przeciwników. Jen’lig zauważyła, że obie zabijały wówczas niedoświadczonych młodzików, więc nie było w tym wielkiego osiągnięcia. Drowka przyznała jednak, że githyanki nie byli łatwym łupem. Potrafili walczyć, a w okrucieństwie dorównywali jej pobratymcom. Jen’lig uznała, że tym razem stanęły po tej samej stronie, zjednoczone wspólną misją i rozkazami dowódcy. Wkrótce ich przeciwnicy mieli nauczyć się lękać połączonych sił drowki i githyanki.
+
+Udajemy się do Lasu Pajaków
+
+Bestiariusz: bandyta, elita Czarnych Szponów, ogrzy mag, zdziczały pies, niedźwiedź czarny, niedżwiedź, niedźwiedź jaskiniowy, olbrzymi pająk, bełkotek  
+
+## Las Pająków&nbsp;<span class="cb">40</span> { .divider }
+
+![Las Pająków](../maps/BG3000.webp){ .center-img width="40%" }
+
+
 
 ----------
 Równina Ostrych kłów
