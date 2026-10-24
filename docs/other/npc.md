@@ -324,8 +324,26 @@
 |Halacan|BG4000|:material-close-circle:|🪦 - kolejny niezdarny łowca głów|
 |Tranzig|BG3352|:material-close-circle:|🪦 - już Tazokowi wysługiwać się nie będzie|
 |Nim’a Furlwinga|BG2900|:material-check-circle:|zły psów opiekun|
+|Osmandi|2900|:material-close-circle:|🪦 - zbyt porywczy i dał się napuścić|
+|Carsone|2900|:material-close-circle:|🪦 - nie warto nas wykorzystywać|
+|Katreda|BG2900|:material-check-circle:|co robi taka ślicznotka sama w lesie?|
+|Baeloth|BG2900|:material-check-circle: postać przyłączalna|walk organizator|
+|Haeball|AR9001|:material-check-circle:|mag z ciekawym sklepem i tajemnicami|
+|Teven|BG2900|:material-check-circle:|co ślinił się do Sandrah|
+|Tersus|19004|:material-close-circle:|🪦 - gadatliwy hobgoblin|
+|Tazok|19000|:material-close-circle:|🪦 - ten, którego śmierci na równi chciała Imoen, Jen'lig and Kivan|
+|Knot|19005|:material-close-circle:|🪦 - gadatliwy hobgoblin|
+|Taugosz „Dziesięciomłot” Khosann|19000|:material-close-circle:|🪦 - przywódca Czarnych Szponów|
+|Garclax|19003|:material-close-circle:|🪦 - jeden z hersztów gnolli odpowiedzialnych za atak na Henninga|
+|Ardenor Crush|19000|:material-close-circle:|🪦 - hobgobliński mag. który nas zdemaskował w obozie bandytów|
 
 
+
+Obóz bandytów - jaskinia - BG1903
+Obóz bandytów - namiot - BG1904
+Obóz bandytów - namiot - BG1905
+Obóz bandytów - BG1900
+Knieja Larsa - wieża Haeballa - AR9001
 Knieja Larsa - BG2900
 Gullykin - BG4000
 Góry Bełkotków - BG5500

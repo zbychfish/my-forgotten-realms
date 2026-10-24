@@ -30,3 +30,5 @@ S**Sklepikarz w namiocie koło dużych jurt** - jarmark w Nashkel, bardzo dobre 
 
 **Sklepikarze przy wozach** - jarmark w Nashkel, troche broni i eliksirów
 
+**Haeball** - Knieja Larsa w wieży, zwoje, różdżki i eliksiry
+

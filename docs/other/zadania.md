@@ -96,7 +96,14 @@
 |Samuel and Lena|[Zobacz szczegóły](#q-93)|
 |Beneath the Plougshares|[Zobacz szczegóły](#q-94)|
 |Dreamheart|[Zobacz szczegóły](#q-95)|
+|Man and His Hatchet|[Zobacz szczegóły](#q-96)|
 
+ 
+??? success "Man and His Hatchet"
+    - **Zleceniodawca:** Nieznajomy na szlaku.
+    - Szuka obucha siekiery nalezącej kiedyś do jego ojca.
+    - Odnajdujemy go w pobliżu i oddajemy.
+    <div id="q-96"></div>
 
 ??? warning "Dreamheart"
     - **Zleceniodawca:** Podczas jednego z noclegów.
@@ -629,6 +636,7 @@
     - Celem jest odnalezienia 4 ukrytych sfer teleportujących do nieznanych planów.
     - Pierwsza fioletowa sfera uaktywania się w miejscu gdzie spotkaliśmy Basillusa.
     - Drugą odnalezioną sferą jest koloru niebieskiego przy Ustronnym Jeziorze
+    - Trzecią, zieloną w Knieji Larsa
     <div id="q-16"></div>
 
 ??? warning "Jen'Lig's Hunt"

@@ -21,5 +21,8 @@
 | Starożytne Ruiny [47] | BG4100 | ![Starożytne Ruiny](../maps/BG4100.webp){ width="100" } |
 | Góry Bełkotków [49] | BG5500 | ![Góry Bełkotków](../maps/BG5500.webp){ width="100" } |
 | Gullykin [50] | BG4000 | ![Gullykin](../maps/BG4000.webp){ width="100" } |
-| Knieja Larsa [53] | BG4000 | ![Gullykin](../maps/BG2900.webp){ width="100" } |
+| Knieja Larsa [53] | BG2900 | ![Gullykin](../maps/BG2900.webp){ width="100" } |
+| Obóz Bandytów [54] | BG1900 | ![Gullykin](../maps/BG1900.webp){ width="100" } |
+| Peldvale [55] | BG2400 | ![Peldvale](../maps/BG2400.webp){ width="100" } |
+
 
