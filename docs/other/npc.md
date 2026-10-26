@@ -330,16 +330,42 @@
 |Baeloth|BG2900|:material-check-circle: postać przyłączalna|walk organizator|
 |Haeball|AR9001|:material-check-circle:|mag z ciekawym sklepem i tajemnicami|
 |Teven|BG2900|:material-check-circle:|co ślinił się do Sandrah|
-|Tersus|19004|:material-close-circle:|🪦 - gadatliwy hobgoblin|
-|Tazok|19000|:material-close-circle:|🪦 - ten, którego śmierci na równi chciała Imoen, Jen'lig and Kivan|
-|Knot|19005|:material-close-circle:|🪦 - gadatliwy hobgoblin|
-|Taugosz „Dziesięciomłot” Khosann|19000|:material-close-circle:|🪦 - przywódca Czarnych Szponów|
-|Garclax|19003|:material-close-circle:|🪦 - jeden z hersztów gnolli odpowiedzialnych za atak na Henninga|
+|Tersus|1904|:material-close-circle:|🪦 - gadatliwy hobgoblin|
+|Tazok|1900|:material-close-circle:|🪦 - ten, którego śmierci na równi chciała Imoen, Jen'lig and Kivan|
+|Knot|1905|:material-close-circle:|🪦 - gadatliwy hobgoblin|
+|Taugosz „Dziesięciomłot” Khosann|1900|:material-close-circle:|🪦 - przywódca Czarnych Szponów|
+|Garclax|1903|:material-close-circle:|🪦 - jeden z hersztów gnolli odpowiedzialnych za atak na Henninga|
 |Ardenor Crush|19000|:material-close-circle:|🪦 - hobgobliński mag. który nas zdemaskował w obozie bandytów|
 |Ted|BG2400|:material-check-circle:|przygód w Firewine reklamodawca|
 |Viconia|BG2400|:material-check-circle: postać przyłączalna|uratowana z rąk Płomiennje Pięści|
+|poeta Sam|BG2400|:material-check-circle:|poeta tylko głowa nie ta|
+|poeta Willy|BG2400|:material-check-circle:|poeta tylko głowa nie ta|
+|poeta Rob|BG2400|:material-check-circle:|poeta tylko głowa nie ta|
+|Fahrrington|BG3000|:material-check-circle:|co zwoju ukradzionego przez tasloi szuka|
+|Denak|3000|:material-close-circle:|🪦 - o jednego czerwonego ścierwa mniej|
+|Brendan|3000|:material-close-circle:|🪦 - o jednego czerwonego ścierwa mniej|
+|Diana|3000|:material-close-circle:|🪦 - o jednego czerwonego ścierwa mniej|
+|Lasala|3000|:material-close-circle:|🪦 - o jednego czerwonego ścierwa mniej|
+|Tamah|BG2400|:material-check-circle:|znowu w cielesnej postaci|
+|Shar-Teel|BG3500|:material-check-circle: postać przyłączalna|ma uprzedzenia do mężczyzn|
+|Smeagol|BG4000|:material-check-circle:|chyba wsyztsko jasne?|
+|Michalina|BG4000|:material-check-circle:|ta co jej pies spać nie dał|
+|Loahn|L#HAL1|:material-check-circle:|🪦 - zaginiony niziołek z Gullykin|
+|Manko Rubbleslide|BG4000|:material-check-circle:|o wielce wymagającym podniebieniu|
+|Jenkal|BG4001|:material-check-circle:|🪦 - zdradziecka niziołkowata szuja kooperująca z koboldami|
+|Iris Cotton|BG4005|:material-check-circle:|uprzejma niziołkowa|
+|Largo Cotton|BG4005|:material-check-circle:|uprzejmy niziołkowy|
+|Mabledale|BG4005|:material-check-circle:|uprzejma niziołkowa|                    
+|Arlond|BG4007|:material-check-circle:|uprzejmy brzdąc niziołkowy|
+|Farthendel|BG4007|:material-check-circle:|uprzejmy niziołek|
+|Bunsen|BG4007|:material-check-circle:|uprzejmy niziołek|
+|Alvanhendar|BG4003|:material-check-circle:|mało uprzejmy niziołek i kapłan|
 
-
+Gullykin - winiarnia i świątynia Yondalla - BG4003
+Gullykin - dom niziołkoiw - BG4013
+Gullykin - dom niziołkoiw - BG4007
+Gullykin - dom niziołkoiw - BG4005
+Gullykin - dom niziołkoiw - BG4001
 Peldvale - BG2400
 Obóz bandytów - jaskinia - BG1903
 Obóz bandytów - namiot - BG1904

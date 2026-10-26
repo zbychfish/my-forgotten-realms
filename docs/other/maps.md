@@ -17,7 +17,7 @@
 | Kopalnia Nashkel [31,33] | BG5400 | ![Kopalnia Nashkel](../maps/BG5400.webp){ width="100" } |
 | Dolina Grobowców [32] | BG5000 | ![Kopalnia Nashkel](../maps/BG5000.webp){ width="100" } |
 | Równina Ostrych Kłów [39] | BG3500 | ![Kopalnia Nashkel](../maps/BG3500.webp){ width="100" } |
-| Las Pająków [40] | BG3000 | ![Las Pająków](../maps/BG3000.webp){ width="100" } |
+| Las Pająków [40,56] | BG3000 | ![Las Pająków](../maps/BG3000.webp){ width="100" } |
 | Starożytne Ruiny [47] | BG4100 | ![Starożytne Ruiny](../maps/BG4100.webp){ width="100" } |
 | Góry Bełkotków [49] | BG5500 | ![Góry Bełkotków](../maps/BG5500.webp){ width="100" } |
 | Gullykin [50] | BG4000 | ![Gullykin](../maps/BG4000.webp){ width="100" } |

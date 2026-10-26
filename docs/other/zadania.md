@@ -98,7 +98,41 @@
 |Dreamheart|[Zobacz szczegóły](#q-95)|
 |Man and His Hatchet|[Zobacz szczegóły](#q-96)|
 |The Firewine Ruins|[Zobacz szczegóły](#q-97)|
+|Fahrrington's Scroll|[Zobacz szczegóły](#q-98)|
+|The Tree Of Shades|[Zobacz szczegóły](#q-99)|
+|The Midnight Dog|[Zobacz szczegóły](#q-100)|
+|Big Appetite in Small Gullykin|[Zobacz szczegóły](#q-101)|
+|Firewine Bridge and Gullykin|[Zobacz szczegóły](#q-102)|
 
+
+??? warning "Firewine Bridge and Gullykin"
+    - **Zleceniodawca:** Gandolar Luckyfoot w Gullykin.
+    - Prosi o zajęcie się koboldami w Firewine.
+    <div id="q-102"></div>
+
+??? warning "Big Appetite in Small Gullykin"
+    - **Zleceniodawca:** Manko Rubbleslide w Gullykin.
+    - Szuka specjalnych składników do dania Kozakurt.
+    - Mamy już wyciąg z Aka ale jeszcze potrzebny miód ze śliwek i przyprawa toge.   
+    <div id="q-101"></div>
+
+??? success "The Midnight Dog"
+    - **Zleceniodawca:** Michalina w Gullykin.
+    - Nekąjący Michalinę pies Cu-sith, zaprowadził nas do zwłok Loahna.
+    - Zwróciliśmy ciało Michalinie i w ten sposób zapewniliśmy spokój duszy niziołka i psu.   
+    <div id="q-100"></div>
+
+??? warning "The Tree Of Shades"
+    - **Zleceniodawca:** Drzewo Cieni na samym dole jaskini na Równinie Ostrych Kłów.
+    - Drzewo żywi się traumatycznymi przeżyciami.
+    - Póki co ctery z nich pochłonęło. Czeka na kolejne.   
+    <div id="q-99"></div>
+
+??? success "Fahrrington's Scroll"
+    - **Zleceniodawca:** Fahrrington w lesie pająków.
+    - Chce abyśmy odnależli skradziony mu przez tasloi zwój.
+    - Miał go nieopodal eterkap.
+    <div id="q-98"></div>
 
 ??? warning "The Firewine Ruins"
     - **Zleceniodawca:** Ted w Peldvale.
@@ -579,6 +613,7 @@
     - Burmistrz Nashkel zaakceptowal plan budowy biblioteki w Nashkel, teraz jedynie musimy znależć księgi.
     - Pierwszą księgę odnaleziono w skrzyni na jarmarku w Nashkel
     - Druga w beczce na jednym z jezior w Pedvale.
+    - Trzecia w domu Jenkala w Gullykin.
     <div id="q-25"></div>
 
 ??? success "Bassilus Murderer"
