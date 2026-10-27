@@ -360,7 +360,12 @@
 |Farthendel|BG4007|:material-check-circle:|uprzejmy niziołek|
 |Bunsen|BG4007|:material-check-circle:|uprzejmy niziołek|
 |Alvanhendar|BG4003|:material-check-circle:|mało uprzejmy niziołek i kapłan|
+|Lendarn|BG4501|:material-check-circle:|🪦 - nie będzie już koboldów na nas nasyłał|
+|Meilum|BG4500|:material-check-circle:|obłąkany utratą ludzi, którymi się miał opiekować|
 
+
+Firewine - BG4500
+Firewine - kazamaty - BG4501
 Gullykin - winiarnia i świątynia Yondalla - BG4003
 Gullykin - dom niziołkoiw - BG4013
 Gullykin - dom niziołkoiw - BG4007

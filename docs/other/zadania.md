@@ -103,7 +103,13 @@
 |The Midnight Dog|[Zobacz szczegóły](#q-100)|
 |Big Appetite in Small Gullykin|[Zobacz szczegóły](#q-101)|
 |Firewine Bridge and Gullykin|[Zobacz szczegóły](#q-102)|
+|Ghostly Knights in Firewine|[Zobacz szczegóły](#q-103)|
 
+??? success "Ghostly Knights in Firewine"
+    - **Zleceniodawca:** Duchy w kazamatach Firewine.
+    - Aby uzyskać spokój muszą się zjednoczyć.
+    - Nieopodal nieumarły miał przy sobie zbroję, której poszukiwały duchy.
+    <div id="q-103"></div>
 
 ??? warning "Firewine Bridge and Gullykin"
     - **Zleceniodawca:** Gandolar Luckyfoot w Gullykin.
