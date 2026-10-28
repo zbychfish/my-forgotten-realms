@@ -1,5 +1,7 @@
 # Nie będzie tak łatwo!
 
+![](../images/chap3-3.webp){ .center-img width="70%%" }
+
 ## Góry Bełkotków&nbsp;<span class="cb">49</span> { .divider }
 
 ![Góry Bełkotków](../maps/BG5500.webp){ .center-img width="40%" }
@@ -149,7 +151,7 @@ Nierozsądny **Teven** zagrodził drużynie drogę kawałek dalej <span class="m
 
 Bandyta bez trudu połknął przynętę. Ogłosił się przyszłym dowódcą **Sandrah** i nakazał drużynie ruszyć za sobą, przekonany, że **Tazok** chętnie przyjmie kolejnych berserkerów. Gdy odwrócił się do przybyszów plecami, kapłanka splunęła na ziemię, z niesmakiem zastanawiając się, czy naprawdę istniały osoby gotowe poniżyć się dla podobnego głupca. Podstęp jednak zadziałał. **Teven**, nieświadomy prawdziwych zamiarów wędrowców, poprowadził ich prosto do obozu bandytów.
 
-:material-paw: Bestiariusz: *wilk, straszny wilk, straszliwy wilk, etterkap, czarny niedźwiedź, niedźwiedź, niedźwiedź jaskiniowy, elitarny najemnik Czarbego Szponu, bełkotek*
+:material-paw: Bestiariusz: *wilk, straszny wilk, straszliwy wilk, etterkap, czarny niedźwiedź, niedźwiedź, niedźwiedź jaskiniowy, elitarny najemnik Czarnego Szponu, bełkotek*
 
 ## Obóz Bandytów&nbsp;<span class="cb">54</span> { .divider }
 
@@ -189,7 +191,7 @@ Przy ciele **Ardenora** znaleźli list od **Perthaga**, zabitego wcześniej przy
 
 Liczba przeciwników w obozie była zbyt wielka, by ryzykować frontalny atak, dlatego drużyna rozpoczęła walkę podjazdową. Bandyci odpowiedzieli z pełnym impetem. Wędrowcy zdołali zabić kilku napastników, lecz ostatecznie musieli podwinąć ogon i rozpocząć odwrót.
 
-:material-paw: Bestiariusz: *bandyta, elita Czarnych Szponów, chill gobgoblin, gnoll*
+:material-paw: Bestiariusz: *rozbójnik, elitarny najemnik Czarnych Szponów, hobgoblin z Chłodu, gnoll*
 
 ## Na szlaku { .divider }
 
