@@ -1,3 +1,14 @@
+<!-- 
+
+żywiołak ognia,
+gnoll elita
+
+mniejszy obserwator
+
+dezerter Płonącej Pięści
+ -->
+
+
 |Nazwa|Opis|Wygląd|
 |-------------|-------------------------------------------|-----------------------|
 |Ankheg|Obrzydliwy, podziemny stawonóg o gigantycznych rozmiarach, przypominający skrzyżowanie turkucia podjadka z modliszką. Ankheg zamieszkuje płytkie korytarze wydrążone pod polami uprawnymi, lasami i traktami handlowymi, atakując swoje ofiary od dołu. Zakopany tuż pod powierzchnią ziemi, cierpliwie czeka na wstrząsy wywołane krokiem przechodzącego stworzenia, po czym błyskawicznie wyrzuca przednie odnóża, wciągając nieszczęśnika pod ziemię. Zanim ofiara zdoła podjąć walkę, ankheg miażdży ją potężnymi żuwaczkami i polewa wysoce żrącym kwasem żołądkowym.|![Ankheg](../images/ankheg.webp){ .center-img width="30%" }|

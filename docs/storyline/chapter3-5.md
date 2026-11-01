@@ -215,7 +215,7 @@ Wyjaśnił, że *Czerwoni Czarodzieje* ścigali zarówno **Neerę**, jak i jego,
 
 Wychodzimy z jaskini i wracamy do Magreba (3), oddajemy mu pierścień Rilsy i potwierdzamy, że została pogrzebana (Magreb and Rilsa 109). Kierujemy się do Samotnych Szczytów.
 
-Bestiariusz: goblin, wilk, sztraszliwy wilk, ogr berserker ogr, thayański ochroniarz, thayański czarodziej
+Bestiariusz: goblin, wilk, sztraszliwy wilk, ogr, berserker ogr, strażnik czerwonych magów, czarodziej czerwonych magów
 
 ## Samotne Szczyty&nbsp;<span class="cb">60</span> { .divider }
 
@@ -237,4 +237,4 @@ Bardzo szczęśliwie spostrzegamywodny opal pod kamieniem (6). To kolejny rzadki
 
 W jaskini obok (8) nic ciekawego.
 
-Bestiariusz: ogr, ogrillion, elita hobgoblinów, niedźwiedź jaskiniowy, wilk polarny, straszliwy wilk, xvart, pół ork, kobold, eterkap
+Bestiariusz: ogr, ogrillion, elita hobgoblinów, niedźwiedź jaskiniowy, wilk polarny, straszliwy wilk, xvart, pół ork, kobold, etterkap
