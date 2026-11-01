@@ -99,39 +99,109 @@
 |Man and His Hatchet|[Zobacz szczegóły](#q-96)|
 |The Firewine Ruins|[Zobacz szczegóły](#q-97)|
 |Fahrrington's Scroll|[Zobacz szczegóły](#q-98)|
-|The Tree Of Shades|[Zobacz szczegóły](#q-99)|
-|The Midnight Dog|[Zobacz szczegóły](#q-100)|
-|Big Appetite in Small Gullykin|[Zobacz szczegóły](#q-101)|
-|Firewine Bridge and Gullykin|[Zobacz szczegóły](#q-102)|
-|Ghostly Knights in Firewine|[Zobacz szczegóły](#q-103)|
+|A Strange Piece of Cloth|[Zobacz szczegóły](#q-99)|
+|The Tree Of Shades|[Zobacz szczegóły](#q-100)|
+|The Midnight Dog|[Zobacz szczegóły](#q-101)|
+|Big Appetite in Small Gullykin|[Zobacz szczegóły](#q-102)|
+|Firewine Bridge and Gullykin|[Zobacz szczegóły](#q-103)|
+|Ghostly Knights in Firewine|[Zobacz szczegóły](#q-104)|
+|The Madwoman of Firewine Bridge|[Zobacz szczegóły](#q-105)|
+|A Strange Piece of Cloth - A Visitor|[Zobacz szczegóły](#q-106)|
+|Final Rest of Firewine's Soldiers|[Zobacz szczegóły](#q-107)|
+|Final Rest of Firewine's Soldiers|[Zobacz szczegóły](#q-108)|
+|Svlast's Torment|[Zobacz szczegóły](#q-108)|
+|A Magic Barrel|[Zobacz szczegóły](#q-109)|
+|Magreb and Rilsa|[Zobacz szczegóły](#q-110)|
+|Neera|[Zobacz szczegóły](#q-111)|
+|Ogre Hunting|[Zobacz szczegóły](#q-112)|
+|Xvart Raids|[Zobacz szczegóły](#q-113)|
+
+??? success "Ogre Hunting"
+    - **Zleceniodawca:** Hulrik w Samotnych Szczytach.
+    - Prosi o ochronę jego trzody przed xvartami.
+    - Nic trudnego.
+    <div id="q-113"></div>
+
+??? success "Ogre Hunting"
+    - **Zleceniodawca:** Sarhedra w Samotnych Szczytach.
+    - Informuje nas o obozie ogrów. I chyba chce żebyśmy się nimi zajęli.
+    - W rzeczy samej po ich utłuczeniu dziękuje nam.
+    <div id="q-112"></div>
+
+??? success "Neera"
+    - **Zleceniodawca:** Neera podczas jednej z rozmów przez nią zainicjowanych.
+    - Chciałaby odnaleźć Adoya mistza dzikiej magii, który może pomóc jej kontrolować jej moc.
+    - Udajemy się do enklawy i tam ratujemy Adoy'a z rąk orka ale Adoy jest nieudacznikiem i niczego Neery nie był w stanie nauczyć.
+    <div id="q-111"></div>
+
+??? warning "Magreb and Rilsa"
+    - **Zleceniodawca:** Magreb w ostoi Adoy'a.
+    - Mamy odnaleźć ciało jefo towarzyszki Rilsy.
+    <div id="q-110"></div>
+
+??? success "A Magic Barrel"
+    - **Zleceniodawca:** Magiczna beczka podczas podróży pomiędzy obszarami.
+    - Poprosiła o sugęstię, gdzie się udać.
+    - Zaproponowaliśmy Candlekeep.
+    <div id="q-109"></div>
+
+??? success "Svlast's Torment"
+    - **Zleceniodawca:** Svlast pod mostem Firewine.
+    - Obroniliśmy bratobójcem przed zemstą nieumarłego.
+    - Zostawiliśmy go aby zdecydował co zrobić z reszta swojego żałosnego życia.
+    <div id="q-108"></div>
+
+??? success "Final Rest of Firewine's Soldiers"
+    - **Zleceniodawca:** Po odnalezieniu notatki w jednej z wież mosty Firewine.
+    - Aby zadośćuczynić prośbie musimy złożyć trzy miecze minionych wojowników w kufrze.
+    - Udaje się je odnaleźć rozrzucone nieopodal.
+    <div id="q-107"></div>
+
+??? warning "A Strange Piece of Cloth - A Visitor"
+    - **Zleceniodawca:** Po pierwsze wizycie Winskiego.
+    - Dlaczego mag każe nam zawrócić z obranej ścieżki?
+    <div id="q-106"></div>
+
+??? failure "The Madwoman of Firewine Bridge"
+    - **Zleceniodawca:** Carsa przy moście Firewine.
+    - Pomimo zabicia Kahrka zadanie pozostaje otwarte (raczej bug w modzie).
+    - Technicznie zrobione poprawnie
+    <div id="q-105"></div>
 
 ??? success "Ghostly Knights in Firewine"
     - **Zleceniodawca:** Duchy w kazamatach Firewine.
     - Aby uzyskać spokój muszą się zjednoczyć.
     - Nieopodal nieumarły miał przy sobie zbroję, której poszukiwały duchy.
-    <div id="q-103"></div>
+    <div id="q-104"></div>
 
 ??? warning "Firewine Bridge and Gullykin"
     - **Zleceniodawca:** Gandolar Luckyfoot w Gullykin.
     - Prosi o zajęcie się koboldami w Firewine.
-    <div id="q-102"></div>
+    <div id="q-103"></div>
 
 ??? warning "Big Appetite in Small Gullykin"
     - **Zleceniodawca:** Manko Rubbleslide w Gullykin.
     - Szuka specjalnych składników do dania Kozakurt.
     - Mamy już wyciąg z Aka ale jeszcze potrzebny miód ze śliwek i przyprawa toge.   
-    <div id="q-101"></div>
+    <div id="q-102"></div>
 
 ??? success "The Midnight Dog"
     - **Zleceniodawca:** Michalina w Gullykin.
     - Nekąjący Michalinę pies Cu-sith, zaprowadził nas do zwłok Loahna.
     - Zwróciliśmy ciało Michalinie i w ten sposób zapewniliśmy spokój duszy niziołka i psu.   
-    <div id="q-100"></div>
+    <div id="q-101"></div>
 
 ??? warning "The Tree Of Shades"
     - **Zleceniodawca:** Drzewo Cieni na samym dole jaskini na Równinie Ostrych Kłów.
     - Drzewo żywi się traumatycznymi przeżyciami.
     - Póki co ctery z nich pochłonęło. Czeka na kolejne.   
+    <div id="q-100"></div>
+
+??? warning "A Strange Piece of Cloth"
+    - **Zleceniodawca:** Po otrzymaniu kawałka dziwnego materiału od Viconi.
+    - Skrawek materiału jest dziwnie znajomy.
+    - Drugi kawałek otrzymujemy od Meiluma w przy moście Firewine.
+    - Sandrah wie, że tkaninia jest jej znana ale nie może sobie przypomnieć szczegółów.
     <div id="q-99"></div>
 
 ??? success "Fahrrington's Scroll"
@@ -437,6 +507,7 @@
     - Mąż Aiwell zamienia się w wilkołaka, czy możemy temu zapobiec?
     - Porozmawiajmy z Thalantyrem.
     - Musimy mieć jeden z trzech składników ale tylko beladonna daje prawdziwą szansę na pomoc.
+    - Znależliśmy wszystkie trzy w tym Belladonę - w Firewine - i możemy wrócić do Wysokiego Żywopłotu
     <div id="q-52"></div>
 
 ??? success "Hunting the Huntsman"

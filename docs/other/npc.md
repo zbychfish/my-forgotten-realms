@@ -107,7 +107,7 @@
 |Oogie Wisham|BG3305|:material-check-circle:|strachliwy dureń|
 |Taerom Fuiruim|BG3301|:material-check-circle:|kowal jak to kowal|
 |Neera|BG3300|:material-check-circle: postać przyłączalna|Chaotyczna ale zawsze pomocna adeptka dzikiej magii.|
-|Ekandor|BG3300|:material-close-circle:|Czerwony Mag pragnący śmierci Neery|
+|Ekandor|BG3300|:material-close-circle:|Czerwony Mag pragnący śmierci Neery. Zaznał sam jej póżniej w enklawie Adoy'a|
 |Agnus Biały (the White)|BG3300|:material-check-circle:|matematyczny geniusz|
 |Uddolf Raukner|BG3300|:material-check-circle:|matematyczny geniusz|
 |Teliel Meadosinger|BG3300|:material-check-circle:|matematyczny geniusz|
@@ -360,10 +360,30 @@
 |Farthendel|BG4007|:material-check-circle:|uprzejmy niziołek|
 |Bunsen|BG4007|:material-check-circle:|uprzejmy niziołek|
 |Alvanhendar|BG4003|:material-check-circle:|mało uprzejmy niziołek i kapłan|
-|Lendarn|BG4501|:material-check-circle:|🪦 - nie będzie już koboldów na nas nasyłał|
+|Lendarn|BG4501|:material-close-circle:|🪦 - nie będzie już koboldów na nas nasyłał|
 |Meilum|BG4500|:material-check-circle:|obłąkany utratą ludzi, którymi się miał opiekować|
+|Carsa|BG4500|:material-close-circle:|🪦 - co powiesz słoju ...?!!!|
+|Kahrk|BG4500|:material-close-circle:|🪦 - słoja mieszkanieć i miecza dzierżyciel|
+|Poe|BG4500|:material-check-circle:|samotny poeta na moście, dziwne|
+|Wrarkh|BG4500|:material-close-circle:|🪦 - nieudana misja odebrania miecza|
+|Winski Perorate|BG4500|:material-check-circle:|przestrzegać każdy może|
+|Svlast|BG4500|:material-check-circle:|bratobójca|
+|Magreb|OH2000|:material-check-circle:|towarzyszkę opłakuje|
+|Rilsa|OH2010|:material-check-circle:|🪦 - ta, której pochówek zorganizowaliśmy|
+|Rogdok|OH2010|:material-close-circle:|🪦 - Adoy'a i goblinów ciemiężyciel|
+|Adoy|OH2010|:material-check-circle:|bezużyteczny dziki mag|
+|Sarhedra|BG4400|:material-check-circle:|co o ogrzym obozie nas zawiadomiła|
+|Hulrik|BG4400|:material-check-circle:|co xvart krowę mu ubić chciały|
+|Ioin Gallchobhair|BG4400|:material-close-circle:|🪦 - trzech na sześcioro, jeden możliwy rezultat|
+|Billy|BG4400|:material-close-circle:|🪦 - trzech na sześcioro, jeden możliwy rezultat|
+|Dribben|BG4400|:material-close-circle:|🪦 - trzech na sześcioro, jeden możliwy rezultat|
+|Sprat|BG4400|:material-check-circle:|do Amn zmierzający|
+|Arghain|BG4400|:material-close-circle:|🪦 - pół ork co nam żelazo zamierzał odebrać|
 
 
+Samotne Szczyty - BG4400
+Enklawa Adoy'a - jaskinia - OH2010
+Enklawa Adoy'a - OH2000
 Firewine - BG4500
 Firewine - kazamaty - BG4501
 Gullykin - winiarnia i świątynia Yondalla - BG4003
