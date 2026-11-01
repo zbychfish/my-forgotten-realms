@@ -246,3 +246,68 @@ div.dt-container .dt-paging .dt-paging-button.current {
 [data-md-color-scheme=slate][data-md-color-primary=deep-purple] {
     --md-typeset-a-color: var(--md-accent-fg-color);
 }
+
+/* ===== Wiersze / pieśni barda (.verse) ===== */
+.verse {
+    position: relative;
+    margin: 2.2rem auto;
+    width: 70%;
+    padding: 1.2rem 1.8rem 1.2rem 2.2rem;
+    border-left: 2px solid var(--md-accent-fg-color);
+    background-color: var(--md-code-bg-color);
+    border-radius: 0 0.4rem 0.4rem 0;
+    font-family: 'Crimson Text', Georgia, serif;
+    font-size: 0.85rem;
+    line-height: 1.8;
+    color: var(--md-default-fg-color--light);
+}
+
+/* Tytuł pieśni */
+.verse-title {
+    display: block;
+    margin-bottom: 0.8rem;
+    font-family: 'Almendra', serif;
+    font-size: 0.95rem;
+    font-style: normal;
+    font-weight: 700;
+    color: var(--md-accent-fg-color);
+    letter-spacing: 0.05em;
+}
+
+/* Zwrotki — domyślnie italic, bez potrzeby * w Markdown */
+.verse p {
+    margin: 0 0 0.8rem 0;
+    font-style: italic;
+}
+
+.verse p:last-child {
+    margin-bottom: 0;
+}
+
+/* Autor — osobna klasa .verse-author */
+.verse-author {
+    display: block;
+    margin-top: 0.9rem;
+    padding-top: 0.6rem;
+    border-top: 1px solid var(--md-default-fg-color--lightest);
+    font-family: 'Crimson Text', Georgia, serif;
+    font-size: 0.8rem;
+    font-style: normal;
+    color: var(--md-default-fg-color--lighter);
+    text-align: right;
+    letter-spacing: 0.03em;
+}
+
+/* Ozdobna cudzysłów otwierająca */
+.verse::before {
+    content: '\201C';
+    position: absolute;
+    top: -0.3rem;
+    left: 0.5rem;
+    font-family: 'Crimson Text', Georgia, serif;
+    font-size: 3rem;
+    line-height: 1;
+    color: var(--md-accent-fg-color);
+    opacity: 0.3;
+    pointer-events: none;
+}
