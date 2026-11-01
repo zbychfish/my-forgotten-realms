@@ -134,9 +134,10 @@
     - Udajemy się do enklawy i tam ratujemy Adoy'a z rąk orka ale Adoy jest nieudacznikiem i niczego Neery nie był w stanie nauczyć.
     <div id="q-111"></div>
 
-??? warning "Magreb and Rilsa"
+??? success "Magreb and Rilsa"
     - **Zleceniodawca:** Magreb w ostoi Adoy'a.
-    - Mamy odnaleźć ciało jefo towarzyszki Rilsy.
+    - Mamy odnaleźć ciało jego towarzyszki Rilsy.
+    - Pomściliśmy elfkę i oddaliśmy jej pierścień Magerbowi.
     <div id="q-110"></div>
 
 ??? success "A Magic Barrel"
@@ -247,10 +248,11 @@
     - Musimy podążyć śladami orków.
     <div id="q-91"></div>
 
-??? warning "Warded Dungeon Under Firewine Bridge"
+??? success "Warded Dungeon Under Firewine Bridge"
     - **Zleceniodawca:** Charleston Nib w starożytnych ruinach.
     - Dał nam zwój otwierający przejście do kolejnych ruin, które chce zbadac o ile wyczyścimy je ze zła wszlekiego.
     - Ruiny znajdują się przy moście Firewine.
+    - Nie było łatwo bo w ruinach wilki, wampiry i pająki ale wyczyszczone z pomiotów zła.
     <div id="q-90"></div>
 
 ??? warning "Restoring Saiai no Hito"

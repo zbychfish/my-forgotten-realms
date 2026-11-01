@@ -25,5 +25,7 @@
 | Obóz Bandytów [54] | BG1900 | ![Gullykin](../maps/BG1900.webp){ width="100" } |
 | Peldvale [55] | BG2400 | ![Peldvale](../maps/BG2400.webp){ width="100" } |
 | Most Firewine [59] | BG4500 | ![Most Firewine](../maps/BG4500.webp){ width="100" } |
+| Enklawa Adoy'a [60] | OH2000 | ![Enklawa Adoy'a](../maps/OH2000.webp){ width="100" } |
+| Samotne Szczyty [61] | BG4400 | ![Samotne Szczyty](../maps/BG4400.webp){ width="100" } |
 
 

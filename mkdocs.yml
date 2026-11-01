@@ -53,7 +53,7 @@ extra_javascript:
   - js/dataTables-init.js
 
 extra_css:
-  - https://fonts.googleapis.com/css2?family=Almendra:wght@400;700&display=swap
+  - https://fonts.googleapis.com/css2?family=Almendra:wght@400;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap
   - https://cdn.datatables.net/2.3.4/css/dataTables.dataTables.min.css
   - css/extra.css
   - css/characters.css
@@ -80,7 +80,8 @@ nav:
       - Mulahey to tylko rozgrzewka: storyline/chapter3-1.md
       - Cudza wola: storyline/chapter3-2.md
       - Nie będzie tak łatwo!: storyline/chapter3-3.md
-      - underconstruction: storyline/chapter3-4.md
+      - Od skamienienia do zapomnienia: storyline/chapter3-4.md
+      - under construction: storyline/chapter3-5.md
 
   - Informacje:
       - Nasz bohater: other/leech.md
