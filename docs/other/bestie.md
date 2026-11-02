@@ -6,6 +6,14 @@ gnoll elita
 mniejszy obserwator
 
 dezerter Płonącej Pięści
+strażnik Płonącej Pięści
+
+goblin łucznik
+
+troll pustynny
+
+wampirzy pomiot
+
  -->
 
 

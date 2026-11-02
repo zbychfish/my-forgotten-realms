@@ -115,6 +115,13 @@
 |Neera|[Zobacz szczegóły](#q-111)|
 |Ogre Hunting|[Zobacz szczegóły](#q-112)|
 |Xvart Raids|[Zobacz szczegóły](#q-113)|
+|The Twisted Rune|[Zobacz szczegóły](#q-114)|
+
+??? warning "The Twisted Rune"
+    - **Zleceniodawca:** Assasyn spotkany na szlaku.
+    - Przy nic fragment raportu mówiacy o stowarzyczeniu i wzmiankująca jej siedmu przywódców
+    - Warto dowiedziec się więcej.
+    <div id="q-114"></div>
 
 ??? success "Ogre Hunting"
     - **Zleceniodawca:** Hulrik w Samotnych Szczytach.
@@ -262,6 +269,7 @@
     - Odnaleźliśmy amulet i trzeba nam wrocić do właściciela.
     - Gallena z uzyciem amuletu w wizjach zobaczyła że katana jest złamana i dwie jej cześci znajdują się osobno.
     - Obiecałem je odnaleźć.
+    - Odłamane ostrza miecza znajdujemy przy trollu w Dolinie Grobowców.
     <div id="q-89"></div>
 
 ??? success "Elminster's Daughter"
