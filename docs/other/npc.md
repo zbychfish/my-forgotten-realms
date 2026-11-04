@@ -241,7 +241,7 @@
 |Sarah|BG4800|:material-check-circle:|nieznośny dzieciak|
 |Tom|BG4800|:material-check-circle:|nieznośny dzieciak|
 |górnik Gord|BG5401|:material-check-circle:|no barbórki to nie obchodzi|
-|górnik Ryuffin|BG5401|:material-check-circle:|tak z kilofem mu do twarzy|
+|górnik Ruffin|BG5401|:material-check-circle:|tak z kilofem mu do twarzy|
 |górnik Dink|BG5401|:material-check-circle:|znalazca sztyletu Kylee'a|
 |górnik Dilak|BG5401|:material-check-circle:|banialuki rzecz|
 |górnik Marvin|BG5401|:material-check-circle:|smoki widzi, mniej gorzały!|
@@ -379,8 +379,23 @@
 |Dribben|BG4400|:material-close-circle:|🪦 - trzech na sześcioro, jeden możliwy rezultat|
 |Sprat|BG4400|:material-check-circle:|do Amn zmierzający|
 |Arghain|BG4400|:material-close-circle:|🪦 - pół ork co nam żelazo zamierzał odebrać|
+|Tonder|BG3201|:material-check-circle:|ochroniony przed lykantropią|
+|Grace|BG5400|:material-check-circle:|rudy dostarczycielka|
+|górnik Sal|BG5401|:material-check-circle:|pamięć ulotną jest|
+|górnik James|BG5401|:material-check-circle:|pamięć ulotną jest|
+|Sazazir|BG5403|:material-close-circle:|🪦 - nekromantom mówimy nie|
+|Ordolath|BG5300|:material-check-circle:|co świecy swojej potrzebuje|
+|Albert|BG5300|:material-check-circle:|czy dziecko może być demonem?|
+|Sendai|BG5300|:material-close-circle:|🪦 - chciała wykazać wyższość Amnu nad Wrotami|
+|Alexander|BG5300|:material-close-circle:|🪦 - przydomka Wilki mu nie dano|
+|Delgod|BG5300|:material-close-circle:|🪦 - podążył za przegranymi|
+|Vax|BG5300|:material-close-circle:|🪦 - pochlebca szybkorękiego |
+|Zal|BG5300|:material-close-circle:|🪦 - szybkoręki - niewystarczająco|
 
 
+
+Las Ognistych Liści - BG5300
+Wysoki Żywopłot - Dom Aiwell - BG2301
 Samotne Szczyty - BG4400
 Enklawa Adoy'a - jaskinia - OH2010
 Enklawa Adoy'a - OH2000

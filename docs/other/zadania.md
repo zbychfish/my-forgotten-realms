@@ -116,6 +116,21 @@
 |Ogre Hunting|[Zobacz szczegóły](#q-112)|
 |Xvart Raids|[Zobacz szczegóły](#q-113)|
 |The Twisted Rune|[Zobacz szczegóły](#q-114)|
+|Ordolath's Candle|[Zobacz szczegóły](#q-115)|
+|Albert and His Dog|[Zobacz szczegóły](#q-116)|
+
+
+
+??? success "Albert and His Dog"
+    - **Zleceniodawca:** Albert w Lesie Płomiennych Liści.
+    - Prosi o odnalezienie jego psa Ruffiego.
+    - Odnajdujemy psa i skłaniamy go do powrotu do właściela. Albert okazuje się być demonem!
+    <div id="q-116"></div>
+
+??? warning "Ordolath's Candle"
+    - **Zleceniodawca:** Ordolath w Lesie Płomiennych Liści.
+    - Prosi o przyniesienie świecy z jego domu we Wrotach
+    <div id="q-115"></div>
 
 ??? warning "The Twisted Rune"
     - **Zleceniodawca:** Assasyn spotkany na szlaku.
@@ -492,6 +507,10 @@
     - Musimy zebrać kamienie szlachetne konieczne to znalezienia przeklętych naramienników.
     - Znaleźliśmy cyrkon, który powinien nadawać się do budowanego urządzenia.
     - Keldath w Pieśni Poranka sprzedał nam czarną perłę.
+    - Wodny opal znależlismy w Samotnych Szczytach.
+    - Thalantyr potwierdził, że przekazane kamienie nadają się do urządzenia namierzającego ale nad nim pracuja Taerom w Beregoście. Melicamp miał go przynieść ale jak zwykle pewnie w coś się uwikłał.
+    - Taerom wysłał Melikampa po rudę do kopalni, która miała mu przekazać Grace.
+    - Grace przed wejściem do kopalni wywiązała się z zadania ale młodemu magowi było za mało i udał się do wnętrza.
     <div id="q-56"></div>
 
 ??? success "Melicamp the Chicken"
@@ -500,24 +519,29 @@
     - Thalantyr przy wykorzystaniu czaszki odczarował szczęśliwie Melicampa.
     <div id="q-55"></div>
 
-??? warning "Bibliophilia"
+??? success "Bibliophilia"
     - **Zleceniodawca:** Gadający mebel w prywatnych komnatach Thalantyra.
     - Mebel to bibliofil uwielbiajacy cykl histori Cienistej Doliny ale brakuje mu ostatniego trzynastego tomu i prosi o jego dostarczenie.
     - Księgę znależliśmy w Nashkel w siedzibie Fenrica.
+    - Księga przekazana i sprawa załatwiona.
     <div id="q-54"></div>
 
-??? warning "Snooping Around"
+??? success "Snooping Around"
     - **Zleceniodawca:** Po podniesieniu kamienia strażniczego w siedzibie Thalantyra.
     - Okazuje się, że kamień otwiera portal do pokoi maga.
     - Po splądrowaniu kufrów wstrzymujemy się z oddaniem kamienia bo mamy jeszcze do wypełnienia prośbę mebla.
+    - Po uporaniu się z zadaniem gadającej biblioteczki zwróciliśmy kamień właścicielowi
     <div id="q-53"></div>
 
-??? warning "Of Wolves and Men"
+??? success "Of Wolves and Men"
     - **Zleceniodawca:** Aiwell na schodach siedziby maga w Wysokim Żywopłocie.
     - Mąż Aiwell zamienia się w wilkołaka, czy możemy temu zapobiec?
     - Porozmawiajmy z Thalantyrem.
     - Musimy mieć jeden z trzech składników ale tylko beladonna daje prawdziwą szansę na pomoc.
     - Znależliśmy wszystkie trzy w tym Belladonę - w Firewine - i możemy wrócić do Wysokiego Żywopłotu
+    - Thalantyr przygotował antidotum.
+    - Rzuculiśmy fiolkę z antidotum pod stopy wilkołaka i szczęśliwie udało się odwrócić proces i Tonder ponownie miał ludzką postać.
+    - Pobiegł do Aiwell przy wejściu do siedzimy Thalantyra, gdzie oboje podziekowali nam za pomoc.
     <div id="q-52"></div>
 
 ??? success "Hunting the Huntsman"
@@ -675,6 +699,9 @@
     - **Zleceniodawca:** Zwój przekazany przez Firebeada w jego domu.
     - Zwój emanuje złą energia i mamy go dostarczyć do ojca Sandrah.
     - Zwój powinien nam odnależć złodzieja odłamka Mystry wykradzionemu Elminsterowi
+    - Dzieki radom Elminstera znajdujemy przejście do miejsca gdzie przebywa uwieziony za wodospadem demon Naronguth.
+    - Zgadza się na oddanie odłamka jesli doatrczymy mu serce jego majwiekszego wroga jakim jest Alzaligrundel.
+    - Wypuszcza nas i przekazuje zwój ktory razem z pierwszym powinien pozowolić nam przenieść się do drugiego demona ktory tej jest uwieziony gdzies w pobliżu pod ziemią.
     <div id="q-29"></div>
 
 ??? success "A Book for Firebead"
