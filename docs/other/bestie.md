@@ -14,6 +14,12 @@ troll pustynny
 
 wampirzy pomiot
 
+*berserker ogr*
+
+*jęczący troll*
+
+strażnik Feniksa
+
  -->
 
 
