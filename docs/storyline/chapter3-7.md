@@ -82,7 +82,7 @@ Uradowani zdobyciem serca demona od razu kierujemy się ponownie do Narongutha. 
 
 Bestiariusz: zimowy wilk, straszliwy wilk, upiorny wilk, straszny wilk, gnoll, ogr berserker, ogrzy mag, ogrilion, zombie, mefit pułu, demoniczny rycerz
 
-## Las Ognistych Liści&nbsp;<span class="cb">67</span> { .divider }
+## Las Ognistych Liści&nbsp;<span class="cb">69</span> { .divider }
 
 ![Las Ognistych Liści](../maps/BG5300.webp){ .center-img width="40%" }
 
@@ -102,7 +102,7 @@ Spryt i szczęście Sandrah bardoz się nam przydało. Niestety magiczny zwój o
 
 Odłamek nie przeniósł ich jednak aż do celu. Dziewczyna uznała, że jej moc nie wystarcza jeszcze na taką odległość. Przynajmniej znów znaleźli się na powierzchni, a po tej piekielnie cuchnącej przygodzie odrobina marszu na świeżym powietrzu mogła im dobrze zrobić. Przyznała, że wszyscy widzieli, co zdołała zdziałać tym potężnym narzędziem. Musieli jednak przyznać, że jego miejsce wciąż jest w rękach jej ojca. Ponagliła więc towarzyszy, by pospieszyli się na spotkanie z nim i zwrócili mu odłamek.
 
-## Nashkel&nbsp;<span class="cb">63</span> { .divider }
+## Nashkel&nbsp;<span class="cb">70</span> { .divider }
 
 ![Nashkel](../maps/BG4800.webp){ .center-img width="40%" }
 
