@@ -121,13 +121,19 @@
 |Prisoner of the Gnolls|[Zobacz szczegóły](#q-117)|
 |Dryad of the Cloud Peaks|[Zobacz szczegóły](#q-118)|
 |Drienne's Cat|[Zobacz szczegóły](#q-119)|
+|Whispers of the Carousel|[Zobacz szczegóły](#q-120)|
 
+
+??? success "Whispers of the Carousel"
+    - **Zleceniodawca:** Rigaldo w Oku Gorgony.
+    - Mamy wykraść zatrute sztrzałki grupie oszustów w namiotach hazardowych w jarmarku w Nashkel.
+    - Truchło znajdujemy w jeziorku na dole wodospadu.
+    <div id="q-120"></div>
 
 ??? success "Drienne's Cat"
     - **Zleceniodawca:** Drienne w Wodogrzmotach Driad.
     - Chciałaby się dowiedzieć czy jej kotek przeżył upadek z kaskady.
     - Truchło znajdujemy w jeziorku na dole wodospadu.
-    - 
     <div id="q-119"></div>
 
 ??? success "Dryad of the Cloud Peaks"
@@ -269,9 +275,11 @@
     - Sen wskazywał, że sprawy w ruinach nie zostały zakończone.
     <div id="q-95"></div>
 
-??? warning "Beneath the Plougshares"
+??? success "Beneath the Plougshares"
     - **Zleceniodawca:** Rigaldo w Oku Gorgony  w Beregost.
     - Mamy zdobyć dwa pierścienie jakie chce sprzedać Karp w Nashkel.
+    - Oddaje na pierścienie, za zapewnienie bezpiecznej ucieczki do Anthkali.
+    - Zed z oka Gorgony pomogła wszystko zorganizaować i przekazaliśmy pierścienie Rigaldo.
     <div id="q-94"></div>
 
 ??? success "Samuel and Lena"
@@ -318,6 +326,9 @@
     - Mamy zająć się ferajną niejakiego Rithelma.
     - Odnajdujemy bandę w westybulu przy światyni Lathandera i się z nią rozprawiamy.
     - Otrzymujemy kolejne zadanie tym razem chodzi o bandę hobgoblinów.
+    - Likwidujemy grupe w Czerwonych Jarach.
+    - Następnie musimy zabić nekromantę, który znalazł sobie ostoje we własnie co oczyszczonej z koboldów kopalni Nashkel
+    - Tym razem mamy zlikwidować ogrzego maga, który kradnie księgi aby dostać się do Candlekeep.
     <div id="q-87"></div>
 
 ??? warning "Vai's Bounty Upon Bandits"
