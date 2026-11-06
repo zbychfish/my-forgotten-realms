@@ -70,7 +70,7 @@
 |Into the Manhood|[Zobacz szczegóły](#q-67)|
 |Edwin and Dynaheir|[Zobacz szczegóły](#q-68)|
 |Stronghold and Its Shadows|[Zobacz szczegóły](#q-69)|
-|A Failed Picninc|[Zobacz szczegóły](#q-70)|
+|A Failed Picnic|[Zobacz szczegóły](#q-70)|
 |Nashkel Monster|[Zobacz szczegóły](#q-71)|
 |Joseph's Wife|[Zobacz szczegóły](#q-72)|
 |The Rat King|[Zobacz szczegóły](#q-73)|
@@ -118,8 +118,28 @@
 |The Twisted Rune|[Zobacz szczegóły](#q-114)|
 |Ordolath's Candle|[Zobacz szczegóły](#q-115)|
 |Albert and His Dog|[Zobacz szczegóły](#q-116)|
+|Prisoner of the Gnolls|[Zobacz szczegóły](#q-117)|
+|Dryad of the Cloud Peaks|[Zobacz szczegóły](#q-118)|
+|Drienne's Cat|[Zobacz szczegóły](#q-119)|
 
 
+??? success "Drienne's Cat"
+    - **Zleceniodawca:** Drienne w Wodogrzmotach Driad.
+    - Chciałaby się dowiedzieć czy jej kotek przeżył upadek z kaskady.
+    - Truchło znajdujemy w jeziorku na dole wodospadu.
+    - 
+    <div id="q-119"></div>
+
+??? success "Dryad of the Cloud Peaks"
+    - **Zleceniodawca:** Driada przy dąbie w Wodogrzmotach Driad.
+    - Prosi o ochronę prastarego dębu przed dwoma łotrami.
+    - Obaj już żadnego drzewa nie zetną a drudka był nam wdzięczna.
+    <div id="q-118"></div>
+
+??? warning "Prisoner of the Gnolls"
+    - **Zleceniodawca:** Ignot w Wodogrzmotach Driad.
+    - Wspominal o uwięzionej druidce w twierdzy na zachodzie.
+    <div id="q-117"></div>
 
 ??? success "Albert and His Dog"
     - **Zleceniodawca:** Albert w Lesie Płomiennych Liści.
@@ -411,6 +431,7 @@
 ??? warning "A Failed Picnic"
     - **Zleceniodawca:** Pani Brunnstein przy Bekającym Smoku w Nashkel
     - Prosi o pomoc w odnalezieniu jej syna Aarona.
+    - W Wodogzmotach Driad odnajdujemy ducha Mariny, która czeka na Aarona porwanego przez jakieś stwory.
     <div id="q-70"></div>
 
 ??? warning "Stronghold and Its Shadows"
@@ -702,6 +723,8 @@
     - Dzieki radom Elminstera znajdujemy przejście do miejsca gdzie przebywa uwieziony za wodospadem demon Naronguth.
     - Zgadza się na oddanie odłamka jesli doatrczymy mu serce jego majwiekszego wroga jakim jest Alzaligrundel.
     - Wypuszcza nas i przekazuje zwój ktory razem z pierwszym powinien pozowolić nam przenieść się do drugiego demona ktory tej jest uwieziony gdzies w pobliżu pod ziemią.
+    - Arcywrogiem okazuje się smok, do którego docieramy przeniesieni przez zwój w jaskini w Wodogrzmotach Driad.
+    - Dochodzimy do porozumienia z Alzaligrundel, oddaje na serce zabitego niedawno jego krewniaka i Naronguth na pewno nie zorientuje się, że to oszustwo.
     <div id="q-29"></div>
 
 ??? success "A Book for Firebead"
@@ -884,6 +907,7 @@
     - Po odebraniu zwoju został od niezwłocznie dostarczony
     <div id="q-1"></div>
   
+
 
 
 

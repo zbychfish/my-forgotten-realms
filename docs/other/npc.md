@@ -391,8 +391,10 @@
 |Delgod|BG5300|:material-close-circle:|🪦 - podążył za przegranymi|
 |Vax|BG5300|:material-close-circle:|🪦 - pochlebca szybkorękiego |
 |Zal|BG5300|:material-close-circle:|🪦 - szybkoręki - niewystarczająco|
-
-
+|Ingot|BG5200|:material-check-circle:|co z twierdzy wygnany został|
+|Ludrug|BG5200|:material-close-circle:|🪦 - gnoll co już nikogo nie ograbi|
+|Krumm|BG5200|:material-close-circle:|🪦 - bezprawne ścinanie drzew jest grożne|
+|Caldo|BG5200|:material-close-circle:|🪦 - bezprawne ścinanie drzew jest grożne|
 
 Las Ognistych Liści - BG5300
 Wysoki Żywopłot - Dom Aiwell - BG2301

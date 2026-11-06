@@ -27,6 +27,7 @@
 | Most Firewine [59] | BG4500 | ![Most Firewine](../maps/BG4500.webp){ width="100" } |
 | Enklawa Adoy'a [60] | OH2000 | ![Enklawa Adoy'a](../maps/OH2000.webp){ width="100" } |
 | Samotne Szczyty [61] | BG4400 | ![Samotne Szczyty](../maps/BG4400.webp){ width="100" } |
-| Las Ognistych Liści [67] | BG5300 | ![Las Ognistych Liści](../maps/BG5300.webp){ width="100" } |
+| Las Ognistych Liści [67,69] | BG5300 | ![Las Ognistych Liści](../maps/BG5300.webp){ width="100" } |
+| Wodogrzmoty Driad [68] | BG5300 | ![Wodogrzmoty Driad](../maps/BG5200.webp){ width="100" } |
 
 

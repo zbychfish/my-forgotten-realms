@@ -20,6 +20,7 @@ wampirzy pomiot
 
 strażnik Feniksa
 
+demoniczny rycerz
  -->
 
 
