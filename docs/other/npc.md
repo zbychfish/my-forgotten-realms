@@ -386,16 +386,27 @@
 |Sazazir|BG5403|:material-close-circle:|🪦 - nekromantom mówimy nie|
 |Ordolath|BG5300|:material-check-circle:|co świecy swojej potrzebuje|
 |Albert|BG5300|:material-check-circle:|czy dziecko może być demonem?|
+|Ruffie|BG5300|:material-check-circle:|pies Alberta|
 |Sendai|BG5300|:material-close-circle:|🪦 - chciała wykazać wyższość Amnu nad Wrotami|
 |Alexander|BG5300|:material-close-circle:|🪦 - przydomka Wilki mu nie dano|
 |Delgod|BG5300|:material-close-circle:|🪦 - podążył za przegranymi|
 |Vax|BG5300|:material-close-circle:|🪦 - pochlebca szybkorękiego |
 |Zal|BG5300|:material-close-circle:|🪦 - szybkoręki - niewystarczająco|
+|Larry|BG5300|:material-check-circle:|brat Darrylów|
+|Darryl|BG5300|:material-check-circle:|brat drugiego Darryla|
+|Darryl|BG5300|:material-check-circle:|brat pierwszego Darryla|
+|Naronguth|BG5300|:material-check-circle:|demon co serce wyrwać chce Alzaligrundelowi|
 |Ingot|BG5200|:material-check-circle:|co z twierdzy wygnany został|
 |Ludrug|BG5200|:material-close-circle:|🪦 - gnoll co już nikogo nie ograbi|
 |Krumm|BG5200|:material-close-circle:|🪦 - bezprawne ścinanie drzew jest grożne|
 |Caldo|BG5200|:material-close-circle:|🪦 - bezprawne ścinanie drzew jest grożne|
+|Drienne|BG5200|:material-check-circle:|co kotka straciła|
+|Pixie|BG5200|:material-check-circle:|🪦 - kotek co życie, któreś z rzędu stracił|
+|Alzaligrundel|BG5300|:material-check-circle:|demon w smoczej skórze|
 
+
+
+Wodogrzmoty Driad - BG5200
 Las Ognistych Liści - BG5300
 Wysoki Żywopłot - Dom Aiwell - BG2301
 Samotne Szczyty - BG4400

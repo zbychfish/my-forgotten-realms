@@ -122,7 +122,15 @@
 |Dryad of the Cloud Peaks|[Zobacz szczegóły](#q-118)|
 |Drienne's Cat|[Zobacz szczegóły](#q-119)|
 |Whispers of the Carousel|[Zobacz szczegóły](#q-120)|
+|Roadmap to Waterdeep|[Zobacz szczegóły](#q-121)|
 
+
+??? warning "Roadmap to Waterdeep"
+    - **Zleceniodawca:** Podczas rozmowy z Sandrah w Pomocnej Dłoni o jej życiu w Waterdeep.
+    - Sandrah chciałaby odwiedzić dom rodzinny.
+    - Podobno istnieje magiczny skrót do Waterdeep niedaleko Pomocnej Dłoni
+    - Zagadnięty w karczmie Jopi "przypadkowo" miał mapę ujawniającą położenie tego skrótu.
+    <div id="q-121"></div>
 
 ??? success "Whispers of the Carousel"
     - **Zleceniodawca:** Rigaldo w Oku Gorgony.
@@ -329,6 +337,7 @@
     - Likwidujemy grupe w Czerwonych Jarach.
     - Następnie musimy zabić nekromantę, który znalazł sobie ostoje we własnie co oczyszczonej z koboldów kopalni Nashkel
     - Tym razem mamy zlikwidować ogrzego maga, który kradnie księgi aby dostać się do Candlekeep.
+    - Okazuje się, że szuka słynnego dzieła Ars Amandi i przekonujemy go, że może zadowolić się repliką, która zamierzamy dla niego zdobyć.
     <div id="q-87"></div>
 
 ??? warning "Vai's Bounty Upon Bandits"
@@ -727,7 +736,7 @@
     - Bjornin rad był bardzo.
     <div id="q-30"></div>
 
-??? warning "A Demonic Scroll"
+??? success "A Demonic Scroll"
     - **Zleceniodawca:** Zwój przekazany przez Firebeada w jego domu.
     - Zwój emanuje złą energia i mamy go dostarczyć do ojca Sandrah.
     - Zwój powinien nam odnależć złodzieja odłamka Mystry wykradzionemu Elminsterowi
@@ -736,6 +745,8 @@
     - Wypuszcza nas i przekazuje zwój ktory razem z pierwszym powinien pozowolić nam przenieść się do drugiego demona ktory tej jest uwieziony gdzies w pobliżu pod ziemią.
     - Arcywrogiem okazuje się smok, do którego docieramy przeniesieni przez zwój w jaskini w Wodogrzmotach Driad.
     - Dochodzimy do porozumienia z Alzaligrundel, oddaje na serce zabitego niedawno jego krewniaka i Naronguth na pewno nie zorientuje się, że to oszustwo.
+    - Przekazujemy Naronguth'owi serce a ten nie miał zamiaru dotrzymać słowa. Na szczęście Sandrah udało się wysłać demona do piekła a w pośpiechu zostawił odłamek.
+    - Zrwacamy odzyskany artefakt Elminsterowi mimo, że demon wysłał na nas dwa pomniejsze plugastwa tuż przed wejściem do pomocnej dłoni.
     <div id="q-29"></div>
 
 ??? success "A Book for Firebead"
