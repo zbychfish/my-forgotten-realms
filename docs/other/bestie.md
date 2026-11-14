@@ -21,6 +21,10 @@ wampirzy pomiot
 strażnik Feniksa
 
 demoniczny rycerz
+
+ogr berserker
+
+mefit pyłu
  -->
 
 

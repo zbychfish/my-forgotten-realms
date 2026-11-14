@@ -402,7 +402,14 @@
 |Caldo|BG5200|:material-close-circle:|🪦 - bezprawne ścinanie drzew jest grożne|
 |Drienne|BG5200|:material-check-circle:|co kotka straciła|
 |Pixie|BG5200|:material-check-circle:|🪦 - kotek co życie, któreś z rzędu stracił|
-|Alzaligrundel|BG5300|:material-check-circle:|demon w smoczej skórze|
+|Alzaligrundel|BG5300|:material-close-circle:|demon w smoczej skórze|
+|Raemon|BG1900|:material-close-circle:|🪦 - jeden z hersztów bandy Chłodu i Czarnych Szponów|
+|Brotus Bloodthirst|BG1900|:material-close-circle:|🪦 - jeden z hersztów bandy Chłodu i Czarnych Szponów|
+|Britik|BG1900|:material-close-circle:|🪦 - jeden z hersztów bandy Chłodu i Czarnych Szponów|
+|Hakt|BG1900|:material-close-circle:|🪦 - jeden z hersztów bandy Chłodu i Czarnych Szponów|
+|Ender Sai|BG1901|:material-check-circle:|uratoway elf z obozu bandytów|
+
+
 
 
 

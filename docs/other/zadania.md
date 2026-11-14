@@ -123,7 +123,21 @@
 |Drienne's Cat|[Zobacz szczegóły](#q-119)|
 |Whispers of the Carousel|[Zobacz szczegóły](#q-120)|
 |Roadmap to Waterdeep|[Zobacz szczegóły](#q-121)|
+|A Hidden Base in the Cloakwood|[Zobacz szczegóły](#q-122)|
+|Disrespected Flowers|[Zobacz szczegóły](#q-123)|
 
+
+
+??? success "Disrespected Flowers"
+    - **Zleceniodawca:** "Ogrodniczka" nieopodal obozu bandytów.
+    - Prosiła o pozbycię sie Garlaxa, który oddał był mocz na jej roślinkę.
+    - Garlax był już usieczony co więc pozwoliło nam zamknąć tą sprawę.
+    <div id="q-123"></div>
+
+??? warning "A Hidden Base in the Cloakwood"
+    - **Zleceniodawca:** Podczas rozmowy z Ender Sai w obozie bandytów.
+    - Powinniśmy szukać rozwiązania zagadki kto stoi za nadytami w ich ukrytej bazie gdzieś w glębi Płaszczowego Lasu.
+    <div id="q-122"></div>
 
 ??? warning "Roadmap to Waterdeep"
     - **Zleceniodawca:** Podczas rozmowy z Sandrah w Pomocnej Dłoni o jej życiu w Waterdeep.
@@ -132,10 +146,9 @@
     - Zagadnięty w karczmie Jopi "przypadkowo" miał mapę ujawniającą położenie tego skrótu.
     <div id="q-121"></div>
 
-??? success "Whispers of the Carousel"
+??? warning "Whispers of the Carousel"
     - **Zleceniodawca:** Rigaldo w Oku Gorgony.
     - Mamy wykraść zatrute sztrzałki grupie oszustów w namiotach hazardowych w jarmarku w Nashkel.
-    - Truchło znajdujemy w jeziorku na dole wodospadu.
     <div id="q-120"></div>
 
 ??? success "Drienne's Cat"
@@ -147,7 +160,7 @@
 ??? success "Dryad of the Cloud Peaks"
     - **Zleceniodawca:** Driada przy dąbie w Wodogrzmotach Driad.
     - Prosi o ochronę prastarego dębu przed dwoma łotrami.
-    - Obaj już żadnego drzewa nie zetną a drudka był nam wdzięczna.
+    - Obaj już żadnego drzewa nie zetną a druidka był nam wdzięczna.
     <div id="q-118"></div>
 
 ??? warning "Prisoner of the Gnolls"
@@ -302,8 +315,10 @@
     <div id="q-92"></div>
 
 ??? warning "The Kidnapping of Henning"
-    - **Zleceniodawca:** Po rozmowie Berrunem Ghastkillem n atemat porwania Henninga.
+    - **Zleceniodawca:** Po rozmowie Berrunem Ghastkillem na atemat porwania Henninga.
     - Musimy podążyć śladami orków.
+    - Część z nich spotykamy w jaskini koło wioski niziołków w Gullykin. Reszta ruszyła do Tazoka.
+    - Grupa rozdzieliła się ponownie o czym dowiadują się w obozie bandytów i Henning został poprowadzony do Knieji Otulisko.
     <div id="q-91"></div>
 
 ??? success "Warded Dungeon Under Firewine Bridge"
@@ -478,6 +493,7 @@
     - Brage jest w kaplicy a Nalin prosi o przeprowadzenie śledztwa mającego wykryć czy za szaleństwem kapitana nie kryje sie jakaś intryga.
     - Oublek nie jest zadowolony ze kapłani chronią Brage'a i liczy na właściwe potraktowanie mordercy.
     - Nalin potwierdził, że miecz, który dostał Brage'a jest przeklęty i porposił o kontynuacje śledztwa.
+    - W obozie bandytów znależliśmy list do Tazoka od Bordy, który był zleceniobiorcą, jego kontakt powinniśmy znaleźć w jarmarku Nashkel.
     <div id="q-66"></div>
 
 ??? success "Prism the Sculptor"
@@ -773,6 +789,7 @@
     - Pierwszą księgę odnaleziono w skrzyni na jarmarku w Nashkel
     - Druga w beczce na jednym z jezior w Pedvale.
     - Trzecia w domu Jenkala w Gullykin.
+    - Czwarta w obozie bandytów.
     <div id="q-25"></div>
 
 ??? success "Bassilus Murderer"
@@ -844,6 +861,7 @@
     - **Zleceniodawca:** Jen'Lig podczas rozmowy przez nią zainicjowaną.
     - Celem jest odnalezienia wykradzionego srebrnego miecza. Ślady prowadzą do Wrót Baldura.
     - Udało się odnaleźć pochwę miecza w kryjówce Mulaheya w kopalni Nashkel.
+    - Po zabicu Tazoka, kolejnym celem aby dostać się do Wrot Baldura jesli Knieja Otulisko.
     <div id="q-15"></div>
 
 ??? success "Landrin's Possessions"
