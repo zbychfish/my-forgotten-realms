@@ -125,8 +125,30 @@
 |Roadmap to Waterdeep|[Zobacz szczegóły](#q-121)|
 |A Hidden Base in the Cloakwood|[Zobacz szczegóły](#q-122)|
 |Disrespected Flowers|[Zobacz szczegóły](#q-123)|
+|Khattark - the Bandit|[Zobacz szczegóły](#q-124)|
+|A Book For Finch|[Zobacz szczegóły](#q-125)|
+|Naronguth's Return|[Zobacz szczegóły](#q-126)|
 
 
+??? success "Naronguth's Return"
+    - **Zleceniodawca:** Elminster w swoim domu w Waterdeep.
+    - Sądzi, że Naronguth, będzie chciał ukarać Sandrah za wystrychnięcie do na dudka.
+    - Przygotował kopię jego srebrnych kapci, które powinny na jakiś czas zająć się demonem.
+    - Demon zaskoczył nas na trakcie do Waterdeep i szczęśliwie założył kapcie przygotowane przez maga.
+    - Zamiast go wzmocnić. Naronguth stanął w płomieniach i zszedł.
+    <div id="q-126"></div>
+
+??? warning "A Book For Finch"
+    - **Zleceniodawca:** Po otrzymaniu książki od Clarissy Bloomwhiffler.
+    - Książka ma być kolejnym rzadkim dziełem w bibliotece, którą chce założyć Finch.
+    <div id="q-125"></div>
+
+??? success "Khattark - the Bandit"
+    - **Zleceniodawca:** Porwanie dziecka Hillath na trakcie do Waterdeep.
+    - Mamy zlikidować Khattarka i jego bandę, nękającą miasto.
+    - Po rozmowie z Ringhontalem w świątyni Mystry wydaje się, że kryjówka bandyty musi znajować się w kanałach miejskich.
+    - Tam też go znajdujemy i nie bez wysiłku neutralizujemy.
+    <div id="q-124"></div>
 
 ??? success "Disrespected Flowers"
     - **Zleceniodawca:** "Ogrodniczka" nieopodal obozu bandytów.
@@ -139,11 +161,12 @@
     - Powinniśmy szukać rozwiązania zagadki kto stoi za nadytami w ich ukrytej bazie gdzieś w glębi Płaszczowego Lasu.
     <div id="q-122"></div>
 
-??? warning "Roadmap to Waterdeep"
+??? success "Roadmap to Waterdeep"
     - **Zleceniodawca:** Podczas rozmowy z Sandrah w Pomocnej Dłoni o jej życiu w Waterdeep.
     - Sandrah chciałaby odwiedzić dom rodzinny.
     - Podobno istnieje magiczny skrót do Waterdeep niedaleko Pomocnej Dłoni
     - Zagadnięty w karczmie Jopi "przypadkowo" miał mapę ujawniającą położenie tego skrótu.
+    - Z użyciem mapy udaje się nam dotrzeć do rogatek miasta.
     <div id="q-121"></div>
 
 ??? warning "Whispers of the Carousel"

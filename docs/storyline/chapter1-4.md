@@ -1,6 +1,6 @@
 # Oko Gorhony
 
-![Oko Gorgony](../images/oko_gorgony_logo.webp){ .center-img width="40%" }
+![Oko Gorgony](../images/oko_gorgony_logo.webp){ .center-img width="100%" }
 
 ## Beregost&nbsp;<span class="cb">5</span> { .divider }
 

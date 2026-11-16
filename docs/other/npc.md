@@ -408,11 +408,35 @@
 |Britik|BG1900|:material-close-circle:|🪦 - jeden z hersztów bandy Chłodu i Czarnych Szponów|
 |Hakt|BG1900|:material-close-circle:|🪦 - jeden z hersztów bandy Chłodu i Czarnych Szponów|
 |Ender Sai|BG1901|:material-check-circle:|uratoway elf z obozu bandytów|
+|Jonathan|CRVOA1|:material-check-circle:|🪦 - ofiara Khattarka|
+|Hillath|CRVOA1|:material-check-circle:|wdowa po Jonathaie|
+|Khattark|CRVOA1|:material-close-circle:|🪦 - herszt bandy nękającej Waterdeep|
+|Ilvastarr, lady|CRVOA9|:material-check-circle:|wyznawczyni Siamorphe|
+|Dan, żeglarz|CRVOA2|:material-check-circle:|wyznawczyni Siamorphe|
+|Kolekcjoner|CRVOA7|:material-check-circle:|wyznawczyni Siamorphe|
+|Araxis|CVELM1|:material-check-circle:|udomowiona wywerna|
+|Clarissa Bloomwhiffler|CVELM1|:material-check-circle:|bibliofilka z Waterdeep|
+|Ranthona|CVELM2|:material-check-circle:|kapłanka Mystry|
+|Ringhontal|CVELM3|:material-check-circle:|kapłank x Mystry|
+|Henk|CVROA3|:material-check-circle:|kapłan x Mystry|
+|Yantl|CVROA3|:material-check-circle:|kapłan x Mystry|
+|Leyala|CVELM3|:material-check-circle:|uzdrowiona dziewczyna z Waterdeep|
+|Whyrtman|CVMAG2|:material-check-circle:|🪦 - miłość do syreny kończy się źle|
+|Neerol|CVMAG2|:material-check-circle:|syrena co z mężczyzną żyć chciała|
+|Coq|CVWDRE|:material-check-circle:|kelner z Le Coq d'Or aux l'Eau Basse|
+|Garcon|CVWDRE|:material-check-circle:|kelner z Le Coq d'Or aux l'Eau Basse|
 
 
-
-
-
+Waterdeep - restaruracja - CVWDRE
+Waterdeep - dom maga Whyrtmana - CVMAG2
+Waterdeep - jarmark - CVROA3
+Waterdeep - świątynia Mystry - świątynia wewnętrzna - CVELM3
+Waterdeep - świątynia Mystry - CVELM2
+Waterdeep - dzielnica centralna - CVELM1
+Waterdeep - burdel Sharess - CRVOA7
+Waterdeep - świątynia Siamorphe - CRVOA9
+Waterdeep - dzielnica południowa - CRVOA2
+Trakt do Waterdeep - CRVOA1
 Wodogrzmoty Driad - BG5200
 Las Ognistych Liści - BG5300
 Wysoki Żywopłot - Dom Aiwell - BG2301

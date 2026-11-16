@@ -25,6 +25,15 @@ demoniczny rycerz
 ogr berserker
 
 mefit pyłu
+
+Czarne Szpony elita, generał
+
+hobgoblin Chłodu
+
+gnoll weteran
+
+
+
  -->
 
 

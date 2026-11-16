@@ -29,5 +29,7 @@
 | Samotne Szczyty [61] | BG4400 | ![Samotne Szczyty](../maps/BG4400.webp){ width="100" } |
 | Las Ognistych Liści [67,69] | BG5300 | ![Las Ognistych Liści](../maps/BG5300.webp){ width="100" } |
 | Wodogrzmoty Driad [68] | BG5300 | ![Wodogrzmoty Driad](../maps/BG5200.webp){ width="100" } |
+| Trakt do Waterdeep [76] | CVROA1 | ![Trakt do Waterdeep](../maps/CVROA1.webp){ width="100" } |
+| Waterdeep [77] | WATERD | ![Waterdeep](../maps/WATERD.webp){ width="100" } |
 
 

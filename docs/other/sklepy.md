@@ -32,3 +32,4 @@ S**Sklepikarz w namiocie koło dużych jurt** - jarmark w Nashkel, bardzo dobre 
 
 **Haeball** - Knieja Larsa w wieży, zwoje, różdżki i eliksiry
 
+**Clarissa Bloomwhiffler** - w sklepie w dzielnica centralnej Waterdeep - zwoje oraz grymuary!
