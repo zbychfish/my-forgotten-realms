@@ -1,6 +1,6 @@
 # Od świątyni do kurnika
 
-![](../images/od_swiatyni_do_kurnika.webp){ .center-img width="40%" }
+![](../images/od_swiatyni_do_kurnika.webp){ .center-img width="100%" }
 
 ## Świątynia Lathandera&nbsp;<span class="cb">6</span> { .divider }
 

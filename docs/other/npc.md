@@ -425,8 +425,41 @@
 |Neerol|CVMAG2|:material-check-circle:|syrena co z mężczyzną żyć chciała|
 |Coq|CVWDRE|:material-check-circle:|kelner z Le Coq d'Or aux l'Eau Basse|
 |Garcon|CVWDRE|:material-check-circle:|kelner z Le Coq d'Or aux l'Eau Basse|
+|Andrea|CM3372|:material-close-circle:|🪦 - sadystka z Sekcji|
+|Jonas|CM3372|:material-close-circle:|🪦 - sadysta z Sekcji|
+|Paul Wolfe|CM3376|:material-close-circle:|🪦 - sadysta z Sekcji, używający inicjałów w swoich listach gończych|
+|Madeline|CM3376|:material-close-circle:|🪦 - sadystka z Sekcji|
+|Michael Samuelle|CM3376|:material-close-circle:|🪦 - sadysta z Sekcji, używający inicjałów w swoich listach gończych|
+|Nikita|CM3376|:material-check-circle:|członek Sekcji nie przeżarty sadyzmem|
+|Lillian Darkwater|CM3374|:material-close-circle:|🪦 - sadystka z Sekcji|
+|Kharaz|BG4000|:material-close-circle:|🪦 - co miecz chciał odzyskać| 
+|Furret|BG3900|:material-check-circle:|co chciał nas na błyskotkę za krocie namówić |
+|Myr'Cutio|BG3900|:material-close-circle:|🪦 - znudzony nieżyciem duch barda|
+|Icharyd|BG3900|:material-close-circle:|🪦 - zombie co chciał nas pożreć|
+|Ulcaster|BG3900|:material-check-circle:|duch twórcy zniszczonej szkoły magów|
+|Mal-Kalen|BG3901|:material-check-circle:|pozbawiony ciała uczeń Ulcaster|
+|Czaya|L#ULC1|:material-check-circle:|duch uczennicy z Ulcaster|
+|Ssimkh|L#ULC3|:material-close-circle:|🪦 - pająk żerujący na duchach|
+|Tomasz|L#ULC3|:material-check-circle:|duch ucznia z Ulcaster|
+|Monarah|L#ULC3|:material-check-circle:|duch ucznia z Ulcaster|
+|Ynaka|L#ULC3|:material-check-circle:|duch ucznia z Ulcaster|
+|Peepuu|L#ULC3|:material-check-circle:|duch ucznia z Ulcaster|
+|Ariaa, arcymagini|CM2680|:material-close-circle:|🪦 - duch maga z Ulcaster|
+|Anton Valor, arcymag|CM2680|:material-close-circle:|🪦 - duch maga z Ulcaster|
+|Garrett, arcymag|CM2680|:material-close-circle:|🪦 - duch maga z Ulcaster|
+|Natas, arcymag|CM2680|:material-close-circle:|🪦 - duch maga z Ulcaster|
+|Erica|BG3900|:material-close-circle:|🪦 - kolejny idiotka w czerwonym płaszczu|
+|Jeneik|BG3900|:material-close-circle:|🪦 - kolejny idiota w czerwonym płaszczu|
+|Taneth|BG3900|:material-close-circle:|🪦 - kolejny idiota w czerwonym płaszczu|
+|Pelltar|BG3402|:material-check-circle:|co do Bone Hill ich przeniósł|
 
 
+Ulcaster - komnaty pod Ulcatser - CM2681
+Ulcaster - komnaty pod Ulcatser - CM2680
+Ulcaster - leże Ssimkh - L#ULC3
+Ulcaster - przejście do tuneli z pająkami - L#ULC1
+Ulcaster - kazamaty - BG3901
+Ulcaster - BG3900
 Waterdeep - restaruracja - CVWDRE
 Waterdeep - dom maga Whyrtmana - CVMAG2
 Waterdeep - jarmark - CVROA3

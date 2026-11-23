@@ -128,7 +128,22 @@
 |Khattark - the Bandit|[Zobacz szczegóły](#q-124)|
 |A Book For Finch|[Zobacz szczegóły](#q-125)|
 |Naronguth's Return|[Zobacz szczegóły](#q-126)|
+|Tomes of Magic|[Zobacz szczegóły](#q-127)|
+|Eight-Legged Misery|[Zobacz szczegóły](#q-128)|
 
+
+??? success "Eight-Legged Misery"
+    - **Zleceniodawca:** Czaya w kazamatach Ulcaster.
+    - Prosi o odnalezienie wyczyszczenie lochów z pająków.
+    - Po znalezieniu drogi w labiryncie jam wypełnionych pająkami do cieramy do Ssimkh pająka żerującego na duchach.
+    - Jego unicestwienie zwraca wolność i spokój duchom z Ulcaster.
+    <div id="q-128"></div>
+
+??? success "Tomes of Magic"
+    - **Zleceniodawca:** Duch Ulcastera przy ruinach szkoły.
+    - Prosi o odnalezienie jakiegoś tomu z podziemi pod szkołą.
+    - Zwracamy mu tomiszcze znaleziono w podziemiach.
+    <div id="q-127"></div>
 
 ??? success "Naronguth's Return"
     - **Zleceniodawca:** Elminster w swoim domu w Waterdeep.
@@ -141,6 +156,9 @@
 ??? warning "A Book For Finch"
     - **Zleceniodawca:** Po otrzymaniu książki od Clarissy Bloomwhiffler.
     - Książka ma być kolejnym rzadkim dziełem w bibliotece, którą chce założyć Finch.
+    - Okazuje się, że ksiązka jest poszukiwana przez jakiś łowców, musimy się dowiedzieć dlaczego?
+    - Ataki się powtarzają a Sandrah wraz z Finch odkrywają, że księga kryła szkic mapy oraz instrukcje jak dotrzeć do jakiegoś miejsca, pewnie skarbu.
+    - Trzeba pytać kapitanów portów o wyspę podobną do naszkicowanej w notatniku Monteelaha
     <div id="q-125"></div>
 
 ??? success "Khattark - the Bandit"
@@ -172,6 +190,7 @@
 ??? warning "Whispers of the Carousel"
     - **Zleceniodawca:** Rigaldo w Oku Gorgony.
     - Mamy wykraść zatrute sztrzałki grupie oszustów w namiotach hazardowych w jarmarku w Nashkel.
+    - Jen'lig okrada ośmiu krupierów i przekazujemy je Arioshowi oczekującymi na nie na skraju lasu.
     <div id="q-120"></div>
 
 ??? success "Drienne's Cat"
@@ -267,9 +286,11 @@
     - Nieopodal nieumarły miał przy sobie zbroję, której poszukiwały duchy.
     <div id="q-104"></div>
 
-??? warning "Firewine Bridge and Gullykin"
+??? failure "Firewine Bridge and Gullykin"
     - **Zleceniodawca:** Gandolar Luckyfoot w Gullykin.
     - Prosi o zajęcie się koboldami w Firewine.
+    - Wykonujemy zadanie ale po powrocie do niego zamyka inny quest zamiast tego
+    - Zadanie wykonane!
     <div id="q-103"></div>
 
 ??? warning "Big Appetite in Small Gullykin"
@@ -303,9 +324,10 @@
     - Miał go nieopodal eterkap.
     <div id="q-98"></div>
 
-??? warning "The Firewine Ruins"
+??? success "The Firewine Ruins"
     - **Zleceniodawca:** Ted w Peldvale.
     - Nieznajomy sugeruje udanie się do Firewine aby zdobyć wartościowe łupy.
+    - Po wyczysczeniu ruin z wszelkiego zła Gandolar Luckyfoot dziękuje nam za wyeliminowanie problemu.
     <div id="q-97"></div>
 
 ??? success "Man and His Hatchet"
@@ -376,6 +398,9 @@
     - Następnie musimy zabić nekromantę, który znalazł sobie ostoje we własnie co oczyszczonej z koboldów kopalni Nashkel
     - Tym razem mamy zlikwidować ogrzego maga, który kradnie księgi aby dostać się do Candlekeep.
     - Okazuje się, że szuka słynnego dzieła Ars Amandi i przekonujemy go, że może zadowolić się repliką, która zamierzamy dla niego zdobyć.
+    - Kopię księgi posiadał Firebead z Beregost.
+    - Przekazujemy księgę orkowi ale okazuje się skradzione wcześniej księgi gdzieś sie zapodziały. Tylko jedna szcześliwie ocałała. Tak czy inaczej ork odszedł usatysfakcjonowany uzyskaniem dostępu do poszukiwanego przez niego poradnika.
+    - 
     <div id="q-87"></div>
 
 ??? warning "Vai's Bounty Upon Bandits"
@@ -454,9 +479,10 @@
     - Przekazujemy smutną wiadomość.
     <div id="q-76"></div>
 
-??? warning "Traveling Librarians"
+??? success "Traveling Librarians"
     - **Zleceniodawca:** Garrick po przestudiowaniu księgi zakupionej od Archibalda w jarmarku e Nashkel
     - Księga wspomina o duchu barda Myr’Cutio i skarbach gdzieś w Ulcaster.
+    - Razem z Garrickiem odnajdujemy na wzgórzach Ulcaster i na życzenie kończymy jego i towarzyszącym mu zombie jestectwo
     <div id="q-75"></div>
 
 ??? warning "A Zhent Agent"
@@ -474,7 +500,7 @@
 
 ??? success "Joseph's Wife"
     - **Zleceniodawca:** Żona górnika w domu na zachodzie Nashkel
-    - Prosi o wieści o mężu, któy jest w kopalni, nosi nefrytowy pierścień.
+    - Prosi o wieści o mężu, który jest w kopalni, nosi on nefrytowy pierścień.
     - Ciało i pierścień Josepha znaleźliśmy przy wejściu na trzeci poziom kopalni Nashkel.
     - Oddaliśmy pierścień, młodej wdowie.
     <div id="q-72"></div>
@@ -583,7 +609,7 @@
     <div id="q-57"></div>
 
 ??? warning "Destroy the Cursed Bracers"
-    - **Zleceniodawca:** Melicamp po uratowaniu Melicampa.
+    - **Zleceniodawca:** Melicamp po jego uratowaniu.
     - Musimy zebrać kamienie szlachetne konieczne to znalezienia przeklętych naramienników.
     - Znaleźliśmy cyrkon, który powinien nadawać się do budowanego urządzenia.
     - Keldath w Pieśni Poranka sprzedał nam czarną perłę.
@@ -591,6 +617,10 @@
     - Thalantyr potwierdził, że przekazane kamienie nadają się do urządzenia namierzającego ale nad nim pracuja Taerom w Beregoście. Melicamp miał go przynieść ale jak zwykle pewnie w coś się uwikłał.
     - Taerom wysłał Melikampa po rudę do kopalni, która miała mu przekazać Grace.
     - Grace przed wejściem do kopalni wywiązała się z zadania ale młodemu magowi było za mało i udał się do wnętrza.
+    - Melikamp zebrał potrzebną ilość rudy ale oczywiście musieliśmy mu pomóc w rozwiązaniu kolejnegoi problemu związanego z jego nieudacznym korzystaniem z magii.
+    - Po rozwiązaniu problem wzieliśmy rudę i zanieśliśmy ją do Taeroma, ktory dwa dni póżniej miał juz gotowe urządzenie.
+    - Odebrawszy urządzenie udaliśmy sie do Taeroma, który wyśledził dzieki niemu poszukiwane naramienniki w Gullykin. Miała je nosić Iris Cotton.
+    - Iris zmieniła się w zwierzę (wiwewiórkę) podobnie jak Melikamp. Mąż nieszczęsnej ma ją zabrać do Thalantyra i my też powinniśmy tam się udać.
     <div id="q-56"></div>
 
 ??? success "Melicamp the Chicken"
@@ -634,6 +664,7 @@
 ??? warning "Phantom East of Beregost"
     - **Zleceniodawca:** Torgion w grobowcu w górach przy świątyni Lathandera.
     - W grobowcu przy wzgórzach koło świątyni Lathandera spotykamy Torqiona uwięzionego wraz z dwoma innymi duszami. Aby go uwolnić musimy znaleźć starożytny miecz należący kiedyś do łowczy wampirów.
+    - Zdobyliśmy interesujący mieć w Ulcaster, musimy sprawdzić, czy to ten o którym mówił Torqion?
     <div id="q-50"></div>
 
 ??? warning "Basilisk Pets"
@@ -917,6 +948,7 @@
 ??? warning "The Magnificent Karlini"
     - **Zleceniodawca:** Ygnatz w głownej izbie Pomocnej Dłoni.
     - Odnależć księgę zaklęć Karliniego w ruinach Szkoły Ulcastera.
+    - Udaję się nam ja odnależć w kazamatach Ulcaster.
     <div id="q-10"></div>
 
 ??? failure "Xzar and Montaron"
@@ -928,6 +960,7 @@
 ??? warning "Gorion's Dagger"
     - **Zleceniodawca:** Sztylet znaleziony przy ciele Goriona.
     - Ciekawe do kogo należał ten pięknie wygrawerowany sztylet z wygrawerowaną literą A.
+    - Elminster wzmocnił lub aktywował ukryte moce ostrza.
     <div id="q-8"></div>
 
 ??? success "Phlydia'a Book"
