@@ -248,7 +248,7 @@ W obu wielkich pawilonach <span class="mb">5</span><span class="mb">7</span> **J
 
 :material-paw: Bestiariusz: *druid Cienia, kobold komando, kobold znachor*
 
-## Świątynia Lathandera &nbsp;<span class="cb">86</span> { .divider }
+## Świątynia Lathandera &nbsp;<span class="cb">87</span> { .divider }
 
 ![Świątynia Lathandera](../maps/BG3400.webp){ .center-img width="40%" }
 

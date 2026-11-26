@@ -452,8 +452,50 @@
 |Jeneik|BG3900|:material-close-circle:|🪦 - kolejny idiota w czerwonym płaszczu|
 |Taneth|BG3900|:material-close-circle:|🪦 - kolejny idiota w czerwonym płaszczu|
 |Pelltar|BG3402|:material-check-circle:|co do Bone Hill ich przeniósł|
+|Zahrdahl|BH0116|:material-check-circle:|🪦 - co szpiegował dla księcia Kroten|
+|Falco|BH0115|:material-check-circle:|właściciel karczmy w Restenford|
+|Gap|BH0115|:material-check-circle:|pomocnik karczmarza Falco|
+|Gristla|BH0109|:material-check-circle:|uczeń Pelltara|
+|Fliban|BH0109|:material-check-circle:|uczeń Pelltara|
+|Abracus|BH0109|:material-check-circle:|uczeń Pelltara|
+|Smyth|BH0108|:material-check-circle:|płatnerz z Restenford|
+|Lazarus Librarus|BH0103|:material-check-circle:|magicznych rzeczy sprzedawca|
+|Grellus, baron|BH0505|:material-check-circle:|lord Restenford|
+|Gelpas, baron|BH0505|:material-check-circle:|kapitan straży w Restenford|
+|Andrella|BH0505|:material-check-circle:|chyba konkubina a nie córka lorda|
+|Amos|BH0200|:material-check-circle:|syn druida Almaxa|
+|Almax|BH0200|:material-check-circle:|druid z płaskowyża w pobliży farmy BillyBoba|
+|Felwin|BH0200|:material-check-circle:|żona Amosa|
+|Krellus|BH1100|:material-close-circle:|🪦 - zbyt optymistycznie patrzący w przyszłość ork|
+|Gorharg|BH1100|:material-close-circle:|🪦 - Krellusa zbir|
+|Zelmar|BH0107|:material-check-circle:|karczmasz z Zachodzniego Wiatru|
+|Haki|BH0107|:material-check-circle:|partner biznesowy Zelmara|
+|Fabio|BH0107|:material-check-circle:|bard z Restenford|
+|Yalta|BH0306|:material-check-circle:|kapłanka szukająca pomocy aby sprawdzić dlaczego gnolle są bardzo aktywne|
+|Qualton|BH0302|:material-check-circle:|kapłan Phaulkon|
+|Almon|BH0302|:material-check-circle:|kapłan Phaulkon|
+|Locinda|BH1400|:material-check-circle:|zagubiona w dziczy|
+|Martin|BH1400|:material-check-circle:|budowniczy kaplicy|
+|Volcifar|BH1400|:material-check-circle:|wałęsający się po lesie|
+|Tolvar|BH1400|:material-check-circle:|mag z niską samooceną|
+|Telvar|BH1003|:material-close-circle:|🪦 - mag z Kościanego Wzgórza|
+|Welcar|BH0100|:material-check-circle:|szafarz z Restenford|
+|Sirius|BH0125|:material-close-circle:|🪦 - złodziej i intrygant|
+|Pheldman|BH0102|:material-check-circle:|sklepikarz z Restenford|
+|Ravella|BH0102|:material-check-circle:|strażniczka miejska|
 
-
+Lendore - Restenford - Latarnia   - BH0125
+Lendore - Restenford - sklep Pheldmana   - BH0102
+Lendore - Restenford - świątynia Phalkon - BH0302
+Lendore - Restenford - dom Yalty - BH0306
+Lendore - Restenford - Zachodni Wiatr - BH0107
+Lendore - Łysa Góra - BH1100
+Lendore - farma BillyBoba - BH0200
+Lendore - Restenford - chateau - BH0505
+Lendore - Restenford - płatnerz - BH0108
+Lendore - Restenford - adeptorium Pelltara - BH0109
+Lendore - Restenford - karczma Falco - BH0115
+Lendore - Restenford - dom Zahrdahla - BH0116
 Ulcaster - komnaty pod Ulcatser - CM2681
 Ulcaster - komnaty pod Ulcatser - CM2680
 Ulcaster - leże Ssimkh - L#ULC3

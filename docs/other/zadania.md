@@ -130,7 +130,47 @@
 |Naronguth's Return|[Zobacz szczegóły](#q-126)|
 |Tomes of Magic|[Zobacz szczegóły](#q-127)|
 |Eight-Legged Misery|[Zobacz szczegóły](#q-128)|
+|Clear out Abandoned Guardhouse|[Zobacz szczegóły](#q-129)|
+|Sandrah's Heritage - The Second Child|[Zobacz szczegóły](#q-130)|
+|Bandits on Bald Hill|[Zobacz szczegóły](#q-131)|
+|Gnoll Attacks|[Zobacz szczegóły](#q-132)|
+|The Theft of the Warehouse|[Zobacz szczegóły](#q-133)|
 
+
+??? success "The Theft of the Warehouse"
+    - **Zleceniodawca:** Gelpas obwiniający nas za kradzież czarnej perły.
+    - Mamy sprawdzić kto stoi za kradzieżą i morderstwami.
+    - Znajdujemy wykradzione z magazynów dobra w kanałach pod starą częścią miasta.
+    - Nastepnie trop prowadzi nas do karczmy i sklepu magicnzego i wskazuje na latarnika.
+    - Wygląda na to, że latarnik zabił swojego pomagiera a razem z nim pomagał przygotować atak na Restenford.
+    - Udało się odzyskać wsyztskie skradzione rzeczy włącznie z czarną perłą.
+    <div id="q-133"></div>
+
+??? success "Gnoll Attacks"
+    - **Zleceniodawca:** Yalta w swoim domy przy wzgórzu świątynnym w Restenford.
+    - Gnolle z okolic stały się niezwykle aktywne. Mamy sprawdzić co jest tego powodem
+    - Wybijamy gnole w Trójszczycie.
+    - Informujemy Yaltę o wykonaniu zadania.
+    <div id="q-132"></div>
+
+??? success "Bandits on Bald Hill"
+    - **Zleceniodawca:** Sir BillyBob na swojej farmie w Restenford.
+    - Prosi o wybicie orczego pomiotu nękającego północny obszar wyspy.
+    - Czyścimy Łysą Górę z wszelkiego rodziaj orczego i nie orczego pomiotu i wracamy do BillyBoba z informacja o wykonanym zadnaiu.
+    <div id="q-131"></div>
+
+??? warning "Sandrah's Heritage - The Second Child"
+    - **Zleceniodawca:** Po wizji Leecha.
+    - W wizji Leech widzi rozmowe pomiędzy Sandrah a Elminsterem.
+    - Elminster wyznaje, że nienawidzi Bhaala za to ze odebrał mu żonę i matkę Sangrah - Khalindrę.
+    - Khalindra miała zrodzić dziecko Bhaala umierając podczas połogu.
+    <div id="q-130"></div>
+
+??? success "Clear out Abandoned Guardhouse"
+    - **Zleceniodawca:** Zahrdahl w swoim domu.
+    - Nękają go szczury, które prawdopodobnie lęgna się w opuszczonym budynku koszarów.
+    - Wykonujemy deratyzację i zamykamy temat.
+    <div id="q-129"></div>
 
 ??? success "Eight-Legged Misery"
     - **Zleceniodawca:** Czaya w kazamatach Ulcaster.
